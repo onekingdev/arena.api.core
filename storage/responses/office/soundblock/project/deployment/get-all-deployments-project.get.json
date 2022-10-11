@@ -1,0 +1,46 @@
+{
+    "data": [
+        {
+            "deployment_uuid": "59EE358A-063E-49DD-B584-4EC89F7E8FB6",
+            "deployment_status": {
+                "deployment_status": "Deployed",
+                "deployment_memo": "deployment_memo"
+            },
+            "distribution": "All Territory",
+            "stamp_created": 1584399955,
+            "stamp_created_by": {
+                "uuid": "027CC4FA-8A94-4ACE-932E-1C8222832941",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584399955,
+            "stamp_updated_by": {
+                "uuid": "027CC4FA-8A94-4ACE-932E-1C8222832941",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "platform": {
+                "data": {
+                    "platform_uuid": "B41E3A54-E9B5-4AAF-A412-9165C262D7A4",
+                    "platform_name": "Amazon",
+                    "stamp_created": 1584399955,
+                    "stamp_created_by": {
+                        "uuid": "027CC4FA-8A94-4ACE-932E-1C8222832941",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584399955,
+                    "stamp_updated_by": {
+                        "uuid": "027CC4FA-8A94-4ACE-932E-1C8222832941",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    }
+                }
+            }
+        }
+    ]
+}

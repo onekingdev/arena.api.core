@@ -1,0 +1,62 @@
+{
+    "data": {
+        "service_uuid": "D29B7782-1BC8-4950-B757-6B2388712214",
+        "service_name": "App-Soundblock",
+        "stamp_created": 1584499160,
+        "stamp_created_by": {
+            "uuid": "86D99096-E527-4153-9E14-4AF60451A498",
+            "name_first": "Samuel",
+            "name_middle": "",
+            "name_last": "White"
+        },
+        "stamp_updated": 1584612085,
+        "stamp_updated_by": {
+            "uuid": "C621B410-7011-4611-B8A3-46704EFA062B"
+        },
+        "user": {
+            "data": {
+                "user_uuid": "971269E3-EA93-4E58-B0F2-3191E3F9E5DB",
+                "name_first": "Yurii",
+                "name_middle": "",
+                "name_last": "Kosiak",
+                "stamp_created": 1584499160,
+                "stamp_created_by": {
+                    "uuid": "86D99096-E527-4153-9E14-4AF60451A498",
+                    "name_first": "Samuel",
+                    "name_middle": "",
+                    "name_last": "White"
+                },
+                "stamp_updated": 1584499160,
+                "stamp_updated_by": {
+                    "uuid": "86D99096-E527-4153-9E14-4AF60451A498",
+                    "name_first": "Samuel",
+                    "name_middle": "",
+                    "name_last": "White"
+                }
+            }
+        },
+        "plans": {
+            "data": {
+                "plan_uuid": "735EF55B-960F-493E-9089-AE86AB856E1D",
+                "ledger_uuid": "03EBCCDD-493A-4F7F-AD35-5FB367E7F837",
+                "plan_type": "Smart Block Storage",
+                "plan_cost": 24.99,
+                "plan_day": 17,
+                "stamp_created": 1584499162,
+                "stamp_created_by": {
+                    "uuid": "86D99096-E527-4153-9E14-4AF60451A498",
+                    "name_first": "Samuel",
+                    "name_middle": "",
+                    "name_last": "White"
+                },
+                "stamp_updated": 1584499162,
+                "stamp_updated_by": {
+                    "uuid": "86D99096-E527-4153-9E14-4AF60451A498",
+                    "name_first": "Samuel",
+                    "name_middle": "",
+                    "name_last": "White"
+                }
+            }
+        }
+    }
+}

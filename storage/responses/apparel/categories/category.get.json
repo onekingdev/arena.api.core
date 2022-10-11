@@ -1,0 +1,598 @@
+{
+    "products": [
+        {
+            "product_uuid": "735365be-cfaa-4849-ae53-671a62305d70",
+            "product_name": "Mens Cuff Pants - 5908",
+            "product_description": "Slim-Regular Fit - Cuffed Hem",
+            "stamp_created": 1584897899,
+            "stamp_created_at": "2020-03-22 17:24:59",
+            "stamp_created_by": 1,
+            "stamp_updated": 1584917903,
+            "stamp_updated_at": "2020-03-22 22:58:23",
+            "stamp_updated_by": 1,
+            "product_sizes": [
+                {
+                    "row_uuid": "2afc3a24-17bb-4fad-9511-dc9433794d38",
+                    "product_uuid": "735365be-cfaa-4849-ae53-671a62305d70",
+                    "size_name": "28",
+                    "stamp_created": 1584897913,
+                    "stamp_created_at": "2020-03-22 17:25:13",
+                    "stamp_created_by": 1,
+                    "stamp_updated": 1584897913,
+                    "stamp_updated_at": "2020-03-22 17:25:13",
+                    "stamp_updated_by": 1
+                },
+                {
+                    "row_uuid": "787b3f6e-3073-4040-815c-596132faac22",
+                    "product_uuid": "735365be-cfaa-4849-ae53-671a62305d70",
+                    "size_name": "30",
+                    "stamp_created": 1584897913,
+                    "stamp_created_at": "2020-03-22 17:25:13",
+                    "stamp_created_by": 1,
+                    "stamp_updated": 1584897913,
+                    "stamp_updated_at": "2020-03-22 17:25:13",
+                    "stamp_updated_by": 1
+                },
+                {
+                    "row_uuid": "81bdae31-7f32-495c-b23e-02ca5a2a719f",
+                    "product_uuid": "735365be-cfaa-4849-ae53-671a62305d70",
+                    "size_name": "32",
+                    "stamp_created": 1584897913,
+                    "stamp_created_at": "2020-03-22 17:25:13",
+                    "stamp_created_by": 1,
+                    "stamp_updated": 1584897913,
+                    "stamp_updated_at": "2020-03-22 17:25:13",
+                    "stamp_updated_by": 1
+                },
+                {
+                    "row_uuid": "b493e7cf-cab3-4f55-b2ae-e613215fc2a3",
+                    "product_uuid": "735365be-cfaa-4849-ae53-671a62305d70",
+                    "size_name": "34",
+                    "stamp_created": 1584897913,
+                    "stamp_created_at": "2020-03-22 17:25:13",
+                    "stamp_created_by": 1,
+                    "stamp_updated": 1584897913,
+                    "stamp_updated_at": "2020-03-22 17:25:13",
+                    "stamp_updated_by": 1
+                },
+                {
+                    "row_uuid": "337b0086-3e33-44ff-8e4f-c86ba75c151e",
+                    "product_uuid": "735365be-cfaa-4849-ae53-671a62305d70",
+                    "size_name": "36",
+                    "stamp_created": 1584897913,
+                    "stamp_created_at": "2020-03-22 17:25:13",
+                    "stamp_created_by": 1,
+                    "stamp_updated": 1584897913,
+                    "stamp_updated_at": "2020-03-22 17:25:13",
+                    "stamp_updated_by": 1
+                },
+                {
+                    "row_uuid": "bfa9f1bd-55cd-40b8-97a9-be1e73b723ba",
+                    "product_uuid": "735365be-cfaa-4849-ae53-671a62305d70",
+                    "size_name": "38",
+                    "stamp_created": 1584897913,
+                    "stamp_created_at": "2020-03-22 17:25:13",
+                    "stamp_created_by": 1,
+                    "stamp_updated": 1584897913,
+                    "stamp_updated_at": "2020-03-22 17:25:13",
+                    "stamp_updated_by": 1
+                },
+                {
+                    "row_uuid": "90cbde90-12cd-4c49-9e8c-ed69830677e6",
+                    "product_uuid": "735365be-cfaa-4849-ae53-671a62305d70",
+                    "size_name": "40",
+                    "stamp_created": 1584897913,
+                    "stamp_created_at": "2020-03-22 17:25:13",
+                    "stamp_created_by": 1,
+                    "stamp_updated": 1584897913,
+                    "stamp_updated_at": "2020-03-22 17:25:13",
+                    "stamp_updated_by": 1
+                }
+            ],
+            "prices": [
+                {
+                    "row_uuid": "0e80280f-32ab-4514-8305-95c127bf2807",
+                    "product_uuid": "735365be-cfaa-4849-ae53-671a62305d70",
+                    "product_price": 40,
+                    "product_price_range": "1-3",
+                    "stamp_created": 1584897913,
+                    "stamp_created_at": "2020-03-22 17:25:13",
+                    "stamp_created_by": 1,
+                    "stamp_updated": 1584897913,
+                    "stamp_updated_at": "2020-03-22 17:25:13",
+                    "stamp_updated_by": 1
+                },
+                {
+                    "row_uuid": "6016f6d9-5c99-4ecd-ad46-b22de38a031e",
+                    "product_uuid": "735365be-cfaa-4849-ae53-671a62305d70",
+                    "product_price": 30,
+                    "product_price_range": "4-9",
+                    "stamp_created": 1584897913,
+                    "stamp_created_at": "2020-03-22 17:25:13",
+                    "stamp_created_by": 1,
+                    "stamp_updated": 1584897913,
+                    "stamp_updated_at": "2020-03-22 17:25:13",
+                    "stamp_updated_by": 1
+                },
+                {
+                    "row_uuid": "525a034a-bac0-4135-8d64-d146521f349e",
+                    "product_uuid": "735365be-cfaa-4849-ae53-671a62305d70",
+                    "product_price": 27,
+                    "product_price_range": "10-49",
+                    "stamp_created": 1584897913,
+                    "stamp_created_at": "2020-03-22 17:25:13",
+                    "stamp_created_by": 1,
+                    "stamp_updated": 1584897913,
+                    "stamp_updated_at": "2020-03-22 17:25:13",
+                    "stamp_updated_by": 1
+                },
+                {
+                    "row_uuid": "2aee84ab-bd12-4fea-97e2-a55b843e9375",
+                    "product_uuid": "735365be-cfaa-4849-ae53-671a62305d70",
+                    "product_price": 24,
+                    "product_price_range": "50+",
+                    "stamp_created": 1584897913,
+                    "stamp_created_at": "2020-03-22 17:25:13",
+                    "stamp_created_by": 1,
+                    "stamp_updated": 1584897913,
+                    "stamp_updated_at": "2020-03-22 17:25:13",
+                    "stamp_updated_by": 1
+                }
+            ],
+            "product_style": [
+                {
+                    "row_uuid": "9c7ce31c-341b-4e44-b71a-0265d505273d",
+                    "product_uuid": "735365be-cfaa-4849-ae53-671a62305d70",
+                    "style_name": "khaki",
+                    "stamp_created": 1584897899,
+                    "stamp_created_at": "2020-03-22 17:24:59",
+                    "stamp_created_by": 1,
+                    "stamp_updated": 1584897906,
+                    "stamp_updated_at": "2020-03-22 17:25:06",
+                    "stamp_updated_by": 1,
+                    "image_uuid": "483fd2be-6306-472b-a92e-e22e134eae05",
+                    "thumbnail_uuid": "3058fc80-7d7d-42bf-a594-a51f81a679dd",
+                    "image": {
+                        "file_uuid": "483fd2be-6306-472b-a92e-e22e134eae05",
+                        "file_url": "https://www.ascolour.com/media/catalog/product/cache/3/small_image/460x460/040ec09b1e35df139433887a97daa66f/5/9/5908_cuff_pants_khaki_2.jpg",
+                        "file_name": "4a59172db0ed1cae3583d230077c1703.jpg",
+                        "file_type": "image",
+                        "stamp_created": 1584897906,
+                        "stamp_created_at": "2020-03-22 17:25:06",
+                        "stamp_created_by": 1,
+                        "stamp_updated": 1584897906,
+                        "stamp_updated_at": "2020-03-22 17:25:06",
+                        "stamp_updated_by": 1,
+                        "url": "http://test.arena.loc/images/products/1f479382249b7368156cfc3d6f61b5cc.jpg"
+                    },
+                    "thumbnail": {
+                        "file_uuid": "3058fc80-7d7d-42bf-a594-a51f81a679dd",
+                        "file_url": "https://www.ascolour.com/media/catalog/product/cache/3/image/60x60/040ec09b1e35df139433887a97daa66f/5/9/5908_cuff_pants_khaki_2.jpg",
+                        "file_name": "8301d3f292588ac98eb5f74519e819da.jpg",
+                        "file_type": "image",
+                        "stamp_created": 1584897906,
+                        "stamp_created_at": "2020-03-22 17:25:06",
+                        "stamp_created_by": 1,
+                        "stamp_updated": 1584897906,
+                        "stamp_updated_at": "2020-03-22 17:25:06",
+                        "stamp_updated_by": 1,
+                        "url": "http://test.arena.loc/images/products/1f479382249b7368156cfc3d6f61b5cc.jpg"
+                    }
+                },
+                {
+                    "row_uuid": "5942a126-040e-47c9-b74f-3b5e80acc674",
+                    "product_uuid": "735365be-cfaa-4849-ae53-671a62305d70",
+                    "style_name": "black",
+                    "stamp_created": 1584897906,
+                    "stamp_created_at": "2020-03-22 17:25:06",
+                    "stamp_created_by": 1,
+                    "stamp_updated": 1584897913,
+                    "stamp_updated_at": "2020-03-22 17:25:13",
+                    "stamp_updated_by": 1,
+                    "image_uuid": "f26c81bc-1c4f-43d3-b3b6-15bf2c973cf5",
+                    "thumbnail_uuid": "525c26b0-a407-413e-a9cd-3df979b7fa1e",
+                    "image": {
+                        "file_uuid": "f26c81bc-1c4f-43d3-b3b6-15bf2c973cf5",
+                        "file_url": "https://www.ascolour.com/media/catalog/product/cache/3/small_image/460x460/040ec09b1e35df139433887a97daa66f/5/9/5908_cuff_pants_black_1_1.jpg",
+                        "file_name": "145339c22e378f7d0ef88b82aea61ecc.jpg",
+                        "file_type": "image",
+                        "stamp_created": 1584897912,
+                        "stamp_created_at": "2020-03-22 17:25:12",
+                        "stamp_created_by": 1,
+                        "stamp_updated": 1584897912,
+                        "stamp_updated_at": "2020-03-22 17:25:12",
+                        "stamp_updated_by": 1,
+                        "url": "http://test.arena.loc/images/products/1f479382249b7368156cfc3d6f61b5cc.jpg"
+                    },
+                    "thumbnail": {
+                        "file_uuid": "525c26b0-a407-413e-a9cd-3df979b7fa1e",
+                        "file_url": "https://www.ascolour.com/media/catalog/product/cache/3/image/60x60/040ec09b1e35df139433887a97daa66f/5/9/5908_cuff_pants_black_1_1.jpg",
+                        "file_name": "863a86a20557922ae7ec5e973098764e.jpg",
+                        "file_type": "image",
+                        "stamp_created": 1584897913,
+                        "stamp_created_at": "2020-03-22 17:25:13",
+                        "stamp_created_by": 1,
+                        "stamp_updated": 1584897913,
+                        "stamp_updated_at": "2020-03-22 17:25:13",
+                        "stamp_updated_by": 1,
+                        "url": "http://test.arena.loc/images/products/1f479382249b7368156cfc3d6f61b5cc.jpg"
+                    }
+                }
+            ]
+        },
+        {
+            "product_uuid": "5d71a154-19b3-4a88-82be-bae46ef86905",
+            "product_name": "Mens Surplus Track Pants - 5917",
+            "product_description": "Regular Fit - Mid Weight",
+            "stamp_created": 1584897915,
+            "stamp_created_at": "2020-03-22 17:25:15",
+            "stamp_created_by": 1,
+            "stamp_updated": 1584906157,
+            "stamp_updated_at": "2020-03-22 19:42:37",
+            "stamp_updated_by": 1,
+            "product_sizes": [
+                {
+                    "row_uuid": "22d40af7-0bab-473a-b86b-df07b38993a8",
+                    "product_uuid": "5d71a154-19b3-4a88-82be-bae46ef86905",
+                    "size_name": "S",
+                    "stamp_created": 1584897947,
+                    "stamp_created_at": "2020-03-22 17:25:47",
+                    "stamp_created_by": 1,
+                    "stamp_updated": 1584897947,
+                    "stamp_updated_at": "2020-03-22 17:25:47",
+                    "stamp_updated_by": 1
+                },
+                {
+                    "row_uuid": "445082a1-b126-4a26-9320-c1d3b54f963f",
+                    "product_uuid": "5d71a154-19b3-4a88-82be-bae46ef86905",
+                    "size_name": "M",
+                    "stamp_created": 1584897947,
+                    "stamp_created_at": "2020-03-22 17:25:47",
+                    "stamp_created_by": 1,
+                    "stamp_updated": 1584897947,
+                    "stamp_updated_at": "2020-03-22 17:25:47",
+                    "stamp_updated_by": 1
+                },
+                {
+                    "row_uuid": "e2c3daae-5242-4400-9314-f984f759d857",
+                    "product_uuid": "5d71a154-19b3-4a88-82be-bae46ef86905",
+                    "size_name": "L",
+                    "stamp_created": 1584897947,
+                    "stamp_created_at": "2020-03-22 17:25:47",
+                    "stamp_created_by": 1,
+                    "stamp_updated": 1584897947,
+                    "stamp_updated_at": "2020-03-22 17:25:47",
+                    "stamp_updated_by": 1
+                },
+                {
+                    "row_uuid": "df70f011-404e-4375-897f-6dd088715f15",
+                    "product_uuid": "5d71a154-19b3-4a88-82be-bae46ef86905",
+                    "size_name": "XL",
+                    "stamp_created": 1584897947,
+                    "stamp_created_at": "2020-03-22 17:25:47",
+                    "stamp_created_by": 1,
+                    "stamp_updated": 1584897947,
+                    "stamp_updated_at": "2020-03-22 17:25:47",
+                    "stamp_updated_by": 1
+                },
+                {
+                    "row_uuid": "282d4ef4-102e-48df-9417-9a30fbfdaf9d",
+                    "product_uuid": "5d71a154-19b3-4a88-82be-bae46ef86905",
+                    "size_name": "2XL",
+                    "stamp_created": 1584897947,
+                    "stamp_created_at": "2020-03-22 17:25:47",
+                    "stamp_created_by": 1,
+                    "stamp_updated": 1584897947,
+                    "stamp_updated_at": "2020-03-22 17:25:47",
+                    "stamp_updated_by": 1
+                }
+            ],
+            "prices": [
+                {
+                    "row_uuid": "d598815c-40c5-4842-b116-74fa6b42d514",
+                    "product_uuid": "5d71a154-19b3-4a88-82be-bae46ef86905",
+                    "product_price": 35,
+                    "product_price_range": "1-3",
+                    "stamp_created": 1584897947,
+                    "stamp_created_at": "2020-03-22 17:25:47",
+                    "stamp_created_by": 1,
+                    "stamp_updated": 1584897947,
+                    "stamp_updated_at": "2020-03-22 17:25:47",
+                    "stamp_updated_by": 1
+                },
+                {
+                    "row_uuid": "d03faf91-45cb-4826-866d-b78e99b9ae03",
+                    "product_uuid": "5d71a154-19b3-4a88-82be-bae46ef86905",
+                    "product_price": 26.25,
+                    "product_price_range": "4-9",
+                    "stamp_created": 1584897947,
+                    "stamp_created_at": "2020-03-22 17:25:47",
+                    "stamp_created_by": 1,
+                    "stamp_updated": 1584897947,
+                    "stamp_updated_at": "2020-03-22 17:25:47",
+                    "stamp_updated_by": 1
+                },
+                {
+                    "row_uuid": "d19e6e79-2087-4e42-992e-ab3970dc7ca9",
+                    "product_uuid": "5d71a154-19b3-4a88-82be-bae46ef86905",
+                    "product_price": 23.63,
+                    "product_price_range": "10-49",
+                    "stamp_created": 1584897947,
+                    "stamp_created_at": "2020-03-22 17:25:47",
+                    "stamp_created_by": 1,
+                    "stamp_updated": 1584897947,
+                    "stamp_updated_at": "2020-03-22 17:25:47",
+                    "stamp_updated_by": 1
+                },
+                {
+                    "row_uuid": "ea34ffeb-4875-4af4-9c9c-8b08471537eb",
+                    "product_uuid": "5d71a154-19b3-4a88-82be-bae46ef86905",
+                    "product_price": 21,
+                    "product_price_range": "50+",
+                    "stamp_created": 1584897947,
+                    "stamp_created_at": "2020-03-22 17:25:47",
+                    "stamp_created_by": 1,
+                    "stamp_updated": 1584897947,
+                    "stamp_updated_at": "2020-03-22 17:25:47",
+                    "stamp_updated_by": 1
+                }
+            ],
+            "product_style": [
+                {
+                    "row_uuid": "178b6921-5012-4c5f-b5f1-2ab7bcf76f33",
+                    "product_uuid": "5d71a154-19b3-4a88-82be-bae46ef86905",
+                    "style_name": "white heather",
+                    "stamp_created": 1584897915,
+                    "stamp_created_at": "2020-03-22 17:25:15",
+                    "stamp_created_by": 1,
+                    "stamp_updated": 1584897923,
+                    "stamp_updated_at": "2020-03-22 17:25:23",
+                    "stamp_updated_by": 1,
+                    "image_uuid": "cb055952-802e-4a8e-a5b8-36e07bc63883",
+                    "thumbnail_uuid": "ad511242-2e46-4ee2-9aae-3e5319a36a18",
+                    "image": {
+                        "file_uuid": "cb055952-802e-4a8e-a5b8-36e07bc63883",
+                        "file_url": "https://www.ascolour.com/media/catalog/product/cache/3/small_image/460x460/040ec09b1e35df139433887a97daa66f/5/9/5917_surplus_trackpants_white_marle_1.jpg",
+                        "file_name": "7abbe6580d3efc73b257f1ecb1f1313c.jpg",
+                        "file_type": "image",
+                        "stamp_created": 1584897923,
+                        "stamp_created_at": "2020-03-22 17:25:23",
+                        "stamp_created_by": 1,
+                        "stamp_updated": 1584897923,
+                        "stamp_updated_at": "2020-03-22 17:25:23",
+                        "stamp_updated_by": 1,
+                        "url": "http://test.arena.loc/images/products/1f479382249b7368156cfc3d6f61b5cc.jpg"
+                    },
+                    "thumbnail": {
+                        "file_uuid": "ad511242-2e46-4ee2-9aae-3e5319a36a18",
+                        "file_url": "https://www.ascolour.com/media/catalog/product/cache/3/image/60x60/040ec09b1e35df139433887a97daa66f/5/9/5917_surplus_trackpants_white_marle_1.jpg",
+                        "file_name": "4026f36d0a0d46151c46ab6d579e3b79.jpg",
+                        "file_type": "image",
+                        "stamp_created": 1584897923,
+                        "stamp_created_at": "2020-03-22 17:25:23",
+                        "stamp_created_by": 1,
+                        "stamp_updated": 1584897923,
+                        "stamp_updated_at": "2020-03-22 17:25:23",
+                        "stamp_updated_by": 1,
+                        "url": "http://test.arena.loc/images/products/1f479382249b7368156cfc3d6f61b5cc.jpg"
+                    }
+                },
+                {
+                    "row_uuid": "01a39d22-29f3-491b-9d1d-c2840e74649a",
+                    "product_uuid": "5d71a154-19b3-4a88-82be-bae46ef86905",
+                    "style_name": "navy",
+                    "stamp_created": 1584897923,
+                    "stamp_created_at": "2020-03-22 17:25:23",
+                    "stamp_created_by": 1,
+                    "stamp_updated": 1584897929,
+                    "stamp_updated_at": "2020-03-22 17:25:29",
+                    "stamp_updated_by": 1,
+                    "image_uuid": "f002913d-e7e6-4d70-b53b-1bc911cde1ae",
+                    "thumbnail_uuid": "1b653694-397e-4c2f-89c7-62d83edebeaa",
+                    "image": {
+                        "file_uuid": "f002913d-e7e6-4d70-b53b-1bc911cde1ae",
+                        "file_url": "https://www.ascolour.com/media/catalog/product/cache/3/small_image/460x460/040ec09b1e35df139433887a97daa66f/5/9/5917_surplus_track_pants_navy.jpg",
+                        "file_name": "a4c1edd50d82acdcdb596390b5258d52.jpg",
+                        "file_type": "image",
+                        "stamp_created": 1584897929,
+                        "stamp_created_at": "2020-03-22 17:25:29",
+                        "stamp_created_by": 1,
+                        "stamp_updated": 1584897929,
+                        "stamp_updated_at": "2020-03-22 17:25:29",
+                        "stamp_updated_by": 1,
+                        "url": "http://test.arena.loc/images/products/1f479382249b7368156cfc3d6f61b5cc.jpg"
+                    },
+                    "thumbnail": {
+                        "file_uuid": "1b653694-397e-4c2f-89c7-62d83edebeaa",
+                        "file_url": "https://www.ascolour.com/media/catalog/product/cache/3/image/60x60/040ec09b1e35df139433887a97daa66f/5/9/5917_surplus_track_pants_navy.jpg",
+                        "file_name": "bf20e341eb9395ffb922cbd29702cc75.jpg",
+                        "file_type": "image",
+                        "stamp_created": 1584897929,
+                        "stamp_created_at": "2020-03-22 17:25:29",
+                        "stamp_created_by": 1,
+                        "stamp_updated": 1584897929,
+                        "stamp_updated_at": "2020-03-22 17:25:29",
+                        "stamp_updated_by": 1,
+                        "url": "http://test.arena.loc/images/products/1f479382249b7368156cfc3d6f61b5cc.jpg"
+                    }
+                },
+                {
+                    "row_uuid": "2b0946c7-2e04-48d9-80df-9d968ae16d4c",
+                    "product_uuid": "5d71a154-19b3-4a88-82be-bae46ef86905",
+                    "style_name": "athletic heather",
+                    "stamp_created": 1584897929,
+                    "stamp_created_at": "2020-03-22 17:25:29",
+                    "stamp_created_by": 1,
+                    "stamp_updated": 1584897940,
+                    "stamp_updated_at": "2020-03-22 17:25:40",
+                    "stamp_updated_by": 1,
+                    "image_uuid": "08d66a46-eecf-4526-92db-c8d630c00595",
+                    "thumbnail_uuid": "75570934-7188-44d8-8391-b1cffa6aae9b",
+                    "image": {
+                        "file_uuid": "08d66a46-eecf-4526-92db-c8d630c00595",
+                        "file_url": "https://www.ascolour.com/media/catalog/product/cache/3/small_image/460x460/040ec09b1e35df139433887a97daa66f/5/9/5917_surplus_track_pants_grey_marle.jpg",
+                        "file_name": "a87439d17fda771433c4ef9b1c07a97f.jpg",
+                        "file_type": "image",
+                        "stamp_created": 1584897940,
+                        "stamp_created_at": "2020-03-22 17:25:40",
+                        "stamp_created_by": 1,
+                        "stamp_updated": 1584897940,
+                        "stamp_updated_at": "2020-03-22 17:25:40",
+                        "stamp_updated_by": 1,
+                        "url": "http://test.arena.loc/images/products/1f479382249b7368156cfc3d6f61b5cc.jpg"
+                    },
+                    "thumbnail": {
+                        "file_uuid": "75570934-7188-44d8-8391-b1cffa6aae9b",
+                        "file_url": "https://www.ascolour.com/media/catalog/product/cache/3/image/60x60/040ec09b1e35df139433887a97daa66f/5/9/5917_surplus_track_pants_grey_marle.jpg",
+                        "file_name": "439dd612a64d0b4e3a41a263a476ea33.jpg",
+                        "file_type": "image",
+                        "stamp_created": 1584897940,
+                        "stamp_created_at": "2020-03-22 17:25:40",
+                        "stamp_created_by": 1,
+                        "stamp_updated": 1584897940,
+                        "stamp_updated_at": "2020-03-22 17:25:40",
+                        "stamp_updated_by": 1,
+                        "url": "http://test.arena.loc/images/products/1f479382249b7368156cfc3d6f61b5cc.jpg"
+                    }
+                },
+                {
+                    "row_uuid": "2e921cd7-b2d6-4db3-a352-e445f74eb7e1",
+                    "product_uuid": "5d71a154-19b3-4a88-82be-bae46ef86905",
+                    "style_name": "black",
+                    "stamp_created": 1584897940,
+                    "stamp_created_at": "2020-03-22 17:25:40",
+                    "stamp_created_by": 1,
+                    "stamp_updated": 1584897947,
+                    "stamp_updated_at": "2020-03-22 17:25:47",
+                    "stamp_updated_by": 1,
+                    "image_uuid": "f4b18d12-459a-4f84-aa67-75056a5a0ec4",
+                    "thumbnail_uuid": "4df165d9-bb05-4bf4-9105-c56751696c2f",
+                    "image": {
+                        "file_uuid": "f4b18d12-459a-4f84-aa67-75056a5a0ec4",
+                        "file_url": "https://www.ascolour.com/media/catalog/product/cache/3/small_image/460x460/040ec09b1e35df139433887a97daa66f/5/9/5917_surplus_track_pants_black.jpg",
+                        "file_name": "6dc2a246a718032e6bbe97067af1437c.jpg",
+                        "file_type": "image",
+                        "stamp_created": 1584897947,
+                        "stamp_created_at": "2020-03-22 17:25:47",
+                        "stamp_created_by": 1,
+                        "stamp_updated": 1584897947,
+                        "stamp_updated_at": "2020-03-22 17:25:47",
+                        "stamp_updated_by": 1,
+                        "url": "http://test.arena.loc/images/products/1f479382249b7368156cfc3d6f61b5cc.jpg"
+                    },
+                    "thumbnail": {
+                        "file_uuid": "4df165d9-bb05-4bf4-9105-c56751696c2f",
+                        "file_url": "https://www.ascolour.com/media/catalog/product/cache/3/image/60x60/040ec09b1e35df139433887a97daa66f/5/9/5917_surplus_track_pants_black.jpg",
+                        "file_name": "b01199f80c45cb157f5382f8bb3435ee.jpg",
+                        "file_type": "image",
+                        "stamp_created": 1584897947,
+                        "stamp_created_at": "2020-03-22 17:25:47",
+                        "stamp_created_by": 1,
+                        "stamp_updated": 1584897947,
+                        "stamp_updated_at": "2020-03-22 17:25:47",
+                        "stamp_updated_by": 1,
+                        "url": "http://test.arena.loc/images/products/1f479382249b7368156cfc3d6f61b5cc.jpg"
+                    }
+                }
+            ]
+        }
+    ],
+    "filters": {
+        "style": [
+            {
+                "attribute_uuid": "d2693b10-742b-464a-853d-f29daa7f6aef",
+                "attribute_name": "Active/Fitness ",
+                "stamp_created_at": "2020-03-22 17:17:22",
+                "stamp_created": 1584897442,
+                "stamp_created_by": 1,
+                "stamp_updated_at": "2020-03-23 18:17:22",
+                "stamp_updated": 1584987442,
+                "stamp_updated_by": 1,
+                "attribute_type": "style"
+            },
+            {
+                "attribute_uuid": "e8604410-870a-4774-89ec-844cfc079cac",
+                "attribute_name": "Cap / Hat ",
+                "stamp_created_at": "2020-03-22 17:18:02",
+                "stamp_created": 1584897482,
+                "stamp_created_by": 1,
+                "stamp_updated_at": "2020-03-23 18:17:22",
+                "stamp_updated": 1584987442,
+                "stamp_updated_by": 1,
+                "attribute_type": "style"
+            }
+        ],
+        "weight": [
+            {
+                "attribute_uuid": "fb15399a-2630-4289-8619-57a2b19dac27",
+                "attribute_name": "Light ",
+                "stamp_created_at": "2020-03-22 18:16:52",
+                "stamp_created": 1584901012,
+                "stamp_created_by": 1,
+                "stamp_updated_at": "2020-03-23 18:17:22",
+                "stamp_updated": 1584987442,
+                "stamp_updated_by": 1,
+                "attribute_type": "weight"
+            },
+            {
+                "attribute_uuid": "5d3efda4-459a-4ad2-b3d9-dd3ddc1f855a",
+                "attribute_name": "Mid ",
+                "stamp_created_at": "2020-03-22 18:17:38",
+                "stamp_created": 1584901058,
+                "stamp_created_by": 1,
+                "stamp_updated_at": "2020-03-23 18:17:22",
+                "stamp_updated": 1584987442,
+                "stamp_updated_by": 1,
+                "attribute_type": "weight"
+            }
+        ],
+        "fit": [
+            {
+                "attribute_uuid": "131fd310-6b0f-4158-bb0a-2ae3938a3378",
+                "attribute_name": "Slim ",
+                "stamp_created_at": "2020-03-22 18:20:57",
+                "stamp_created": 1584901257,
+                "stamp_created_by": 1,
+                "stamp_updated_at": "2020-03-23 18:17:22",
+                "stamp_updated": 1584987442,
+                "stamp_updated_by": 1,
+                "attribute_type": "fit"
+            },
+            {
+                "attribute_uuid": "16dd2364-658c-4bbe-94df-c87f91076236",
+                "attribute_name": "Regular ",
+                "stamp_created_at": "2020-03-22 18:21:34",
+                "stamp_created": 1584901294,
+                "stamp_created_by": 1,
+                "stamp_updated_at": "2020-03-23 18:17:22",
+                "stamp_updated": 1584987442,
+                "stamp_updated_by": 1,
+                "attribute_type": "fit"
+            }
+        ],
+        "color": [
+            {
+                "attribute_uuid": "aca3efda-823f-4389-847f-8e99a259e98b",
+                "attribute_name": "White",
+                "stamp_created_at": "2020-03-22 22:19:06",
+                "stamp_created": 1584915546,
+                "stamp_created_by": 1,
+                "stamp_updated_at": "2020-03-23 18:17:22",
+                "stamp_updated": 1584987442,
+                "stamp_updated_by": 1,
+                "attribute_type": "color"
+            },
+            {
+                "attribute_uuid": "dfae4a11-7167-49a8-a02d-a8d5d10b57a7",
+                "attribute_name": "Cream",
+                "stamp_created_at": "2020-03-22 22:21:55",
+                "stamp_created": 1584915715,
+                "stamp_created_by": 1,
+                "stamp_updated_at": "2020-03-23 18:17:22",
+                "stamp_updated": 1584987442,
+                "stamp_updated_by": 1,
+                "attribute_type": "color"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "data": {
+        "deployment_uuid": "4D0C9F52-8228-464C-A102-96552475C884",
+        "deployment_status": {
+            "deployment_status": "Deployed",
+            "deployment_memo": "Deployed( 4D0C9F52-8228-464C-A102-96552475C884 )"
+        },
+        "distribution": "All Territory",
+        "stamp_created": 1584399955,
+        "stamp_created_by": {
+            "uuid": "027CC4FA-8A94-4ACE-932E-1C8222832941",
+            "name_first": "Samuel",
+            "name_middle": "",
+            "name_last": "White"
+        },
+        "stamp_updated": 1584406401,
+        "stamp_updated_by": {
+            "uuid": "027CC4FA-8A94-4ACE-932E-1C8222832941",
+            "name_first": "Samuel",
+            "name_middle": "",
+            "name_last": "White"
+        }
+    }
+}

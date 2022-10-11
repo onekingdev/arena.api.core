@@ -1,0 +1,187 @@
+{
+    "data": [
+        {
+            "group_uuid": "CE7B25FD-3C85-4814-832F-C80BE34EA8F9",
+            "auth_uuid": "4AE6B965-138C-447D-95E4-F2A2B0D547FB",
+            "group_name": "App.Apparel.Admin",
+            "group_memo": "Arena Apparel Administrator",
+            "stamp_created": 1584835699,
+            "stamp_created_by": {
+                "uuid": "30F4C991-9FF5-47DF-A1BB-ACF5A10901DE",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584835699,
+            "stamp_updated_by": {
+                "uuid": "C621B410-7011-4611-B8A3-46704EFA062B"
+            }
+        },
+        {
+            "group_uuid": "09690553-A3EA-412D-8A9B-F6362B896495",
+            "auth_uuid": "CB519A51-F39F-4290-89F0-55CF6E16D030",
+            "group_name": "App.Areana.Admin",
+            "group_memo": "Arena: Administrator",
+            "stamp_created": 1584835699,
+            "stamp_created_by": {
+                "uuid": "30F4C991-9FF5-47DF-A1BB-ACF5A10901DE",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584835699,
+            "stamp_updated_by": {
+                "uuid": "C621B410-7011-4611-B8A3-46704EFA062B"
+            }
+        },
+        {
+            "group_uuid": "32AD864C-21BA-4282-BB0B-57813BA32A23",
+            "auth_uuid": "C5EE9C06-5D0D-416E-B1F5-F2E813C1DD1B",
+            "group_name": "App.Catalog.Admin",
+            "group_memo": "Arena Catalog: Administrator",
+            "stamp_created": 1584835699,
+            "stamp_created_by": {
+                "uuid": "30F4C991-9FF5-47DF-A1BB-ACF5A10901DE",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584835699,
+            "stamp_updated_by": {
+                "uuid": "C621B410-7011-4611-B8A3-46704EFA062B"
+            }
+        },
+        {
+            "group_uuid": "A381487B-8F36-4630-B9DE-6F3E6E84BC87",
+            "auth_uuid": "A7AD4F82-A393-453A-B91E-11B3083F7768",
+            "group_name": "App.IO.Admin",
+            "group_memo": "Arena IO: Administrator",
+            "stamp_created": 1584835699,
+            "stamp_created_by": {
+                "uuid": "30F4C991-9FF5-47DF-A1BB-ACF5A10901DE",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584835699,
+            "stamp_updated_by": {
+                "uuid": "C621B410-7011-4611-B8A3-46704EFA062B"
+            }
+        },
+        {
+            "group_uuid": "70847B52-33C7-4475-BE8F-FEA7D0FD8787",
+            "auth_uuid": "DEE7F17F-EE04-461F-97E7-420AEACD001F",
+            "group_name": "App.Merchandising.Admin",
+            "group_memo": "Arena Merchandising: Administrator",
+            "stamp_created": 1584835699,
+            "stamp_created_by": {
+                "uuid": "30F4C991-9FF5-47DF-A1BB-ACF5A10901DE",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584835699,
+            "stamp_updated_by": {
+                "uuid": "C621B410-7011-4611-B8A3-46704EFA062B"
+            }
+        },
+        {
+            "group_uuid": "A8FD7540-DAB4-466C-858C-6970DE6EA445",
+            "auth_uuid": "DEC846A5-6910-478A-99A2-BA25FAFC0A39",
+            "group_name": "App.Music.Admin",
+            "group_memo": "Arena Music: Administrator",
+            "stamp_created": 1584835699,
+            "stamp_created_by": {
+                "uuid": "30F4C991-9FF5-47DF-A1BB-ACF5A10901DE",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584835699,
+            "stamp_updated_by": {
+                "uuid": "C621B410-7011-4611-B8A3-46704EFA062B"
+            }
+        },
+        {
+            "group_uuid": "D66411DD-D618-4C85-A51F-8BC058E37F21",
+            "auth_uuid": "BE376624-68E8-482F-8B8F-64D3ECBB1EC6",
+            "group_name": "App.Office.Admin",
+            "group_memo": "Arena Office: Administrators",
+            "stamp_created": 1584835699,
+            "stamp_created_by": {
+                "uuid": "30F4C991-9FF5-47DF-A1BB-ACF5A10901DE",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584835699,
+            "stamp_updated_by": {
+                "uuid": "C621B410-7011-4611-B8A3-46704EFA062B"
+            }
+        },
+        {
+            "group_uuid": "6DA72221-B340-4561-841E-3E8618C2DA8A",
+            "auth_uuid": "232AAB1D-89BA-41B4-AF30-C0666EC5AD57",
+            "group_name": "App.Soundblock.Admin",
+            "group_memo": "Arena Soundblock: Administrator",
+            "stamp_created": 1584835699,
+            "stamp_created_by": {
+                "uuid": "30F4C991-9FF5-47DF-A1BB-ACF5A10901DE",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584835699,
+            "stamp_updated_by": {
+                "uuid": "C621B410-7011-4611-B8A3-46704EFA062B"
+            }
+        },
+        {
+            "group_uuid": "01F1D7D5-1E1D-4091-99D3-589370CCA002",
+            "auth_uuid": "232AAB1D-89BA-41B4-AF30-C0666EC5AD57",
+            "group_name": "App.Soundblock.Service.3BB0BE10-7BE9-4D2D-953E-C495FFDDFAD3",
+            "group_memo": "Soundblock:Service Plan:Service Name 1",
+            "stamp_created": 1584835699,
+            "stamp_created_by": {
+                "uuid": "30F4C991-9FF5-47DF-A1BB-ACF5A10901DE",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584835699,
+            "stamp_updated_by": {
+                "uuid": "C621B410-7011-4611-B8A3-46704EFA062B"
+            }
+        },
+        {
+            "group_uuid": "BB8E82A7-9FCD-4049-9CFD-30CCB97C3163",
+            "auth_uuid": "232AAB1D-89BA-41B4-AF30-C0666EC5AD57",
+            "group_name": "App.Soundblock.Service.7899D059-B942-4FCE-BF9C-24D70F91CA45",
+            "group_memo": "Soundblock:Service Plan:Service Name 2",
+            "stamp_created": 1584835699,
+            "stamp_created_by": {
+                "uuid": "30F4C991-9FF5-47DF-A1BB-ACF5A10901DE",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584835699,
+            "stamp_updated_by": {
+                "uuid": "C621B410-7011-4611-B8A3-46704EFA062B"
+            }
+        }
+    ],
+    "meta": {
+        "pages": {
+            "total": 21,
+            "count": 10,
+            "per_page": 10,
+            "current_page": 1,
+            "total_pages": 3,
+            "links": {
+                "next": "http://localhost:8000/auth/access/groups?page=2"
+            },
+            "from": 1
+        }
+    }
+}

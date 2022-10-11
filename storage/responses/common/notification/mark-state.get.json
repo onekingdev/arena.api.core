@@ -1,0 +1,17 @@
+{
+    "data": {
+        "notification_uuid": "EDD44695-75D4-411B-A167-FF9BA6FE033A",
+        "notification_name": "Notification Name 1",
+        "notification_memo": "Notification Memo 1",
+        "notification_action": "Notification Actions 1",
+        "notification_detail": {
+            "notification_state": "read",
+            "flag_canarchive": 0,
+            "flag_candelete": 0
+        },
+        "stamp_created": 1583178637,
+        "stamp_created_by": "D4A293C4-4CBE-4DE5-B493-FBC22C0D9B89",
+        "stamp_updated": 1583178637,
+        "stamp_updated_by": "D4A293C4-4CBE-4DE5-B493-FBC22C0D9B89"
+    }
+}

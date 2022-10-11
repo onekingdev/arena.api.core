@@ -1,0 +1,170 @@
+{
+    "data": [
+        {
+            "user_uuid": "4C65EAF6-C448-43AA-B3A2-F986C2512935",
+            "aliases": {
+                "data": [
+                    {
+                        "alias_uuid": "80B1BEDE-DE31-4BD0-A65D-FB627B78446A",
+                        "user_alias": "arescode"
+                    },
+                    {
+                        "alias_uuid": "DE0F8AC9-2727-4D8B-9CBA-1CCE2939B3AB",
+                        "user_alias": "enetwizard"
+                    },
+                    {
+                        "alias_uuid": "B2A35458-0D7A-4C33-A07B-EF2FD4B89160",
+                        "user_alias": "rswfire"
+                    },
+                    {
+                        "alias_uuid": "2EBAAAFC-AE46-4631-9415-3013F6911373",
+                        "user_alias": "samuel"
+                    },
+                    {
+                        "alias_uuid": "306FB6BF-9CE6-4643-BCDD-1CB19A742A8F",
+                        "user_alias": "swhite"
+                    }
+                ]
+            },
+            "emails": {
+                "data": [
+                    {
+                        "user_auth_email": "swhite@arena.com",
+                        "stamp_email": 1582325130,
+                        "stamp_email_at": "2020-02-21 22:45:30"
+                    }
+                ]
+            },
+            "avatar": {
+                "data": {
+                    "avatar_uuid": "B0603FBC-C265-4BF9-8DA7-4718FF7F07C5"
+                }
+            }
+        },
+        {
+            "user_uuid": "CFCD5CA6-EC3B-415E-B699-0BC32FCC83B8",
+            "aliases": {
+                "data": [
+                    {
+                        "alias_uuid": "B7AC0267-115D-4753-9C6E-583ACC8100E8",
+                        "user_alias": "yura"
+                    },
+                    {
+                        "alias_uuid": "6DE6A81A-B989-47E8-9342-A8A0CD51CCEA",
+                        "user_alias": "ykosiak"
+                    },
+                    {
+                        "alias_uuid": "987CA83F-20F2-4760-92DC-697D32C7DA8F",
+                        "user_alias": "yurii"
+                    }
+                ]
+            },
+            "emails": {
+                "data": [
+                    {
+                        "user_auth_email": "ykosiak@arena.com",
+                        "stamp_email": 1582325130,
+                        "stamp_email_at": "2020-02-21 22:45:30"
+                    }
+                ]
+            },
+            "avatar": {
+                "data": {
+                    "avatar_uuid": "A0DF4089-1E98-4437-BE5F-0B0378766AD0"
+                }
+            }
+        },
+        {
+            "user_uuid": "CBB3B4BD-0EA7-4E60-8FF4-030529B4011A",
+            "aliases": {
+                "data": [
+                    {
+                        "alias_uuid": "CFE0A4F8-2A22-4591-86CF-BF07C61AEA0B",
+                        "user_alias": "jin"
+                    },
+                    {
+                        "alias_uuid": "3EB80A74-54CA-4CC4-8647-F92AFDFD143F",
+                        "user_alias": "jtai"
+                    },
+                    {
+                        "alias_uuid": "66D848BF-003A-461B-991C-AA2B0089A99E",
+                        "user_alias": "Jintai"
+                    }
+                ]
+            },
+            "emails": {
+                "data": [
+                    {
+                        "user_auth_email": "jintai@arena.com",
+                        "stamp_email": 1582325130,
+                        "stamp_email_at": "2020-02-21 22:45:30"
+                    }
+                ]
+            },
+            "avatar": {
+                "data": {
+                    "avatar_uuid": "BEA1D216-545D-4F30-B581-56728AECF5D5"
+                }
+            }
+        },
+        {
+            "user_uuid": "978C326A-6798-41FA-B816-50752A732AA7",
+            "aliases": {
+                "data": [
+                    {
+                        "alias_uuid": "7E1C729A-9788-4FD3-8908-6158F6D7160C",
+                        "user_alias": "ljankovic"
+                    },
+                    {
+                        "alias_uuid": "CB0DF319-9DB9-4189-BBE5-1D5EC974BDB7",
+                        "user_alias": "Lazar"
+                    }
+                ]
+            },
+            "emails": {
+                "data": [
+                    {
+                        "user_auth_email": "lazar@arena.com",
+                        "stamp_email": 1582325130,
+                        "stamp_email_at": "2020-02-21 22:45:30"
+                    }
+                ]
+            }
+        },
+        {
+            "user_uuid": "36DAB394-2BE0-4664-B995-1E5E65DABF12",
+            "aliases": {
+                "data": [
+                    {
+                        "alias_uuid": "38182DC2-B330-4626-964E-4A3C07F00DD0",
+                        "user_alias": "devans"
+                    },
+                    {
+                        "alias_uuid": "A6EC56CC-D344-41D2-A367-2742132C4B44",
+                        "user_alias": "Damon"
+                    }
+                ]
+            },
+            "emails": {
+                "data": [
+                    {
+                        "user_auth_email": "devans@arena.com",
+                        "stamp_email": 1582325130,
+                        "stamp_email_at": "2020-02-21 22:45:30"
+                    }
+                ]
+            }
+        }
+    ],
+    "meta": {
+        "pages": {
+            "total": 5,
+            "count": 5,
+            "per_page": 10,
+            "current_page": 1,
+            "total_pages": 1,
+            "links": [],
+            "from": 1
+        }
+    }
+}

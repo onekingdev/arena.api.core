@@ -1,0 +1,78 @@
+{
+    "data": [
+        {
+            "project_uuid": "E791A9D6-11AA-4129-8EAC-45A1F0D9422A",
+            "project_title": "All Mirrors",
+            "project_avatar": "http://test.api.arena.com/storage/default/artwork.png",
+            "project_type": "EP",
+            "project_date": "2020-03-14",
+            "project_upc": "615372079X",
+            "stamp_created": 1584179855,
+            "stamp_created_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584179855,
+            "stamp_updated_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "service": {
+                "data": {
+                    "service_uuid": "F180F725-7D8A-45D4-9B4D-0FF8630666E4",
+                    "service_name": "Service Name 4",
+                    "stamp_created": 1584179854,
+                    "stamp_created_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584179854,
+                    "stamp_updated_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    }
+                }
+            },
+            "collections": {
+                "data": {
+                    "collection_uuid": "943926A2-5C95-4F80-8F58-4DE4D5191B8F",
+                    "project_uuid": "E791A9D6-11AA-4129-8EAC-45A1F0D9422A",
+                    "collection_comment": "Candida Kuhic",
+                    "stamp_created": 1584179856,
+                    "stamp_created_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584179856,
+                    "stamp_updated_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    }
+                }
+            }
+        }
+    ],
+    "meta": {
+        "pages": {
+            "total": 1,
+            "count": 1,
+            "per_page": 10,
+            "current_page": 1,
+            "total_pages": 1,
+            "links": [],
+            "from": 1
+        }
+    }
+}

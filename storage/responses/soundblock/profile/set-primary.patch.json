@@ -1,0 +1,22 @@
+{
+    "data": {
+        "bank_uuid": "073EEAE1-5057-4DC4-A8C7-7B1657E91578",
+        "bank_name": "China People Bank",
+        "account_type": "Checking",
+        "account_number": "123456",
+        "routing_number": "123456",
+        "flag_primary": true,
+        "stamp_created": {
+            "uuid": "28F0270E-9906-4712-90F2-1236CEFA2958",
+            "name_first": "Jin",
+            "name_middle": "",
+            "name_last": "Tai"
+        },
+        "stamp_updated": {
+            "uuid": "28F0270E-9906-4712-90F2-1236CEFA2958",
+            "name_first": "Jin",
+            "name_middle": "",
+            "name_last": "Tai"
+        }
+    }
+}

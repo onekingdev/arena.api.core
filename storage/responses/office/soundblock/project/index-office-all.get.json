@@ -1,0 +1,130 @@
+{
+    "data": [
+        {
+            "project_uuid": "B72D561E-BCB5-4BA7-9074-68D70E495DAF",
+            "project_title": "awesome project1",
+            "project_album_file": null,
+            "project_type": 0,
+            "project_date": "2020-02-22",
+            "deployments": {
+                "data": [
+                    {
+                        "deployment_uuid": "1C692A47-8814-48E0-BD7A-9465EC51721F",
+                        "deployment_status": {
+                            "deployment_status": "pending",
+                            "deployment_memo": "deployment_memo"
+                        },
+                        "stamp_created_at": "2020-02-22T19:20:40.000000Z",
+                        "stamp_updated_at": "2020-02-22T19:20:40.000000Z",
+                        "platform": {
+                            "data": {
+                                "platform_uuid": "E50B961D-A475-488A-9883-08503D6E3A5A",
+                                "platform_name": "Apple Music"
+                            }
+                        }
+                    },
+                    {
+                        "deployment_uuid": "5308A63E-883F-42CC-A571-B6A9CEACCAB1",
+                        "deployment_status": {
+                            "deployment_status": "deployed",
+                            "deployment_memo": "deployment_memo"
+                        },
+                        "stamp_created_at": "2020-02-22T19:20:40.000000Z",
+                        "stamp_updated_at": "2020-02-22T19:20:40.000000Z",
+                        "platform": {
+                            "data": {
+                                "platform_uuid": "1B2F0097-68D8-4E9A-9E1D-E7B9809BC914",
+                                "platform_name": "Spotify"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "project_uuid": "8419C01B-FA92-4C55-BA1B-84B6AFC19B1E",
+            "project_title": "awesome project2",
+            "project_album_file": null,
+            "project_type": 1,
+            "project_date": "2020-02-22",
+            "deployments": {
+                "data": [
+                    {
+                        "deployment_uuid": "B7AB1CFB-C98B-45AE-B6F9-3FBCFA601B83",
+                        "deployment_status": {
+                            "deployment_status": "pending",
+                            "deployment_memo": "deployment_memo"
+                        },
+                        "stamp_created_at": "2020-02-22T19:20:40.000000Z",
+                        "stamp_updated_at": "2020-02-22T19:20:40.000000Z",
+                        "platform": {
+                            "data": {
+                                "platform_uuid": "3768E53F-638B-4AF6-8CC4-1625803DE58A",
+                                "platform_name": "Pandora"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "project_uuid": "6C6F041C-6B84-439E-8076-07DF4762526A",
+            "project_title": "awesome project3",
+            "project_album_file": null,
+            "project_type": 2,
+            "project_date": "2020-02-22",
+            "deployments": {
+                "data": [
+                    {
+                        "deployment_uuid": "B01E8D09-6BE0-44F6-8B79-9CD49FC7633D",
+                        "deployment_status": {
+                            "deployment_status": "pending",
+                            "deployment_memo": "deployment_memo"
+                        },
+                        "stamp_created_at": "2020-02-22T19:20:40.000000Z",
+                        "stamp_updated_at": "2020-02-22T19:20:40.000000Z",
+                        "platform": {
+                            "data": {
+                                "platform_uuid": "3F13C97D-BEEA-4429-81CF-3BC0544FD123",
+                                "platform_name": "Arena"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "project_uuid": "7A633F58-F307-42E4-9925-191D96723904",
+            "project_title": "awesome project4",
+            "project_album_file": null,
+            "project_type": 1,
+            "project_date": "2020-02-22",
+            "deployments": {
+                "data": []
+            }
+        },
+        {
+            "project_uuid": "2AF97C6F-F947-4A45-B3F5-BC11EB5BD118",
+            "project_title": "Lazar's Projects 1",
+            "project_album_file": null,
+            "project_type": 1,
+            "project_date": "2020-02-22",
+            "deployments": {
+                "data": []
+            }
+        }
+    ],
+    "meta": {
+        "pages": {
+            "total": 7,
+            "count": 5,
+            "per_page": 5,
+            "current_page": 1,
+            "total_pages": 2,
+            "links": {
+                "next": "http://localhost:8000/soundblock/project/index?page=2"
+            },
+            "from": 1
+        }
+    }
+}

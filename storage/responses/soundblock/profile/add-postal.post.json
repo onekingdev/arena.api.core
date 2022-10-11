@@ -1,0 +1,25 @@
+{
+    "data": {
+        "postal_uuid": "08D69A23-FA0D-4B15-9517-439EE45744C3",
+        "postal_type": "Home",
+        "postal_street": "XXX st",
+        "postal_city": "Wuhan",
+        "postal_zipcode": "12345",
+        "postal_country": "China",
+        "flag_primary": false,
+        "stamp_created": 1584292848,
+        "stamp_created_by": {
+            "uuid": "28F0270E-9906-4712-90F2-1236CEFA2958",
+            "name_first": "Lazar",
+            "name_middle": "",
+            "name_last": "Jankovic"
+        },
+        "stamp_updated": 1584292848,
+        "stamp_updated_by": {
+            "uuid": "28F0270E-9906-4712-90F2-1236CEFA2958",
+            "name_first": "Lazar",
+            "name_middle": "",
+            "name_last": "Jankovic"
+        }
+    }
+}

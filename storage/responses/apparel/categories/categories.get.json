@@ -1,0 +1,52 @@
+[
+    {
+        "category_uuid": "49edb944-d698-4568-abb9-4f7156914e6b",
+        "category_name": "Men",
+        "stamp_created_at": "2020-03-22 17:17:15",
+        "stamp_created": 1584897435,
+        "stamp_created_by": 1,
+        "stamp_updated_at": "2020-03-22 17:17:15",
+        "stamp_updated": 1584897435,
+        "stamp_updated_by": 1
+    },
+    {
+        "category_uuid": "3f8a680e-dd51-480c-9917-492bee72988e",
+        "category_name": "Organic",
+        "stamp_created_at": "2020-03-22 18:24:06",
+        "stamp_created": 1584901446,
+        "stamp_created_by": 1,
+        "stamp_updated_at": "2020-03-22 18:24:06",
+        "stamp_updated": 1584901446,
+        "stamp_updated_by": 1
+    },
+    {
+        "category_uuid": "13e0c85b-e4bb-4185-b87b-f1dcd6e50128",
+        "category_name": "Woman",
+        "stamp_created_at": "2020-03-22 18:28:11",
+        "stamp_created": 1584901691,
+        "stamp_created_by": 1,
+        "stamp_updated_at": "2020-03-22 18:28:11",
+        "stamp_updated": 1584901691,
+        "stamp_updated_by": 1
+    },
+    {
+        "category_uuid": "397af69c-faa8-48ce-9e54-dc7daab62080",
+        "category_name": "Kids",
+        "stamp_created_at": "2020-03-22 19:05:46",
+        "stamp_created": 1584903946,
+        "stamp_created_by": 1,
+        "stamp_updated_at": "2020-03-22 19:05:46",
+        "stamp_updated": 1584903946,
+        "stamp_updated_by": 1
+    },
+    {
+        "category_uuid": "4d024dc7-b51b-485b-bac3-8ce0b1dd0ea8",
+        "category_name": "Accessories",
+        "stamp_created_at": "2020-03-22 19:13:11",
+        "stamp_created": 1584904391,
+        "stamp_created_by": 1,
+        "stamp_updated_at": "2020-03-22 19:13:11",
+        "stamp_updated": 1584904391,
+        "stamp_updated_by": 1
+    }
+]

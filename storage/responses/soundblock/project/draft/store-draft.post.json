@@ -1,0 +1,53 @@
+{
+    "data": {
+        "draft_uuid": "6E60369E-F385-494B-BDE0-2A20BCA005F4",
+        "draft_json": {
+            "step": "2",
+            "project": {
+                "project_title": "New Draft",
+                "project_type": "",
+                "project_date": "2020-10-10",
+                "project_files": [],
+                "project_avatar": "http://test.api.arena.com/storage/soundblock/service/F180F725-7D8A-45D4-9B4D-0FF8630666E4/projects/drafts/artworks/CFAB1FB0-9E18-4DE0-9CA0-39BD6AB609AB.png"
+            },
+            "payment": {
+                "members": [],
+                "contract": []
+            }
+        },
+        "stamp_created": 1584318838,
+        "stamp_created_by": {
+            "uuid": "7C619A2D-9BF6-4F6A-BE96-17285A354344",
+            "name_first": "jin",
+            "name_middle": "",
+            "name_last": "tai"
+        },
+        "stamp_updated": 1584318838,
+        "stamp_updated_by": {
+            "uuid": "7C619A2D-9BF6-4F6A-BE96-17285A354344",
+            "name_first": "jin",
+            "name_middle": "",
+            "name_last": "tai"
+        },
+        "service": {
+            "data": {
+                "service_uuid": "F180F725-7D8A-45D4-9B4D-0FF8630666E4",
+                "service_name": "Service Name 4",
+                "stamp_created": 1584179854,
+                "stamp_created_by": {
+                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                    "name_first": "Samuel",
+                    "name_middle": "",
+                    "name_last": "White"
+                },
+                "stamp_updated": 1584179854,
+                "stamp_updated_by": {
+                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                    "name_first": "Samuel",
+                    "name_middle": "",
+                    "name_last": "White"
+                }
+            }
+        }
+    }
+}

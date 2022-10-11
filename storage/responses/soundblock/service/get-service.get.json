@@ -1,0 +1,33 @@
+{
+    "data": {
+        "service_uuid": "7BC828D1-B645-4A5E-8023-9795D69D335B",
+        "service_name": "Service Name 3",
+        "stamp_created": 1584179854,
+        "stamp_created_by": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+        "stamp_updated": 1584179854,
+        "stamp_updated_by": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+        "plans": {
+            "data": {
+                "plan_uuid": "DF442637-09FD-47F7-8D53-5F518C937D40",
+                "ledger_uuid": "8E9DE74F-4E67-444A-AF24-D5A9471FFAD9",
+                "plan_type": "Simple Block Storage",
+                "plan_cost": 4.99,
+                "plan_day": 22,
+                "stamp_created": 1584179856,
+                "stamp_created_by": {
+                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                    "name_first": "Samuel",
+                    "name_middle": "",
+                    "name_last": "White"
+                },
+                "stamp_updated": 1584179856,
+                "stamp_updated_by": {
+                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                    "name_first": "Samuel",
+                    "name_middle": "",
+                    "name_last": "White"
+                }
+            }
+        }
+    }
+}

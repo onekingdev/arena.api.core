@@ -1,0 +1,56 @@
+{
+    "data": {
+        "ticket_uuid": "D7E4FFCE-0425-41C7-A8C3-47FAE9735E53",
+        "user": {
+            "data": {
+                "user_uuid": "7CB4D0E4-AF94-417E-ABD9-73724CA2A71E",
+                "avatar_url": "http://test.api.arena.com/storage/default/avatar.png",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            }
+        },
+        "ticket_title": "Mr.",
+        "flag_status": "Closed",
+        "stamp_created": 1585362158,
+        "stamp_created_by": {
+            "uuid": "7CB4D0E4-AF94-417E-ABD9-73724CA2A71E",
+            "name_first": "Samuel",
+            "name_middle": "",
+            "name_last": "White"
+        },
+        "stamp_updated": 1585362158,
+        "stamp_updated_by": {
+            "uuid": "7CB4D0E4-AF94-417E-ABD9-73724CA2A71E",
+            "name_first": "Samuel",
+            "name_middle": "",
+            "name_last": "White"
+        },
+        "support": {
+            "data": {
+                "support_uuid": "F97E7377-A9BD-4915-9B0B-4980E64C0809",
+                "support_category": "Customer Service",
+                "app": {
+                    "data": {
+                        "app_uuid": "2D98B43C-6022-4C6B-BD26-378289555253",
+                        "app_name": "apparel"
+                    }
+                },
+                "stamp_created": 1585362158,
+                "stamp_created_by": {
+                    "uuid": "7CB4D0E4-AF94-417E-ABD9-73724CA2A71E",
+                    "name_first": "Samuel",
+                    "name_middle": "",
+                    "name_last": "White"
+                },
+                "stamp_updated": 1585362158,
+                "stamp_updated_by": {
+                    "uuid": "7CB4D0E4-AF94-417E-ABD9-73724CA2A71E",
+                    "name_first": "Samuel",
+                    "name_middle": "",
+                    "name_last": "White"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "response": null,
+    "status": {
+        "app": "Arena.API",
+        "code": 200,
+        "message": "Successfully group deleted."
+    }
+}

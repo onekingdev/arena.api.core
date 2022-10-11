@@ -1,0 +1,314 @@
+{
+    "data": {
+        "Music": [
+            {
+                "file_uuid": "B02E829D-501A-4BEF-9C23-81D44844859E",
+                "file_name": "Stan.mp3",
+                "file_path": "/Music",
+                "file_category": "music",
+                "file_sortby": "/Music/Stan.mp3",
+                "kind": "file",
+                "stamp_created": 1584499161,
+                "stamp_updated": 1584499161
+            },
+            {
+                "file_uuid": "E8C0570F-50EA-4F55-8792-6CCA96D74C86",
+                "file_name": "Marshal Mathers.mp3",
+                "file_path": "/Music",
+                "file_category": "music",
+                "file_sortby": "/Music/Marshal Mathers.mp3",
+                "kind": "file",
+                "stamp_created": 1584499161,
+                "stamp_updated": 1584499161
+            },
+            {
+                "file_uuid": "64EFC10E-F8D8-4537-BE49-F8C8CCF588CE",
+                "file_name": "I'm Back.mp3",
+                "file_path": "/Music",
+                "file_category": "music",
+                "file_sortby": "/Music/I'm Back.mp3",
+                "kind": "file",
+                "stamp_created": 1584499161,
+                "stamp_updated": 1584499161
+            },
+            {
+                "file_uuid": "7033974B-4DE0-4610-9E95-B87B80611D66",
+                "file_name": "Old Town Road.mp3",
+                "file_path": "/Music",
+                "file_category": "music",
+                "file_sortby": "/Music/Old Town Road.mp3",
+                "kind": "file",
+                "stamp_created": 1584499161,
+                "stamp_updated": 1584499161
+            },
+            {
+                "file_uuid": "BA84CB7C-1497-406D-8E31-583A11A85AF8",
+                "file_name": "Don't Start Now.mp3",
+                "file_path": "/Music",
+                "file_category": "music",
+                "file_sortby": "/Music/Don't Start Now.mp3",
+                "kind": "file",
+                "stamp_created": 1584499161,
+                "stamp_updated": 1584499161
+            },
+            {
+                "file_uuid": "FD4BB289-17F2-4CBA-B773-A0A1B73FF96C",
+                "file_name": "Lose you to love me.mp3",
+                "file_path": "/Music",
+                "file_category": "music",
+                "file_sortby": "/Music/Lose you to love me.mp3",
+                "kind": "file",
+                "stamp_created": 1584499161,
+                "stamp_updated": 1584499161
+            }
+        ],
+        "Video": [
+            {
+                "file_uuid": "14A3EFDC-DBA5-494C-A84D-C8FDAA0F90BA",
+                "file_name": "back.mp4",
+                "file_path": "/Video",
+                "file_category": "video",
+                "file_sortby": "/Video/back.mp4",
+                "kind": "file",
+                "stamp_created": 1584499161,
+                "stamp_updated": 1584499161
+            },
+            {
+                "file_uuid": "F093FC52-C6F3-4327-802A-31F2CA4B406E",
+                "file_name": "video1.mp4",
+                "file_path": "/Video",
+                "file_category": "video",
+                "file_sortby": "/Video/back.mp4",
+                "kind": "file",
+                "stamp_created": 1584499161,
+                "stamp_updated": 1584499161
+            },
+            {
+                "file_uuid": "037305EA-A1B9-4370-A205-E9D29A79C0BE",
+                "file_name": "video2.mp4",
+                "file_path": "/Video",
+                "file_category": "video",
+                "file_sortby": "/Video/video2.mp4",
+                "kind": "file",
+                "stamp_created": 1584499161,
+                "stamp_updated": 1584499161
+            },
+            {
+                "file_uuid": "317D21C1-9C7D-4FD3-847A-038DD54B6D4C",
+                "file_name": "video2.mp4",
+                "file_path": "/Video",
+                "file_category": "video",
+                "file_sortby": "/Video/marshal.mp4",
+                "kind": "file",
+                "stamp_created": 1584499161,
+                "stamp_updated": 1584499161
+            },
+            {
+                "file_uuid": "BDBF1A87-73C2-4874-90C4-238396846EE6",
+                "file_name": "video3.mp4",
+                "file_path": "/Video",
+                "file_category": "video",
+                "file_sortby": "/Video/video3.mp4",
+                "kind": "file",
+                "stamp_created": 1584499161,
+                "stamp_updated": 1584499161
+            },
+            {
+                "file_uuid": "81195143-2894-4941-B6A6-28018F011E3F",
+                "file_name": "Old Town Road.mp4",
+                "file_path": "/Video",
+                "file_category": "video",
+                "file_sortby": "/Video/Old town road.mp4",
+                "kind": "file",
+                "stamp_created": 1584499161,
+                "stamp_updated": 1584499161
+            },
+            {
+                "file_uuid": "C8DBCFF8-94C1-4402-B0C0-402911E2A57D",
+                "file_name": "Don't Start Now.mp4",
+                "file_path": "/Video",
+                "file_category": "video",
+                "file_sortby": "/Video/Old town road.mp4",
+                "kind": "file",
+                "stamp_created": 1584499161,
+                "stamp_updated": 1584499161
+            },
+            {
+                "file_uuid": "0A9A54F1-CAAA-4629-A809-AD546523F540",
+                "file_name": "Lose you to love me.mp4",
+                "file_path": "/Video",
+                "file_category": "video",
+                "file_sortby": "/Video/Lose you to love me.mp4",
+                "kind": "file",
+                "stamp_created": 1584499161,
+                "stamp_updated": 1584499161
+            }
+        ],
+        "Merch": [
+            {
+                "file_uuid": "3529217C-2F63-4355-B8D8-4D3C9FFFEAFA",
+                "file_name": "Panic.ai",
+                "file_path": "/Merch",
+                "file_category": "merch",
+                "file_sortby": "/Merch/Panic.ai",
+                "kind": "file",
+                "stamp_created": 1584499161,
+                "stamp_updated": 1584499161
+            },
+            {
+                "file_uuid": "573F579F-8C40-4269-B3AC-E46776B2C7F2",
+                "file_name": "22.psd",
+                "file_path": "/Merch",
+                "file_category": "merch",
+                "file_sortby": "/Merch/22.psd",
+                "kind": "file",
+                "stamp_created": 1584499161,
+                "stamp_updated": 1584499161
+            },
+            {
+                "file_uuid": "C0D5EC06-8497-4760-B0E9-366505861A7C",
+                "file_name": "Me!.psd",
+                "file_path": "/Merch",
+                "file_category": "merch",
+                "file_sortby": "/Merch/Me!.psd",
+                "kind": "file",
+                "stamp_created": 1584499161,
+                "stamp_updated": 1584499161
+            },
+            {
+                "file_uuid": "C0B223C2-3EA6-4D73-8996-F47D012CF33D",
+                "file_name": "Lose you.ai",
+                "file_path": "/Merch",
+                "file_category": "merch",
+                "file_sortby": "/Merch/Lose you.ai",
+                "kind": "file",
+                "stamp_created": 1584499161,
+                "stamp_updated": 1584499161
+            },
+            {
+                "file_uuid": "9724CEDA-A981-42FD-AEE2-5F85AB902802",
+                "file_name": "Old Town Road.ai",
+                "file_path": "/Merch",
+                "file_category": "merch",
+                "file_sortby": "/Merch/Old Town Road.ai",
+                "kind": "file",
+                "stamp_created": 1584499161,
+                "stamp_updated": 1584499161
+            },
+            {
+                "directory_uuid": "B04FFE04-210D-4E85-A823-0671D577CFB6",
+                "directory_name": "Panic",
+                "directory_path": "/Merch",
+                "directory_sortby": "/Merch/Panic",
+                "kind": "directory",
+                "stamp_created": 1584499161,
+                "stamp_updated": 1584499161,
+                "child": [
+                    {
+                        "file_uuid": "F9CE3237-D89D-4732-BA1A-82E80CE65457",
+                        "file_name": "Panic.ai",
+                        "file_path": "/Merch/Panic",
+                        "file_category": "merch",
+                        "file_sortby": "/Merch/Panic/Panic.ai",
+                        "kind": "file",
+                        "stamp_created": 1584499161,
+                        "stamp_updated": 1584499161
+                    },
+                    {
+                        "file_uuid": "2261D973-C2FD-40E9-90C9-FBE48B43148D",
+                        "file_name": "22.psd",
+                        "file_path": "/Merch/Panic",
+                        "file_category": "merch",
+                        "file_sortby": "/Merch/Panic/22.psd",
+                        "kind": "file",
+                        "stamp_created": 1584499161,
+                        "stamp_updated": 1584499161
+                    },
+                    {
+                        "directory_uuid": "89A09324-349D-4F1B-9E79-72353317D6E3",
+                        "directory_name": "Taylor",
+                        "directory_path": "/Merch/Panic",
+                        "directory_sortby": "/Merch/Panic/Same",
+                        "kind": "directory",
+                        "stamp_created": 1584499161,
+                        "stamp_updated": 1584499161,
+                        "child": [
+                            {
+                                "file_uuid": "C77F013D-43A5-4BC7-AAFD-95B1D1B9B9B3",
+                                "file_name": "Me!.psd",
+                                "file_path": "/Merch/Panic/Same",
+                                "file_category": "merch",
+                                "file_sortby": "/Merch/Panic/Same/Me!.psd",
+                                "kind": "file",
+                                "stamp_created": 1584499161,
+                                "stamp_updated": 1584499161
+                            },
+                            {
+                                "file_uuid": "51DF3D7C-57E0-4026-8849-2C96886EE42D",
+                                "file_name": "Style.psd",
+                                "file_path": "/Merch/Panic/Same",
+                                "file_category": "merch",
+                                "file_sortby": "/Merch/Panic/Same/Style.psd",
+                                "kind": "file",
+                                "stamp_created": 1584499161,
+                                "stamp_updated": 1584499161
+                            },
+                            {
+                                "file_uuid": "E6DD7D8D-87FA-454A-AA09-F211B3EA2B28",
+                                "file_name": "Shake_it_off.ai",
+                                "file_path": "/Merch/Panic/Same",
+                                "file_category": "merch",
+                                "file_sortby": "/Merch/Panic/Same/Shake_it_off.ai",
+                                "kind": "file",
+                                "stamp_created": 1584499161,
+                                "stamp_updated": 1584499161
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "Other": [
+            {
+                "file_uuid": "C1355E5F-48BD-4151-9B7E-69847DAE873A",
+                "file_name": "file-1.doc",
+                "file_path": "/Other",
+                "file_category": "other",
+                "file_sortby": "/Other/file-1.doc",
+                "kind": "file",
+                "stamp_created": 1584499161,
+                "stamp_updated": 1584499161
+            },
+            {
+                "file_uuid": "42045F4C-6E3F-4DE1-A1D6-907E3778287C",
+                "file_name": "Files-2.doc",
+                "file_path": "/Other",
+                "file_category": "other",
+                "file_sortby": "/Other/Files-2.doc",
+                "kind": "file",
+                "stamp_created": 1584499161,
+                "stamp_updated": 1584499161
+            },
+            {
+                "file_uuid": "4CB29A14-1938-4FF6-A687-6B67F08684D6",
+                "file_name": "files-4.docx",
+                "file_path": "/Other",
+                "file_category": "other",
+                "file_sortby": "/Other/files-4.docx",
+                "kind": "file",
+                "stamp_created": 1584499161,
+                "stamp_updated": 1584499161
+            },
+            {
+                "file_uuid": "3F5008DF-3A99-47B9-8F5B-23DA5C266327",
+                "file_name": "description.doc",
+                "file_path": "/Other",
+                "file_category": "other",
+                "file_sortby": "/Other/description.doc",
+                "kind": "file",
+                "stamp_created": 1584499161,
+                "stamp_updated": 1584499161
+            }
+        ]
+    }
+}

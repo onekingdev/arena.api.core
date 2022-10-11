@@ -1,0 +1,2026 @@
+{
+    "data": {
+        "project_uuid": "1B150CD8-3F18-4E8C-8F63-FC6414F0A27E",
+        "project_title": "Remind me Tomorrow",
+        "project_avatar": "http://test.api.arena.com/storage/default/artwork.png",
+        "project_type": "Album",
+        "project_date": "2020-03-14",
+        "project_upc": "3143592648",
+        "stamp_created": 1584179855,
+        "stamp_created_by": {
+            "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+            "name_first": "Samuel",
+            "name_middle": "",
+            "name_last": "White"
+        },
+        "stamp_updated": 1584179855,
+        "stamp_updated_by": {
+            "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+            "name_first": "Samuel",
+            "name_middle": "",
+            "name_last": "White"
+        },
+        "service": {
+            "data": {
+                "service_uuid": "7BC828D1-B645-4A5E-8023-9795D69D335B",
+                "service_name": "Service Name 3",
+                "stamp_created": 1584179854,
+                "stamp_created_by": {
+                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                    "name_first": "Samuel",
+                    "name_middle": "",
+                    "name_last": "White"
+                },
+                "stamp_updated": 1584179854,
+                "stamp_updated_by": {
+                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                    "name_first": "Samuel",
+                    "name_middle": "",
+                    "name_last": "White"
+                }
+            }
+        },
+        "collections": {
+            "data": [
+                {
+                    "collection_uuid": "C7B547E1-008D-4A33-A0C0-6C0DBD544A25",
+                    "project_uuid": "1B150CD8-3F18-4E8C-8F63-FC6414F0A27E",
+                    "collection_comment": "Calista Runolfsson",
+                    "stamp_created": 1584179856,
+                    "stamp_created_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584179856,
+                    "stamp_updated_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "musics": {
+                        "data": [
+                            {
+                                "file_track": 1,
+                                "file_duration": 238,
+                                "file_isrc": "NOX001212345",
+                                "stamp_created": 1584179856,
+                                "stamp_created_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "stamp_updated": 1584179856,
+                                "stamp_updated_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "file_id": 24,
+                                "file_uuid": "57C1E8AE-8E99-45BB-A84D-F8D61F968D3E",
+                                "file_name": "Lose you to love me.mp3",
+                                "file_path": "/Music",
+                                "file_title": "Lose You To Love Me",
+                                "file_category": "music",
+                                "file_sortby": "/Music/Lose you to love me.mp3",
+                                "file_size": 126504
+                            },
+                            {
+                                "file_track": 1,
+                                "file_duration": 297,
+                                "file_isrc": "NOX001212345",
+                                "stamp_created": 1584179856,
+                                "stamp_created_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "stamp_updated": 1584179856,
+                                "stamp_updated_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "file_id": 3,
+                                "file_uuid": "B0F3AAE4-016D-473E-9F5B-A7FEDCDB688E",
+                                "file_name": "I'm Back.mp3",
+                                "file_path": "/Music",
+                                "file_title": "I'm Back",
+                                "file_category": "music",
+                                "file_sortby": "/Music/I'm Back.mp3",
+                                "file_size": 41774
+                            },
+                            {
+                                "file_track": 2,
+                                "file_duration": 263,
+                                "file_isrc": "NOX001212345",
+                                "stamp_created": 1584179856,
+                                "stamp_created_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "stamp_updated": 1584179856,
+                                "stamp_updated_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "file_id": 1,
+                                "file_uuid": "683552A6-6315-4EA6-85C2-745A6511C22B",
+                                "file_name": "Stan.mp3",
+                                "file_path": "/Music",
+                                "file_title": "Stan",
+                                "file_category": "music",
+                                "file_sortby": "/Music/Stan.mp3",
+                                "file_size": 294084
+                            },
+                            {
+                                "file_track": 2,
+                                "file_duration": 275,
+                                "file_isrc": "NOX001212345",
+                                "stamp_created": 1584179856,
+                                "stamp_created_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "stamp_updated": 1584179856,
+                                "stamp_updated_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "file_id": 22,
+                                "file_uuid": "A280ED6C-76DA-4929-BD79-03C757A7EA9A",
+                                "file_name": "Old Town Road.mp3",
+                                "file_path": "/Music",
+                                "file_title": "Old Town Road",
+                                "file_category": "music",
+                                "file_sortby": "/Music/Old Town Road.mp3",
+                                "file_size": 320068
+                            },
+                            {
+                                "file_track": 3,
+                                "file_duration": 278,
+                                "file_isrc": "NOX001212345",
+                                "stamp_created": 1584179856,
+                                "stamp_created_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "stamp_updated": 1584179856,
+                                "stamp_updated_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "file_id": 23,
+                                "file_uuid": "350FE70C-92A9-48EC-8E0C-C21EDFC326C3",
+                                "file_name": "Don't Start Now.mp3",
+                                "file_path": "/Music",
+                                "file_title": "Don't Start Now",
+                                "file_category": "music",
+                                "file_sortby": "/Music/Don't Start Now.mp3",
+                                "file_size": 312204
+                            },
+                            {
+                                "file_track": 3,
+                                "file_duration": 252,
+                                "file_isrc": "NOX001212345",
+                                "stamp_created": 1584179856,
+                                "stamp_created_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "stamp_updated": 1584179856,
+                                "stamp_updated_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "file_id": 2,
+                                "file_uuid": "992540C5-F9CA-420D-9327-7058232DF2B2",
+                                "file_name": "Marshal Mathers.mp3",
+                                "file_path": "/Music",
+                                "file_title": "Marshal",
+                                "file_category": "music",
+                                "file_sortby": "/Music/Marshal Mathers.mp3",
+                                "file_size": 270163
+                            }
+                        ]
+                    },
+                    "fileshistory": {
+                        "data": [
+                            {
+                                "file_id": 10,
+                                "file_uuid": "B0D2B3FE-CEFE-48AB-87F2-35F822B2E5F5",
+                                "file_name": "Panic.ai",
+                                "file_path": "/Merch/Panic",
+                                "file_title": "Panic",
+                                "file_category": "merch",
+                                "file_sortby": "/Merch/Panic/Panic.ai",
+                                "file_size": 224497,
+                                "stamp_created": 1584179856,
+                                "stamp_created_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "stamp_updated": 1584179856,
+                                "stamp_updated_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "file_action": "Created",
+                                "file_memo": "File( B0D2B3FE-CEFE-48AB-87F2-35F822B2E5F5 )",
+                                "file_sku": "4225-776-3234",
+                                "file_history": [
+                                    {
+                                        "file_uuid": "B0D2B3FE-CEFE-48AB-87F2-35F822B2E5F5",
+                                        "file_action": "Created",
+                                        "stamp_created": 1584179856,
+                                        "stamp_created_by": {
+                                            "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                            "name_first": "Samuel",
+                                            "name_middle": "",
+                                            "name_last": "White"
+                                        },
+                                        "stamp_updated": 1584179856,
+                                        "stamp_updated_by": {
+                                            "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                            "name_first": "Samuel",
+                                            "name_middle": "",
+                                            "name_last": "White"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "file_id": 1,
+                                "file_uuid": "683552A6-6315-4EA6-85C2-745A6511C22B",
+                                "file_name": "Stan.mp3",
+                                "file_path": "/Music",
+                                "file_title": "Stan",
+                                "file_category": "music",
+                                "file_sortby": "/Music/Stan.mp3",
+                                "file_size": 294084,
+                                "stamp_created": 1584179856,
+                                "stamp_created_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "stamp_updated": 1584179856,
+                                "stamp_updated_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "file_action": "Created",
+                                "file_memo": "File( 683552A6-6315-4EA6-85C2-745A6511C22B )",
+                                "file_track": 2,
+                                "file_duration": 263,
+                                "file_isrc": "NOX001212345",
+                                "file_history": [
+                                    {
+                                        "file_uuid": "683552A6-6315-4EA6-85C2-745A6511C22B",
+                                        "file_action": "Created",
+                                        "stamp_created": 1584179856,
+                                        "stamp_created_by": {
+                                            "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                            "name_first": "Samuel",
+                                            "name_middle": "",
+                                            "name_last": "White"
+                                        },
+                                        "stamp_updated": 1584179856,
+                                        "stamp_updated_by": {
+                                            "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                            "name_first": "Samuel",
+                                            "name_middle": "",
+                                            "name_last": "White"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "file_id": 15,
+                                "file_uuid": "87D18889-B923-4F6F-9456-BCC7760052C1",
+                                "file_name": "Style.psd",
+                                "file_path": "/Merch/Taylor",
+                                "file_title": "Style",
+                                "file_category": "merch",
+                                "file_sortby": "/Merch/Taylor/Style.psd",
+                                "file_size": 42923,
+                                "stamp_created": 1584179856,
+                                "stamp_created_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "stamp_updated": 1584179856,
+                                "stamp_updated_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "file_action": "Created",
+                                "file_memo": "File( 87D18889-B923-4F6F-9456-BCC7760052C1 )",
+                                "file_sku": "4225-776-3234",
+                                "file_history": [
+                                    {
+                                        "file_uuid": "87D18889-B923-4F6F-9456-BCC7760052C1",
+                                        "file_action": "Created",
+                                        "stamp_created": 1584179856,
+                                        "stamp_created_by": {
+                                            "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                            "name_first": "Samuel",
+                                            "name_middle": "",
+                                            "name_last": "White"
+                                        },
+                                        "stamp_updated": 1584179856,
+                                        "stamp_updated_by": {
+                                            "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                            "name_first": "Samuel",
+                                            "name_middle": "",
+                                            "name_last": "White"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "file_id": 6,
+                                "file_uuid": "6F782D8B-F0F3-41CC-BD12-C1785AC3277C",
+                                "file_name": "video2.mp4",
+                                "file_path": "/Video",
+                                "file_title": "video2",
+                                "file_category": "video",
+                                "file_sortby": "/Video/video2.mp4",
+                                "file_size": 296578,
+                                "stamp_created": 1584179856,
+                                "stamp_created_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "stamp_updated": 1584179856,
+                                "stamp_updated_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "file_action": "Created",
+                                "file_memo": "File( 6F782D8B-F0F3-41CC-BD12-C1785AC3277C )",
+                                "track_uuid": "683552A6-6315-4EA6-85C2-745A6511C22B",
+                                "track": "Stan",
+                                "file_isrc": "NOX001212345",
+                                "file_history": [
+                                    {
+                                        "file_uuid": "6F782D8B-F0F3-41CC-BD12-C1785AC3277C",
+                                        "file_action": "Created",
+                                        "stamp_created": 1584179856,
+                                        "stamp_created_by": {
+                                            "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                            "name_first": "Samuel",
+                                            "name_middle": "",
+                                            "name_last": "White"
+                                        },
+                                        "stamp_updated": 1584179856,
+                                        "stamp_updated_by": {
+                                            "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                            "name_first": "Samuel",
+                                            "name_middle": "",
+                                            "name_last": "White"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "file_id": 20,
+                                "file_uuid": "87F9A531-FC9F-40D0-B9E1-BE2577865ABD",
+                                "file_name": "Files-2.doc",
+                                "file_path": "/Other/Files",
+                                "file_title": "Files-2",
+                                "file_category": "other",
+                                "file_sortby": "/Other/Files/Files-2.doc",
+                                "file_size": 452621,
+                                "stamp_created": 1584179856,
+                                "stamp_created_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "stamp_updated": 1584179856,
+                                "stamp_updated_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "file_action": "Created",
+                                "file_memo": "File( 87F9A531-FC9F-40D0-B9E1-BE2577865ABD )",
+                                "file_history": [
+                                    {
+                                        "file_uuid": "87F9A531-FC9F-40D0-B9E1-BE2577865ABD",
+                                        "file_action": "Created",
+                                        "stamp_created": 1584179856,
+                                        "stamp_created_by": {
+                                            "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                            "name_first": "Samuel",
+                                            "name_middle": "",
+                                            "name_last": "White"
+                                        },
+                                        "stamp_updated": 1584179856,
+                                        "stamp_updated_by": {
+                                            "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                            "name_first": "Samuel",
+                                            "name_middle": "",
+                                            "name_last": "White"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "file_id": 11,
+                                "file_uuid": "6A7F364A-BA16-4DDD-AC93-612F57E73C98",
+                                "file_name": "22.psd",
+                                "file_path": "/Merch",
+                                "file_title": "22",
+                                "file_category": "merch",
+                                "file_sortby": "/Merch/22.psd",
+                                "file_size": 424907,
+                                "stamp_created": 1584179856,
+                                "stamp_created_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "stamp_updated": 1584179856,
+                                "stamp_updated_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "file_action": "Created",
+                                "file_memo": "File( 6A7F364A-BA16-4DDD-AC93-612F57E73C98 )",
+                                "file_sku": "4225-776-3234",
+                                "file_history": [
+                                    {
+                                        "file_uuid": "6A7F364A-BA16-4DDD-AC93-612F57E73C98",
+                                        "file_action": "Created",
+                                        "stamp_created": 1584179856,
+                                        "stamp_created_by": {
+                                            "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                            "name_first": "Samuel",
+                                            "name_middle": "",
+                                            "name_last": "White"
+                                        },
+                                        "stamp_updated": 1584179856,
+                                        "stamp_updated_by": {
+                                            "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                            "name_first": "Samuel",
+                                            "name_middle": "",
+                                            "name_last": "White"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "file_id": 2,
+                                "file_uuid": "992540C5-F9CA-420D-9327-7058232DF2B2",
+                                "file_name": "Marshal Mathers.mp3",
+                                "file_path": "/Music",
+                                "file_title": "Marshal",
+                                "file_category": "music",
+                                "file_sortby": "/Music/Marshal Mathers.mp3",
+                                "file_size": 270163,
+                                "stamp_created": 1584179856,
+                                "stamp_created_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "stamp_updated": 1584179856,
+                                "stamp_updated_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "file_action": "Created",
+                                "file_memo": "File( 992540C5-F9CA-420D-9327-7058232DF2B2 )",
+                                "file_track": 3,
+                                "file_duration": 252,
+                                "file_isrc": "NOX001212345",
+                                "file_history": [
+                                    {
+                                        "file_uuid": "992540C5-F9CA-420D-9327-7058232DF2B2",
+                                        "file_action": "Created",
+                                        "stamp_created": 1584179856,
+                                        "stamp_created_by": {
+                                            "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                            "name_first": "Samuel",
+                                            "name_middle": "",
+                                            "name_last": "White"
+                                        },
+                                        "stamp_updated": 1584179856,
+                                        "stamp_updated_by": {
+                                            "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                            "name_first": "Samuel",
+                                            "name_middle": "",
+                                            "name_last": "White"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "file_id": 16,
+                                "file_uuid": "6267298C-BC14-456E-B3B5-E30407EF4A80",
+                                "file_name": "Shake_it_off.ai",
+                                "file_path": "/Merch/Taylor",
+                                "file_title": "Shake_it_off",
+                                "file_category": "merch",
+                                "file_sortby": "/Merch/Taylor/Shake_it_off.ai",
+                                "file_size": 415981,
+                                "stamp_created": 1584179856,
+                                "stamp_created_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "stamp_updated": 1584179856,
+                                "stamp_updated_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "file_action": "Created",
+                                "file_memo": "File( 6267298C-BC14-456E-B3B5-E30407EF4A80 )",
+                                "file_sku": "4225-776-3234",
+                                "file_history": [
+                                    {
+                                        "file_uuid": "6267298C-BC14-456E-B3B5-E30407EF4A80",
+                                        "file_action": "Created",
+                                        "stamp_created": 1584179856,
+                                        "stamp_created_by": {
+                                            "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                            "name_first": "Samuel",
+                                            "name_middle": "",
+                                            "name_last": "White"
+                                        },
+                                        "stamp_updated": 1584179856,
+                                        "stamp_updated_by": {
+                                            "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                            "name_first": "Samuel",
+                                            "name_middle": "",
+                                            "name_last": "White"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "file_id": 7,
+                                "file_uuid": "C1D88A24-CFF1-4F03-AA45-EFAA53ADFA40",
+                                "file_name": "video2.mp4",
+                                "file_path": "/Video",
+                                "file_title": "video2",
+                                "file_category": "video",
+                                "file_sortby": "/Video/marshal.mp4",
+                                "file_size": 195797,
+                                "stamp_created": 1584179856,
+                                "stamp_created_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "stamp_updated": 1584179856,
+                                "stamp_updated_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "file_action": "Created",
+                                "file_memo": "File( C1D88A24-CFF1-4F03-AA45-EFAA53ADFA40 )",
+                                "track_uuid": "350FE70C-92A9-48EC-8E0C-C21EDFC326C3",
+                                "track": "Don't Start Now",
+                                "file_isrc": "NOX001212345",
+                                "file_history": [
+                                    {
+                                        "file_uuid": "C1D88A24-CFF1-4F03-AA45-EFAA53ADFA40",
+                                        "file_action": "Created",
+                                        "stamp_created": 1584179856,
+                                        "stamp_created_by": {
+                                            "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                            "name_first": "Samuel",
+                                            "name_middle": "",
+                                            "name_last": "White"
+                                        },
+                                        "stamp_updated": 1584179856,
+                                        "stamp_updated_by": {
+                                            "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                            "name_first": "Samuel",
+                                            "name_middle": "",
+                                            "name_last": "White"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "file_id": 21,
+                                "file_uuid": "C406184B-3FFA-4DFD-BEEE-EDADED0F075B",
+                                "file_name": "files-4.docx",
+                                "file_path": "/Other",
+                                "file_title": "files-4",
+                                "file_category": "other",
+                                "file_sortby": "/Other/files-4.docx",
+                                "file_size": 213584,
+                                "stamp_created": 1584179856,
+                                "stamp_created_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "stamp_updated": 1584179856,
+                                "stamp_updated_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "file_action": "Created",
+                                "file_memo": "File( C406184B-3FFA-4DFD-BEEE-EDADED0F075B )",
+                                "file_history": [
+                                    {
+                                        "file_uuid": "C406184B-3FFA-4DFD-BEEE-EDADED0F075B",
+                                        "file_action": "Created",
+                                        "stamp_created": 1584179856,
+                                        "stamp_created_by": {
+                                            "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                            "name_first": "Samuel",
+                                            "name_middle": "",
+                                            "name_last": "White"
+                                        },
+                                        "stamp_updated": 1584179856,
+                                        "stamp_updated_by": {
+                                            "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                            "name_first": "Samuel",
+                                            "name_middle": "",
+                                            "name_last": "White"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "file_id": 12,
+                                "file_uuid": "703A32B8-E17B-47C3-8669-ED4362F68434",
+                                "file_name": "22.psd",
+                                "file_path": "/Merch/Panic",
+                                "file_title": null,
+                                "file_category": "merch",
+                                "file_sortby": "/Merch/Panic/22.psd",
+                                "file_size": 230392,
+                                "stamp_created": 1584179856,
+                                "stamp_created_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "stamp_updated": 1584179856,
+                                "stamp_updated_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "file_action": "Created",
+                                "file_memo": "File( 703A32B8-E17B-47C3-8669-ED4362F68434 )",
+                                "file_sku": "4225-776-3234",
+                                "file_history": [
+                                    {
+                                        "file_uuid": "703A32B8-E17B-47C3-8669-ED4362F68434",
+                                        "file_action": "Created",
+                                        "stamp_created": 1584179856,
+                                        "stamp_created_by": {
+                                            "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                            "name_first": "Samuel",
+                                            "name_middle": "",
+                                            "name_last": "White"
+                                        },
+                                        "stamp_updated": 1584179856,
+                                        "stamp_updated_by": {
+                                            "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                            "name_first": "Samuel",
+                                            "name_middle": "",
+                                            "name_last": "White"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "file_id": 3,
+                                "file_uuid": "B0F3AAE4-016D-473E-9F5B-A7FEDCDB688E",
+                                "file_name": "I'm Back.mp3",
+                                "file_path": "/Music",
+                                "file_title": "I'm Back",
+                                "file_category": "music",
+                                "file_sortby": "/Music/I'm Back.mp3",
+                                "file_size": 41774,
+                                "stamp_created": 1584179856,
+                                "stamp_created_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "stamp_updated": 1584179856,
+                                "stamp_updated_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "file_action": "Created",
+                                "file_memo": "File( B0F3AAE4-016D-473E-9F5B-A7FEDCDB688E )",
+                                "file_track": 1,
+                                "file_duration": 297,
+                                "file_isrc": "NOX001212345",
+                                "file_history": [
+                                    {
+                                        "file_uuid": "B0F3AAE4-016D-473E-9F5B-A7FEDCDB688E",
+                                        "file_action": "Created",
+                                        "stamp_created": 1584179856,
+                                        "stamp_created_by": {
+                                            "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                            "name_first": "Samuel",
+                                            "name_middle": "",
+                                            "name_last": "White"
+                                        },
+                                        "stamp_updated": 1584179856,
+                                        "stamp_updated_by": {
+                                            "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                            "name_first": "Samuel",
+                                            "name_middle": "",
+                                            "name_last": "White"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "file_id": 17,
+                                "file_uuid": "C70F71CD-9091-40B6-A524-1EE9D93E46F5",
+                                "file_name": "file-1.doc",
+                                "file_path": "/Other",
+                                "file_title": "file-1",
+                                "file_category": "other",
+                                "file_sortby": "/Other/file-1.doc",
+                                "file_size": 277047,
+                                "stamp_created": 1584179856,
+                                "stamp_created_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "stamp_updated": 1584179856,
+                                "stamp_updated_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "file_action": "Created",
+                                "file_memo": "File( C70F71CD-9091-40B6-A524-1EE9D93E46F5 )",
+                                "file_history": [
+                                    {
+                                        "file_uuid": "C70F71CD-9091-40B6-A524-1EE9D93E46F5",
+                                        "file_action": "Created",
+                                        "stamp_created": 1584179856,
+                                        "stamp_created_by": {
+                                            "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                            "name_first": "Samuel",
+                                            "name_middle": "",
+                                            "name_last": "White"
+                                        },
+                                        "stamp_updated": 1584179856,
+                                        "stamp_updated_by": {
+                                            "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                            "name_first": "Samuel",
+                                            "name_middle": "",
+                                            "name_last": "White"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "file_id": 8,
+                                "file_uuid": "F10B49EE-D440-4129-A064-2297BE3EEDF4",
+                                "file_name": "video3.mp4",
+                                "file_path": "/Video",
+                                "file_title": "video3",
+                                "file_category": "video",
+                                "file_sortby": "/Video/video3.mp4",
+                                "file_size": 143251,
+                                "stamp_created": 1584179856,
+                                "stamp_created_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "stamp_updated": 1584179856,
+                                "stamp_updated_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "file_action": "Created",
+                                "file_memo": "File( F10B49EE-D440-4129-A064-2297BE3EEDF4 )",
+                                "track_uuid": "57C1E8AE-8E99-45BB-A84D-F8D61F968D3E",
+                                "track": "Lose You To Love Me",
+                                "file_isrc": "NOX001212345",
+                                "file_history": [
+                                    {
+                                        "file_uuid": "F10B49EE-D440-4129-A064-2297BE3EEDF4",
+                                        "file_action": "Created",
+                                        "stamp_created": 1584179856,
+                                        "stamp_created_by": {
+                                            "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                            "name_first": "Samuel",
+                                            "name_middle": "",
+                                            "name_last": "White"
+                                        },
+                                        "stamp_updated": 1584179856,
+                                        "stamp_updated_by": {
+                                            "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                            "name_first": "Samuel",
+                                            "name_middle": "",
+                                            "name_last": "White"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "file_id": 13,
+                                "file_uuid": "3DD9FB96-1711-467A-ABD5-75A2287EECEC",
+                                "file_name": "Me!.psd",
+                                "file_path": "/Merch",
+                                "file_title": "merch",
+                                "file_category": "merch",
+                                "file_sortby": "/Merch/Me!.psd",
+                                "file_size": 495901,
+                                "stamp_created": 1584179856,
+                                "stamp_created_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "stamp_updated": 1584179856,
+                                "stamp_updated_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "file_action": "Created",
+                                "file_memo": "File( 3DD9FB96-1711-467A-ABD5-75A2287EECEC )",
+                                "file_sku": "4225-776-3234",
+                                "file_history": [
+                                    {
+                                        "file_uuid": "3DD9FB96-1711-467A-ABD5-75A2287EECEC",
+                                        "file_action": "Created",
+                                        "stamp_created": 1584179856,
+                                        "stamp_created_by": {
+                                            "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                            "name_first": "Samuel",
+                                            "name_middle": "",
+                                            "name_last": "White"
+                                        },
+                                        "stamp_updated": 1584179856,
+                                        "stamp_updated_by": {
+                                            "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                            "name_first": "Samuel",
+                                            "name_middle": "",
+                                            "name_last": "White"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "file_id": 4,
+                                "file_uuid": "3C08F084-DD6C-45D4-8058-56194196602A",
+                                "file_name": "back.mp4",
+                                "file_path": "/Video",
+                                "file_title": "back",
+                                "file_category": "video",
+                                "file_sortby": "/Video/back.mp4",
+                                "file_size": 107950,
+                                "stamp_created": 1584179856,
+                                "stamp_created_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "stamp_updated": 1584179856,
+                                "stamp_updated_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "file_action": "Created",
+                                "file_memo": "File( 3C08F084-DD6C-45D4-8058-56194196602A )",
+                                "track_uuid": "992540C5-F9CA-420D-9327-7058232DF2B2",
+                                "track": "Marshal",
+                                "file_isrc": "NOX001212345",
+                                "file_history": [
+                                    {
+                                        "file_uuid": "3C08F084-DD6C-45D4-8058-56194196602A",
+                                        "file_action": "Created",
+                                        "stamp_created": 1584179856,
+                                        "stamp_created_by": {
+                                            "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                            "name_first": "Samuel",
+                                            "name_middle": "",
+                                            "name_last": "White"
+                                        },
+                                        "stamp_updated": 1584179856,
+                                        "stamp_updated_by": {
+                                            "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                            "name_first": "Samuel",
+                                            "name_middle": "",
+                                            "name_last": "White"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "file_id": 18,
+                                "file_uuid": "0D21E453-0ED9-4E18-8BBE-A454E97389C5",
+                                "file_name": "file-1.doc",
+                                "file_path": "/Other/Files",
+                                "file_title": "file-1",
+                                "file_category": "other",
+                                "file_sortby": "/Other/Files/file-1.doc",
+                                "file_size": 257269,
+                                "stamp_created": 1584179856,
+                                "stamp_created_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "stamp_updated": 1584179856,
+                                "stamp_updated_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "file_action": "Created",
+                                "file_memo": "File( 0D21E453-0ED9-4E18-8BBE-A454E97389C5 )",
+                                "file_history": [
+                                    {
+                                        "file_uuid": "0D21E453-0ED9-4E18-8BBE-A454E97389C5",
+                                        "file_action": "Created",
+                                        "stamp_created": 1584179856,
+                                        "stamp_created_by": {
+                                            "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                            "name_first": "Samuel",
+                                            "name_middle": "",
+                                            "name_last": "White"
+                                        },
+                                        "stamp_updated": 1584179856,
+                                        "stamp_updated_by": {
+                                            "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                            "name_first": "Samuel",
+                                            "name_middle": "",
+                                            "name_last": "White"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "file_id": 9,
+                                "file_uuid": "4A44D9A8-E8EF-43C8-A961-C87DB2CC6A9A",
+                                "file_name": "Panic.ai",
+                                "file_path": "/Merch",
+                                "file_title": "Panic",
+                                "file_category": "merch",
+                                "file_sortby": "/Merch/Panic.ai",
+                                "file_size": 447387,
+                                "stamp_created": 1584179856,
+                                "stamp_created_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "stamp_updated": 1584179856,
+                                "stamp_updated_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "file_action": "Created",
+                                "file_memo": "File( 4A44D9A8-E8EF-43C8-A961-C87DB2CC6A9A )",
+                                "file_sku": "4225-776-3234",
+                                "file_history": [
+                                    {
+                                        "file_uuid": "4A44D9A8-E8EF-43C8-A961-C87DB2CC6A9A",
+                                        "file_action": "Created",
+                                        "stamp_created": 1584179856,
+                                        "stamp_created_by": {
+                                            "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                            "name_first": "Samuel",
+                                            "name_middle": "",
+                                            "name_last": "White"
+                                        },
+                                        "stamp_updated": 1584179856,
+                                        "stamp_updated_by": {
+                                            "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                            "name_first": "Samuel",
+                                            "name_middle": "",
+                                            "name_last": "White"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "file_id": 14,
+                                "file_uuid": "60FCCF9F-DA47-4473-940F-41D1B7844159",
+                                "file_name": "Me!.psd",
+                                "file_path": "/Merch/Taylor",
+                                "file_title": "merch",
+                                "file_category": "merch",
+                                "file_sortby": "/Merch/Taylor/Me!.psd",
+                                "file_size": 318598,
+                                "stamp_created": 1584179856,
+                                "stamp_created_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "stamp_updated": 1584179856,
+                                "stamp_updated_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "file_action": "Created",
+                                "file_memo": "File( 60FCCF9F-DA47-4473-940F-41D1B7844159 )",
+                                "file_sku": "4225-776-3234",
+                                "file_history": [
+                                    {
+                                        "file_uuid": "60FCCF9F-DA47-4473-940F-41D1B7844159",
+                                        "file_action": "Created",
+                                        "stamp_created": 1584179856,
+                                        "stamp_created_by": {
+                                            "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                            "name_first": "Samuel",
+                                            "name_middle": "",
+                                            "name_last": "White"
+                                        },
+                                        "stamp_updated": 1584179856,
+                                        "stamp_updated_by": {
+                                            "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                            "name_first": "Samuel",
+                                            "name_middle": "",
+                                            "name_last": "White"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "file_id": 5,
+                                "file_uuid": "D81267FD-B51E-489E-B0D2-19E6F09CBBA4",
+                                "file_name": "video1.mp4",
+                                "file_path": "/Video",
+                                "file_title": "video1",
+                                "file_category": "video",
+                                "file_sortby": "/Video/back.mp4",
+                                "file_size": 228962,
+                                "stamp_created": 1584179856,
+                                "stamp_created_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "stamp_updated": 1584179856,
+                                "stamp_updated_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "file_action": "Created",
+                                "file_memo": "File( D81267FD-B51E-489E-B0D2-19E6F09CBBA4 )",
+                                "track_uuid": "5A5774DA-8346-4ED8-A5F7-0C3C20C12643",
+                                "track": "Everyone Like",
+                                "file_isrc": "NOX001212345",
+                                "file_history": [
+                                    {
+                                        "file_uuid": "D81267FD-B51E-489E-B0D2-19E6F09CBBA4",
+                                        "file_action": "Created",
+                                        "stamp_created": 1584179856,
+                                        "stamp_created_by": {
+                                            "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                            "name_first": "Samuel",
+                                            "name_middle": "",
+                                            "name_last": "White"
+                                        },
+                                        "stamp_updated": 1584179856,
+                                        "stamp_updated_by": {
+                                            "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                            "name_first": "Samuel",
+                                            "name_middle": "",
+                                            "name_last": "White"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "file_id": 19,
+                                "file_uuid": "45283D97-3278-48DF-AA70-7AFAD9E77A0D",
+                                "file_name": "Files-2.doc",
+                                "file_path": "/Other",
+                                "file_title": "Files-2",
+                                "file_category": "other",
+                                "file_sortby": "/Other/Files-2.doc",
+                                "file_size": 403355,
+                                "stamp_created": 1584179856,
+                                "stamp_created_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "stamp_updated": 1584179856,
+                                "stamp_updated_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "file_action": "Created",
+                                "file_memo": "File( 45283D97-3278-48DF-AA70-7AFAD9E77A0D )",
+                                "file_history": [
+                                    {
+                                        "file_uuid": "45283D97-3278-48DF-AA70-7AFAD9E77A0D",
+                                        "file_action": "Created",
+                                        "stamp_created": 1584179856,
+                                        "stamp_created_by": {
+                                            "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                            "name_first": "Samuel",
+                                            "name_middle": "",
+                                            "name_last": "White"
+                                        },
+                                        "stamp_updated": 1584179856,
+                                        "stamp_updated_by": {
+                                            "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                            "name_first": "Samuel",
+                                            "name_middle": "",
+                                            "name_last": "White"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "history": {
+                        "data": {
+                            "history_uuid": "723F3F79-4256-4698-A9B5-334399667287",
+                            "history_category": "Multiple",
+                            "history_size": 5783021,
+                            "file_action": "Created",
+                            "history_comment": "Music( CaapmTqpbcZGz5NB )",
+                            "stamp_created": 1584179856,
+                            "stamp_created_by": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                            "stamp_updated": 1584179856,
+                            "stamp_updated_by": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A"
+                        }
+                    }
+                },
+                {
+                    "collection_uuid": "1F9AE105-D7FD-40B1-BC1F-1C978E8D4B96",
+                    "project_uuid": "1B150CD8-3F18-4E8C-8F63-FC6414F0A27E",
+                    "collection_comment": "**yurii",
+                    "stamp_created": 1584179856,
+                    "stamp_created_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584179856,
+                    "stamp_updated_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "musics": {
+                        "data": [
+                            {
+                                "file_track": 1,
+                                "file_duration": 297,
+                                "file_isrc": "NOX001212345",
+                                "stamp_created": 1584179856,
+                                "stamp_created_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "stamp_updated": 1584179856,
+                                "stamp_updated_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "file_id": 3,
+                                "file_uuid": "B0F3AAE4-016D-473E-9F5B-A7FEDCDB688E",
+                                "file_name": "I'm Back.mp3",
+                                "file_path": "/Music",
+                                "file_title": "I'm Back",
+                                "file_category": "music",
+                                "file_sortby": "/Music/I'm Back.mp3",
+                                "file_size": 41774
+                            },
+                            {
+                                "file_track": 2,
+                                "file_duration": 252,
+                                "file_isrc": "NOX001212345",
+                                "stamp_created": 1584179856,
+                                "stamp_created_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "stamp_updated": 1584179856,
+                                "stamp_updated_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "file_id": 31,
+                                "file_uuid": "50F762AB-B76E-4743-8EB9-A13CB47FA33D",
+                                "file_name": "special.mp3",
+                                "file_path": "/Music",
+                                "file_title": "Everyone Like",
+                                "file_category": "music",
+                                "file_sortby": "/Music/special.mp3",
+                                "file_size": 345095
+                            },
+                            {
+                                "file_track": 2,
+                                "file_duration": 263,
+                                "file_isrc": "NOX001212345",
+                                "stamp_created": 1584179856,
+                                "stamp_created_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "stamp_updated": 1584179856,
+                                "stamp_updated_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "file_id": 1,
+                                "file_uuid": "683552A6-6315-4EA6-85C2-745A6511C22B",
+                                "file_name": "Stan.mp3",
+                                "file_path": "/Music",
+                                "file_title": "Stan",
+                                "file_category": "music",
+                                "file_sortby": "/Music/Stan.mp3",
+                                "file_size": 294084
+                            },
+                            {
+                                "file_track": 3,
+                                "file_duration": 277,
+                                "file_isrc": "NOX001212345",
+                                "stamp_created": 1584179856,
+                                "stamp_created_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "stamp_updated": 1584179856,
+                                "stamp_updated_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "file_id": 32,
+                                "file_uuid": "5A5774DA-8346-4ED8-A5F7-0C3C20C12643",
+                                "file_name": "special-1.mp3",
+                                "file_path": "/Music",
+                                "file_title": "Everyone Like",
+                                "file_category": "music",
+                                "file_sortby": "/Music/sepcial-1.mp3",
+                                "file_size": 335955
+                            },
+                            {
+                                "file_track": 3,
+                                "file_duration": 252,
+                                "file_isrc": "NOX001212345",
+                                "stamp_created": 1584179856,
+                                "stamp_created_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "stamp_updated": 1584179856,
+                                "stamp_updated_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "file_id": 2,
+                                "file_uuid": "992540C5-F9CA-420D-9327-7058232DF2B2",
+                                "file_name": "Marshal Mathers.mp3",
+                                "file_path": "/Music",
+                                "file_title": "Marshal",
+                                "file_category": "music",
+                                "file_sortby": "/Music/Marshal Mathers.mp3",
+                                "file_size": 270163
+                            }
+                        ]
+                    },
+                    "fileshistory": {
+                        "data": [
+                            {
+                                "file_id": 31,
+                                "file_uuid": "50F762AB-B76E-4743-8EB9-A13CB47FA33D",
+                                "file_name": "special.mp3",
+                                "file_path": "/Music",
+                                "file_title": "Everyone Like",
+                                "file_category": "music",
+                                "file_sortby": "/Music/special.mp3",
+                                "file_size": 345095,
+                                "stamp_created": 1584179856,
+                                "stamp_created_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "stamp_updated": 1584179856,
+                                "stamp_updated_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "file_action": "Created",
+                                "file_memo": "File ( 50F762AB-B76E-4743-8EB9-A13CB47FA33D ) Created",
+                                "file_track": 2,
+                                "file_duration": 252,
+                                "file_isrc": "NOX001212345",
+                                "file_history": [
+                                    {
+                                        "file_uuid": "50F762AB-B76E-4743-8EB9-A13CB47FA33D",
+                                        "file_action": "Created",
+                                        "stamp_created": 1584179856,
+                                        "stamp_created_by": {
+                                            "uuid": "21B9D205-15C5-4447-B131-7BED04988830",
+                                            "name_first": "Yurii",
+                                            "name_middle": "",
+                                            "name_last": "Kosiak"
+                                        },
+                                        "stamp_updated": 1584179856,
+                                        "stamp_updated_by": {
+                                            "uuid": "21B9D205-15C5-4447-B131-7BED04988830",
+                                            "name_first": "Yurii",
+                                            "name_middle": "",
+                                            "name_last": "Kosiak"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "file_id": 32,
+                                "file_uuid": "5A5774DA-8346-4ED8-A5F7-0C3C20C12643",
+                                "file_name": "special-1.mp3",
+                                "file_path": "/Music",
+                                "file_title": "Everyone Like",
+                                "file_category": "music",
+                                "file_sortby": "/Music/sepcial-1.mp3",
+                                "file_size": 335955,
+                                "stamp_created": 1584179856,
+                                "stamp_created_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "stamp_updated": 1584179856,
+                                "stamp_updated_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "file_action": "Created",
+                                "file_memo": "File ( 5A5774DA-8346-4ED8-A5F7-0C3C20C12643 ) Created",
+                                "file_track": 3,
+                                "file_duration": 277,
+                                "file_isrc": "NOX001212345",
+                                "file_history": [
+                                    {
+                                        "file_uuid": "5A5774DA-8346-4ED8-A5F7-0C3C20C12643",
+                                        "file_action": "Deleted",
+                                        "stamp_created": 1584179856,
+                                        "stamp_created_by": {
+                                            "uuid": "21B9D205-15C5-4447-B131-7BED04988830",
+                                            "name_first": "Yurii",
+                                            "name_middle": "",
+                                            "name_last": "Kosiak"
+                                        },
+                                        "stamp_updated": 1584179856,
+                                        "stamp_updated_by": {
+                                            "uuid": "21B9D205-15C5-4447-B131-7BED04988830",
+                                            "name_first": "Yurii",
+                                            "name_middle": "",
+                                            "name_last": "Kosiak"
+                                        }
+                                    },
+                                    {
+                                        "file_uuid": "5A5774DA-8346-4ED8-A5F7-0C3C20C12643",
+                                        "file_action": "Created",
+                                        "stamp_created": 1584179856,
+                                        "stamp_created_by": {
+                                            "uuid": "21B9D205-15C5-4447-B131-7BED04988830",
+                                            "name_first": "Yurii",
+                                            "name_middle": "",
+                                            "name_last": "Kosiak"
+                                        },
+                                        "stamp_updated": 1584179856,
+                                        "stamp_updated_by": {
+                                            "uuid": "21B9D205-15C5-4447-B131-7BED04988830",
+                                            "name_first": "Yurii",
+                                            "name_middle": "",
+                                            "name_last": "Kosiak"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "history": {
+                        "data": {
+                            "history_uuid": "25DD8DFE-2D2B-4DD8-9679-553B94903DF2",
+                            "history_category": "Music",
+                            "history_size": 681050,
+                            "file_action": "Created",
+                            "history_comment": "Music( vtQ4RpEYLoMcNS44 )",
+                            "stamp_created": 1584179856,
+                            "stamp_created_by": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                            "stamp_updated": 1584179856,
+                            "stamp_updated_by": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A"
+                        }
+                    }
+                },
+                {
+                    "collection_uuid": "90F2F1A4-F296-43AC-ADBD-F8A4BF495C99",
+                    "project_uuid": "1B150CD8-3F18-4E8C-8F63-FC6414F0A27E",
+                    "collection_comment": "**yurii",
+                    "stamp_created": 1584179856,
+                    "stamp_created_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584179856,
+                    "stamp_updated_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "musics": {
+                        "data": [
+                            {
+                                "file_track": 1,
+                                "file_duration": 297,
+                                "file_isrc": "NOX001212345",
+                                "stamp_created": 1584179856,
+                                "stamp_created_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "stamp_updated": 1584179856,
+                                "stamp_updated_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "file_id": 3,
+                                "file_uuid": "B0F3AAE4-016D-473E-9F5B-A7FEDCDB688E",
+                                "file_name": "I'm Back.mp3",
+                                "file_path": "/Music",
+                                "file_title": "I'm Back",
+                                "file_category": "music",
+                                "file_sortby": "/Music/I'm Back.mp3",
+                                "file_size": 41774
+                            },
+                            {
+                                "file_track": 2,
+                                "file_duration": 252,
+                                "file_isrc": "NOX001212345",
+                                "stamp_created": 1584179856,
+                                "stamp_created_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "stamp_updated": 1584179856,
+                                "stamp_updated_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "file_id": 31,
+                                "file_uuid": "50F762AB-B76E-4743-8EB9-A13CB47FA33D",
+                                "file_name": "special.mp3",
+                                "file_path": "/Music",
+                                "file_title": "Everyone Like",
+                                "file_category": "music",
+                                "file_sortby": "/Music/special.mp3",
+                                "file_size": 345095
+                            },
+                            {
+                                "file_track": 2,
+                                "file_duration": 263,
+                                "file_isrc": "NOX001212345",
+                                "stamp_created": 1584179856,
+                                "stamp_created_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "stamp_updated": 1584179856,
+                                "stamp_updated_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "file_id": 1,
+                                "file_uuid": "683552A6-6315-4EA6-85C2-745A6511C22B",
+                                "file_name": "Stan.mp3",
+                                "file_path": "/Music",
+                                "file_title": "Stan",
+                                "file_category": "music",
+                                "file_sortby": "/Music/Stan.mp3",
+                                "file_size": 294084
+                            },
+                            {
+                                "file_track": 3,
+                                "file_duration": 252,
+                                "file_isrc": "NOX001212345",
+                                "stamp_created": 1584179856,
+                                "stamp_created_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "stamp_updated": 1584179856,
+                                "stamp_updated_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "file_id": 2,
+                                "file_uuid": "992540C5-F9CA-420D-9327-7058232DF2B2",
+                                "file_name": "Marshal Mathers.mp3",
+                                "file_path": "/Music",
+                                "file_title": "Marshal",
+                                "file_category": "music",
+                                "file_sortby": "/Music/Marshal Mathers.mp3",
+                                "file_size": 270163
+                            }
+                        ]
+                    },
+                    "fileshistory": {
+                        "data": [
+                            {
+                                "file_id": 32,
+                                "file_uuid": "5A5774DA-8346-4ED8-A5F7-0C3C20C12643",
+                                "file_name": "special-1.mp3",
+                                "file_path": "/Music",
+                                "file_title": "Everyone Like",
+                                "file_category": "music",
+                                "file_sortby": "/Music/sepcial-1.mp3",
+                                "file_size": 335955,
+                                "stamp_created": 1584179856,
+                                "stamp_created_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "stamp_updated": 1584179856,
+                                "stamp_updated_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "file_action": "Deleted",
+                                "file_memo": "File ( 5A5774DA-8346-4ED8-A5F7-0C3C20C12643 ) Deleted",
+                                "file_track": 3,
+                                "file_duration": 277,
+                                "file_isrc": "NOX001212345",
+                                "file_history": [
+                                    {
+                                        "file_uuid": "5A5774DA-8346-4ED8-A5F7-0C3C20C12643",
+                                        "file_action": "Deleted",
+                                        "stamp_created": 1584179856,
+                                        "stamp_created_by": {
+                                            "uuid": "21B9D205-15C5-4447-B131-7BED04988830",
+                                            "name_first": "Yurii",
+                                            "name_middle": "",
+                                            "name_last": "Kosiak"
+                                        },
+                                        "stamp_updated": 1584179856,
+                                        "stamp_updated_by": {
+                                            "uuid": "21B9D205-15C5-4447-B131-7BED04988830",
+                                            "name_first": "Yurii",
+                                            "name_middle": "",
+                                            "name_last": "Kosiak"
+                                        }
+                                    },
+                                    {
+                                        "file_uuid": "5A5774DA-8346-4ED8-A5F7-0C3C20C12643",
+                                        "file_action": "Created",
+                                        "stamp_created": 1584179856,
+                                        "stamp_created_by": {
+                                            "uuid": "21B9D205-15C5-4447-B131-7BED04988830",
+                                            "name_first": "Yurii",
+                                            "name_middle": "",
+                                            "name_last": "Kosiak"
+                                        },
+                                        "stamp_updated": 1584179856,
+                                        "stamp_updated_by": {
+                                            "uuid": "21B9D205-15C5-4447-B131-7BED04988830",
+                                            "name_first": "Yurii",
+                                            "name_middle": "",
+                                            "name_last": "Kosiak"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "history": {
+                        "data": {
+                            "history_uuid": "2A0E23E7-A132-459F-AF63-1298B420FD0E",
+                            "history_category": "Video",
+                            "history_size": 335955,
+                            "file_action": "Deleted",
+                            "history_comment": "Video( WabHQDmXO96YwOsJ )",
+                            "stamp_created": 1584179856,
+                            "stamp_created_by": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                            "stamp_updated": 1584179856,
+                            "stamp_updated_by": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A"
+                        }
+                    }
+                },
+                {
+                    "collection_uuid": "329AC445-0317-4A19-856C-40624BCD80A1",
+                    "project_uuid": "1B150CD8-3F18-4E8C-8F63-FC6414F0A27E",
+                    "collection_comment": "**yurii",
+                    "stamp_created": 1584179856,
+                    "stamp_created_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584179856,
+                    "stamp_updated_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "musics": {
+                        "data": [
+                            {
+                                "file_track": 1,
+                                "file_duration": 297,
+                                "file_isrc": "NOX001212345",
+                                "stamp_created": 1584179856,
+                                "stamp_created_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "stamp_updated": 1584179856,
+                                "stamp_updated_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "file_id": 3,
+                                "file_uuid": "B0F3AAE4-016D-473E-9F5B-A7FEDCDB688E",
+                                "file_name": "I'm Back.mp3",
+                                "file_path": "/Music",
+                                "file_title": "I'm Back",
+                                "file_category": "music",
+                                "file_sortby": "/Music/I'm Back.mp3",
+                                "file_size": 41774
+                            },
+                            {
+                                "file_track": 2,
+                                "file_duration": 252,
+                                "file_isrc": "NOX001212345",
+                                "stamp_created": 1584179856,
+                                "stamp_created_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "stamp_updated": 1584179856,
+                                "stamp_updated_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "file_id": 31,
+                                "file_uuid": "50F762AB-B76E-4743-8EB9-A13CB47FA33D",
+                                "file_name": "special.mp3",
+                                "file_path": "/Music",
+                                "file_title": "Everyone Like",
+                                "file_category": "music",
+                                "file_sortby": "/Music/special.mp3",
+                                "file_size": 345095
+                            },
+                            {
+                                "file_track": 2,
+                                "file_duration": 263,
+                                "file_isrc": "NOX001212345",
+                                "stamp_created": 1584179856,
+                                "stamp_created_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "stamp_updated": 1584179856,
+                                "stamp_updated_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "file_id": 1,
+                                "file_uuid": "683552A6-6315-4EA6-85C2-745A6511C22B",
+                                "file_name": "Stan.mp3",
+                                "file_path": "/Music",
+                                "file_title": "Stan",
+                                "file_category": "music",
+                                "file_sortby": "/Music/Stan.mp3",
+                                "file_size": 294084
+                            },
+                            {
+                                "file_track": 3,
+                                "file_duration": 252,
+                                "file_isrc": "NOX001212345",
+                                "stamp_created": 1584179856,
+                                "stamp_created_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "stamp_updated": 1584179856,
+                                "stamp_updated_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "file_id": 2,
+                                "file_uuid": "992540C5-F9CA-420D-9327-7058232DF2B2",
+                                "file_name": "Marshal Mathers.mp3",
+                                "file_path": "/Music",
+                                "file_title": "Marshal",
+                                "file_category": "music",
+                                "file_sortby": "/Music/Marshal Mathers.mp3",
+                                "file_size": 270163
+                            }
+                        ]
+                    },
+                    "fileshistory": {
+                        "data": [
+                            {
+                                "file_id": 33,
+                                "file_uuid": "1D869E35-C4BE-482D-9B7F-B4968ABF4750",
+                                "file_name": "special-video.mp4",
+                                "file_path": "/Video",
+                                "file_title": "Everyone Like this",
+                                "file_category": "video",
+                                "file_sortby": "/Video/special-video.mp4",
+                                "file_size": 354531,
+                                "stamp_created": 1584179856,
+                                "stamp_created_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "stamp_updated": 1584179856,
+                                "stamp_updated_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "file_action": "Created",
+                                "file_memo": "File ( 1D869E35-C4BE-482D-9B7F-B4968ABF4750 ) Created",
+                                "track_uuid": "683552A6-6315-4EA6-85C2-745A6511C22B",
+                                "track": "Stan",
+                                "file_isrc": "NOX001212345",
+                                "file_history": [
+                                    {
+                                        "file_uuid": "1D869E35-C4BE-482D-9B7F-B4968ABF4750",
+                                        "file_action": "Created",
+                                        "stamp_created": 1584179856,
+                                        "stamp_created_by": {
+                                            "uuid": "21B9D205-15C5-4447-B131-7BED04988830",
+                                            "name_first": "Yurii",
+                                            "name_middle": "",
+                                            "name_last": "Kosiak"
+                                        },
+                                        "stamp_updated": 1584179856,
+                                        "stamp_updated_by": {
+                                            "uuid": "21B9D205-15C5-4447-B131-7BED04988830",
+                                            "name_first": "Yurii",
+                                            "name_middle": "",
+                                            "name_last": "Kosiak"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "file_id": 34,
+                                "file_uuid": "EFAC68DF-6468-4A28-A8B4-0EE2E03D0294",
+                                "file_name": "special-image.ai",
+                                "file_path": "/Video",
+                                "file_title": "Everyone Like this",
+                                "file_category": "video",
+                                "file_sortby": "/Video/special-video-1.mp4",
+                                "file_size": 280579,
+                                "stamp_created": 1584179856,
+                                "stamp_created_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "stamp_updated": 1584179856,
+                                "stamp_updated_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "file_action": "Created",
+                                "file_memo": "File ( EFAC68DF-6468-4A28-A8B4-0EE2E03D0294 ) Created",
+                                "track_uuid": "683552A6-6315-4EA6-85C2-745A6511C22B",
+                                "track": "Stan",
+                                "file_isrc": "NOX001212345",
+                                "file_history": [
+                                    {
+                                        "file_uuid": "EFAC68DF-6468-4A28-A8B4-0EE2E03D0294",
+                                        "file_action": "Created",
+                                        "stamp_created": 1584179856,
+                                        "stamp_created_by": {
+                                            "uuid": "21B9D205-15C5-4447-B131-7BED04988830",
+                                            "name_first": "Yurii",
+                                            "name_middle": "",
+                                            "name_last": "Kosiak"
+                                        },
+                                        "stamp_updated": 1584179856,
+                                        "stamp_updated_by": {
+                                            "uuid": "21B9D205-15C5-4447-B131-7BED04988830",
+                                            "name_first": "Yurii",
+                                            "name_middle": "",
+                                            "name_last": "Kosiak"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "history": {
+                        "data": {
+                            "history_uuid": "844E1DF3-67D3-4A66-B295-1C6D1D58D945",
+                            "history_category": "Multiple",
+                            "history_size": 1325300,
+                            "file_action": "Created",
+                            "history_comment": "Multiple( ZSepHTqw9HsrXx31 )",
+                            "stamp_created": 1584179856,
+                            "stamp_created_by": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                            "stamp_updated": 1584179856,
+                            "stamp_updated_by": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A"
+                        }
+                    }
+                }
+            ]
+        },
+        "deployments": {
+            "data": [
+                {
+                    "deployment_uuid": "723A1EBB-803C-4DC4-BB87-ED4B795D5170",
+                    "deployment_status": {
+                        "deployment_status": "Pending",
+                        "deployment_memo": "deployment_memo"
+                    },
+                    "distribution": "All Territory",
+                    "stamp_created": 1584179856,
+                    "stamp_created_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584179856,
+                    "stamp_updated_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    }
+                }
+            ]
+        }
+    }
+}

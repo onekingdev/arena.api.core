@@ -1,0 +1,531 @@
+{
+    "data": [
+        {
+            "service_uuid": "FEAC7859-0B32-494C-98AE-4DCAF022D796",
+            "service_name": "Service Name 1",
+            "stamp_created": 1584499160,
+            "stamp_created_by": {
+                "uuid": "86D99096-E527-4153-9E14-4AF60451A498",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584499160,
+            "stamp_updated_by": {
+                "uuid": "C621B410-7011-4611-B8A3-46704EFA062B"
+            },
+            "transactions": {
+                "data": [
+                    {
+                        "transaction_uuid": "C91926FD-4F7B-41D3-80BD-31084B459CC8",
+                        "ledger_uuid": "4D42E550-3D9C-4280-B98B-87CB4F8804DD",
+                        "transaction_cost": 2,
+                        "transaction_name": "download",
+                        "transaction_memo": "transaction_memo",
+                        "transaction_type": "transaction_type",
+                        "stamp_created": 1584499162,
+                        "stamp_created_by": {
+                            "uuid": "86D99096-E527-4153-9E14-4AF60451A498",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        },
+                        "stamp_updated": 1584499162,
+                        "stamp_updated_by": {
+                            "uuid": "86D99096-E527-4153-9E14-4AF60451A498",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        }
+                    }
+                ]
+            },
+            "user": {
+                "data": {
+                    "user_uuid": "86D99096-E527-4153-9E14-4AF60451A498",
+                    "name_first": "Samuel",
+                    "name_middle": "",
+                    "name_last": "White",
+                    "stamp_created": 1584499160,
+                    "stamp_created_by": {
+                        "uuid": "86D99096-E527-4153-9E14-4AF60451A498",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584499160,
+                    "stamp_updated_by": {
+                        "uuid": "86D99096-E527-4153-9E14-4AF60451A498",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    }
+                }
+            },
+            "plans": {
+                "data": {
+                    "plan_uuid": "DCCCE1D6-8F9D-4937-A8BD-3FAB6FA10A67",
+                    "ledger_uuid": "168A506A-4014-47B8-8C32-1F40067F5037",
+                    "plan_type": "Smart Block Storage",
+                    "plan_cost": 4.99,
+                    "plan_day": 9,
+                    "stamp_created": 1584499162,
+                    "stamp_created_by": {
+                        "uuid": "86D99096-E527-4153-9E14-4AF60451A498",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584499162,
+                    "stamp_updated_by": {
+                        "uuid": "86D99096-E527-4153-9E14-4AF60451A498",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    }
+                }
+            }
+        },
+        {
+            "service_uuid": "70BBFEB8-58AF-460A-808C-540B0F48D49E",
+            "service_name": "Service Name 2",
+            "stamp_created": 1584499160,
+            "stamp_created_by": {
+                "uuid": "86D99096-E527-4153-9E14-4AF60451A498",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584499160,
+            "stamp_updated_by": {
+                "uuid": "C621B410-7011-4611-B8A3-46704EFA062B"
+            },
+            "transactions": {
+                "data": [
+                    {
+                        "transaction_uuid": "B9B90B65-96CF-4120-A3E7-123184C79993",
+                        "ledger_uuid": "66C08228-BA7C-4088-A88A-342C78437ADF",
+                        "transaction_cost": 2,
+                        "transaction_name": "download",
+                        "transaction_memo": "transaction_memo",
+                        "transaction_type": "transaction_type",
+                        "stamp_created": 1584499162,
+                        "stamp_created_by": {
+                            "uuid": "86D99096-E527-4153-9E14-4AF60451A498",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        },
+                        "stamp_updated": 1584499162,
+                        "stamp_updated_by": {
+                            "uuid": "86D99096-E527-4153-9E14-4AF60451A498",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        }
+                    }
+                ]
+            },
+            "user": {
+                "data": {
+                    "user_uuid": "31D34EAB-F27B-42F5-90FA-11387385D4C0",
+                    "name_first": "Damon",
+                    "name_middle": "",
+                    "name_last": "Evans",
+                    "stamp_created": 1584499160,
+                    "stamp_created_by": {
+                        "uuid": "86D99096-E527-4153-9E14-4AF60451A498",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584499160,
+                    "stamp_updated_by": {
+                        "uuid": "86D99096-E527-4153-9E14-4AF60451A498",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    }
+                }
+            },
+            "plans": {
+                "data": {
+                    "plan_uuid": "424901FC-B6CF-4430-9BE1-4D57D9589ABD",
+                    "ledger_uuid": "C1E71F50-8AD3-4446-8656-CDDEFD475E05",
+                    "plan_type": "Smart Block Storage",
+                    "plan_cost": 24.99,
+                    "plan_day": 31,
+                    "stamp_created": 1584499162,
+                    "stamp_created_by": {
+                        "uuid": "86D99096-E527-4153-9E14-4AF60451A498",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584499162,
+                    "stamp_updated_by": {
+                        "uuid": "86D99096-E527-4153-9E14-4AF60451A498",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    }
+                }
+            }
+        },
+        {
+            "service_uuid": "D29B7782-1BC8-4950-B757-6B2388712214",
+            "service_name": "Service Name 3",
+            "stamp_created": 1584499160,
+            "stamp_created_by": {
+                "uuid": "86D99096-E527-4153-9E14-4AF60451A498",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584499160,
+            "stamp_updated_by": {
+                "uuid": "C621B410-7011-4611-B8A3-46704EFA062B"
+            },
+            "transactions": {
+                "data": [
+                    {
+                        "transaction_uuid": "72B064C3-FC6B-4543-9CE5-051DB722BF6D",
+                        "ledger_uuid": "8BDA0FB2-7EE6-40E2-81F5-AB83C852D087",
+                        "transaction_cost": 2,
+                        "transaction_name": "download",
+                        "transaction_memo": "transaction_memo",
+                        "transaction_type": "transaction_type",
+                        "stamp_created": 1584499162,
+                        "stamp_created_by": {
+                            "uuid": "86D99096-E527-4153-9E14-4AF60451A498",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        },
+                        "stamp_updated": 1584499162,
+                        "stamp_updated_by": {
+                            "uuid": "86D99096-E527-4153-9E14-4AF60451A498",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        }
+                    }
+                ]
+            },
+            "user": {
+                "data": {
+                    "user_uuid": "971269E3-EA93-4E58-B0F2-3191E3F9E5DB",
+                    "name_first": "Yurii",
+                    "name_middle": "",
+                    "name_last": "Kosiak",
+                    "stamp_created": 1584499160,
+                    "stamp_created_by": {
+                        "uuid": "86D99096-E527-4153-9E14-4AF60451A498",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584499160,
+                    "stamp_updated_by": {
+                        "uuid": "86D99096-E527-4153-9E14-4AF60451A498",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    }
+                }
+            },
+            "plans": {
+                "data": {
+                    "plan_uuid": "735EF55B-960F-493E-9089-AE86AB856E1D",
+                    "ledger_uuid": "03EBCCDD-493A-4F7F-AD35-5FB367E7F837",
+                    "plan_type": "Smart Block Storage",
+                    "plan_cost": 24.99,
+                    "plan_day": 17,
+                    "stamp_created": 1584499162,
+                    "stamp_created_by": {
+                        "uuid": "86D99096-E527-4153-9E14-4AF60451A498",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584499162,
+                    "stamp_updated_by": {
+                        "uuid": "86D99096-E527-4153-9E14-4AF60451A498",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    }
+                }
+            }
+        },
+        {
+            "service_uuid": "359C80DE-5A56-4C83-9CDE-6F141F697DD8",
+            "service_name": "Service Name 4",
+            "stamp_created": 1584499160,
+            "stamp_created_by": {
+                "uuid": "86D99096-E527-4153-9E14-4AF60451A498",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584499160,
+            "stamp_updated_by": {
+                "uuid": "C621B410-7011-4611-B8A3-46704EFA062B"
+            },
+            "transactions": {
+                "data": [
+                    {
+                        "transaction_uuid": "20A03156-A1FD-4A07-9689-C5A23E03A9F1",
+                        "ledger_uuid": "6BCF13F1-2C1B-424B-B640-660E81D0665C",
+                        "transaction_cost": 2,
+                        "transaction_name": "download",
+                        "transaction_memo": "transaction_memo",
+                        "transaction_type": "transaction_type",
+                        "stamp_created": 1584499162,
+                        "stamp_created_by": {
+                            "uuid": "86D99096-E527-4153-9E14-4AF60451A498",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        },
+                        "stamp_updated": 1584499162,
+                        "stamp_updated_by": {
+                            "uuid": "86D99096-E527-4153-9E14-4AF60451A498",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        }
+                    }
+                ]
+            },
+            "user": {
+                "data": {
+                    "user_uuid": "8AB5D163-5726-4347-AC54-E0E0011FF3B4",
+                    "name_first": "jin",
+                    "name_middle": "",
+                    "name_last": "tai",
+                    "stamp_created": 1584499160,
+                    "stamp_created_by": {
+                        "uuid": "86D99096-E527-4153-9E14-4AF60451A498",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584499160,
+                    "stamp_updated_by": {
+                        "uuid": "86D99096-E527-4153-9E14-4AF60451A498",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    }
+                }
+            },
+            "plans": {
+                "data": {
+                    "plan_uuid": "F1DB2FE5-A8BF-456F-9765-595E5A54A2B7",
+                    "ledger_uuid": "E1BD1DE6-B316-48B9-B42E-802989AC49C5",
+                    "plan_type": "Smart Block Storage",
+                    "plan_cost": 4.99,
+                    "plan_day": 20,
+                    "stamp_created": 1584499162,
+                    "stamp_created_by": {
+                        "uuid": "86D99096-E527-4153-9E14-4AF60451A498",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584499162,
+                    "stamp_updated_by": {
+                        "uuid": "86D99096-E527-4153-9E14-4AF60451A498",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    }
+                }
+            }
+        },
+        {
+            "service_uuid": "2BD52289-8E3E-4EAA-9B36-30C5482AA663",
+            "service_name": "Service Name 5",
+            "stamp_created": 1584499160,
+            "stamp_created_by": {
+                "uuid": "86D99096-E527-4153-9E14-4AF60451A498",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584499160,
+            "stamp_updated_by": {
+                "uuid": "C621B410-7011-4611-B8A3-46704EFA062B"
+            },
+            "transactions": {
+                "data": [
+                    {
+                        "transaction_uuid": "87ED4E9F-5949-4E4B-9B72-9AA1FF50EB41",
+                        "ledger_uuid": "786EEEE1-C783-4AAD-9D56-412694D20680",
+                        "transaction_cost": 2,
+                        "transaction_name": "download",
+                        "transaction_memo": "transaction_memo",
+                        "transaction_type": "transaction_type",
+                        "stamp_created": 1584499162,
+                        "stamp_created_by": {
+                            "uuid": "86D99096-E527-4153-9E14-4AF60451A498",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        },
+                        "stamp_updated": 1584499162,
+                        "stamp_updated_by": {
+                            "uuid": "86D99096-E527-4153-9E14-4AF60451A498",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        }
+                    }
+                ]
+            },
+            "user": {
+                "data": {
+                    "user_uuid": "FE4EF143-9AB4-4521-9419-D4F867023E93",
+                    "name_first": "Lazar",
+                    "name_middle": "",
+                    "name_last": "Jankovic",
+                    "stamp_created": 1584499160,
+                    "stamp_created_by": {
+                        "uuid": "86D99096-E527-4153-9E14-4AF60451A498",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584499160,
+                    "stamp_updated_by": {
+                        "uuid": "86D99096-E527-4153-9E14-4AF60451A498",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    }
+                }
+            },
+            "plans": {
+                "data": {
+                    "plan_uuid": "D7D4683F-AF9A-416B-8412-49597CDDB40D",
+                    "ledger_uuid": "AE65FE66-B731-446C-91D9-4D8E74C886E5",
+                    "plan_type": "Simple Block Storage",
+                    "plan_cost": 24.99,
+                    "plan_day": 19,
+                    "stamp_created": 1584499162,
+                    "stamp_created_by": {
+                        "uuid": "86D99096-E527-4153-9E14-4AF60451A498",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584499162,
+                    "stamp_updated_by": {
+                        "uuid": "86D99096-E527-4153-9E14-4AF60451A498",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    }
+                }
+            }
+        },
+        {
+            "service_uuid": "F7727DFB-5C0C-40F1-B9BB-429FF9553C4A",
+            "service_name": "Service Name 6",
+            "stamp_created": 1584499160,
+            "stamp_created_by": {
+                "uuid": "86D99096-E527-4153-9E14-4AF60451A498",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584499160,
+            "stamp_updated_by": {
+                "uuid": "C621B410-7011-4611-B8A3-46704EFA062B"
+            },
+            "transactions": {
+                "data": [
+                    {
+                        "transaction_uuid": "E00DF46F-B710-4C8A-A801-CC829FDE34F9",
+                        "ledger_uuid": "9F7C1226-B928-4F10-8701-48B56814F3A0",
+                        "transaction_cost": 2,
+                        "transaction_name": "download",
+                        "transaction_memo": "transaction_memo",
+                        "transaction_type": "transaction_type",
+                        "stamp_created": 1584499162,
+                        "stamp_created_by": {
+                            "uuid": "86D99096-E527-4153-9E14-4AF60451A498",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        },
+                        "stamp_updated": 1584499162,
+                        "stamp_updated_by": {
+                            "uuid": "86D99096-E527-4153-9E14-4AF60451A498",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        }
+                    }
+                ]
+            },
+            "user": {
+                "data": {
+                    "user_uuid": "522489AA-BF99-48E4-8860-659F8445BBCE",
+                    "name_first": "Demo",
+                    "name_middle": "Test",
+                    "name_last": "Dummy",
+                    "stamp_created": 1584499160,
+                    "stamp_created_by": {
+                        "uuid": "86D99096-E527-4153-9E14-4AF60451A498",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584499160,
+                    "stamp_updated_by": {
+                        "uuid": "86D99096-E527-4153-9E14-4AF60451A498",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    }
+                }
+            },
+            "plans": {
+                "data": {
+                    "plan_uuid": "37EC5DC0-D5E3-4328-9E84-1D60A051C99C",
+                    "ledger_uuid": "14389E8E-6234-479C-97F0-2822C118112A",
+                    "plan_type": "Simple Block Storage",
+                    "plan_cost": 4.99,
+                    "plan_day": 8,
+                    "stamp_created": 1584499162,
+                    "stamp_created_by": {
+                        "uuid": "86D99096-E527-4153-9E14-4AF60451A498",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584499162,
+                    "stamp_updated_by": {
+                        "uuid": "86D99096-E527-4153-9E14-4AF60451A498",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    }
+                }
+            }
+        }
+    ],
+    "meta": {
+        "pages": {
+            "total": 6,
+            "count": 6,
+            "per_page": 10,
+            "current_page": 1,
+            "total_pages": 1,
+            "links": [],
+            "from": 1
+        }
+    }
+}

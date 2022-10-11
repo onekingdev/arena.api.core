@@ -1,0 +1,8 @@
+{
+  "data": null,
+  "status": {
+    "app": "Arena.API",
+    "code": 449,
+    "message": "2FA Code Required."
+  }
+}

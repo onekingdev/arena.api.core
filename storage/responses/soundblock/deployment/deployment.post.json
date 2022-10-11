@@ -1,0 +1,21 @@
+{
+    "data": {
+        "deployment_uuid": "b1cfdf43-bf52-439f-a3c8-caad796b262c",
+        "deployment_status": "1",
+        "stamp_created_at": "2020-02-08T02:23:58.000000Z",
+        "stamp_updated_at": "2020-02-08T02:23:58.000000Z",
+        "platform": {
+            "data": {
+                "uuid": null,
+                "name": "Amazon"
+            }
+        },
+        "project": {
+            "data": {
+                "uuid": "16b97d9e-4ad2-41ee-8721-7101d04691e0",
+                "title": null,
+                "date": null
+            }
+        }
+    }
+}

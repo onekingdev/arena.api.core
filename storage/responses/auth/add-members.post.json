@@ -1,0 +1,278 @@
+{
+    "data": {
+        "group_uuid": "4916F35A-83B7-445D-AD49-145FE1005256",
+        "auth_uuid": "021B118C-EA54-4FD2-A8EF-3C99D4D1C862",
+        "group_name": "Today Arena Group POLO",
+        "group_memo": "Group memo",
+        "stamp_created": 1584250477,
+        "stamp_created_by": {
+            "uuid": "21B9D205-15C5-4447-B131-7BED04988830",
+            "name_first": "Yurii",
+            "name_middle": "",
+            "name_last": "Kosiak"
+        },
+        "stamp_updated": 1584250477,
+        "stamp_updated_by": {
+            "uuid": "21B9D205-15C5-4447-B131-7BED04988830",
+            "name_first": "Yurii",
+            "name_middle": "",
+            "name_last": "Kosiak"
+        },
+        "users": {
+            "data": [
+                {
+                    "user_uuid": "21B9D205-15C5-4447-B131-7BED04988830",
+                    "name_first": "Yurii",
+                    "name_middle": "",
+                    "name_last": "Kosiak",
+                    "stamp_created": 1584179854,
+                    "stamp_created_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584179854,
+                    "stamp_updated_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "aliases": {
+                        "data": [
+                            {
+                                "alias_uuid": "EF03A768-F9CF-44BE-BEC8-3F1830E9CBB0",
+                                "user_alias": "yura",
+                                "stamp_created": 1584179854,
+                                "stamp_created_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "stamp_updated": 1584179854,
+                                "stamp_updated_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                }
+                            },
+                            {
+                                "alias_uuid": "BDB0DDA5-1E3A-4512-9B02-630830AD1C2F",
+                                "user_alias": "ykosiak",
+                                "stamp_created": 1584179854,
+                                "stamp_created_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "stamp_updated": 1584179854,
+                                "stamp_updated_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                }
+                            },
+                            {
+                                "alias_uuid": "CCCB2357-C654-4650-BF29-BCBB53DAB47E",
+                                "user_alias": "yurii",
+                                "stamp_created": 1584179854,
+                                "stamp_created_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "stamp_updated": 1584179854,
+                                "stamp_updated_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                }
+                            }
+                        ]
+                    },
+                    "emails": {
+                        "data": [
+                            {
+                                "user_auth_email": "ykosiak@arena.com",
+                                "stamp_created": 1584179854,
+                                "stamp_created_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "stamp_updated": 1584179854,
+                                "stamp_updated_by": {
+                                    "uuid": "21B9D205-15C5-4447-B131-7BED04988830",
+                                    "name_first": "Yurii",
+                                    "name_middle": "",
+                                    "name_last": "Kosiak"
+                                },
+                                "stamp_email": 1584179854,
+                                "stamp_email_by": {
+                                    "uuid": "4C6AAD53-70BA-470A-A854-0F88DBDC9E2E",
+                                    "name_first": "Damon",
+                                    "name_middle": "",
+                                    "name_last": "Evans"
+                                }
+                            }
+                        ]
+                    },
+                    "avatar": {
+                        "data": {
+                            "avatar_uuid": "C9E78A26-3734-4F4F-ABE5-727F4441E6EC",
+                            "avatar_url": "http://test.api.arena.com/storage/default/avatar.png",
+                            "stamp_created": 1584179855,
+                            "stamp_created_by": {
+                                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                "name_first": "Samuel",
+                                "name_middle": "",
+                                "name_last": "White"
+                            },
+                            "stamp_updated": 1584179855,
+                            "stamp_updated_by": {
+                                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                "name_first": "Samuel",
+                                "name_middle": "",
+                                "name_last": "White"
+                            }
+                        }
+                    }
+                },
+                {
+                    "user_uuid": "7C619A2D-9BF6-4F6A-BE96-17285A354344",
+                    "name_first": "jin",
+                    "name_middle": "",
+                    "name_last": "tai",
+                    "stamp_created": 1584179854,
+                    "stamp_created_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584179854,
+                    "stamp_updated_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "aliases": {
+                        "data": [
+                            {
+                                "alias_uuid": "DC9FA4C0-5F2A-47C9-BAE9-338CC77FF917",
+                                "user_alias": "jin",
+                                "stamp_created": 1584179854,
+                                "stamp_created_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "stamp_updated": 1584179854,
+                                "stamp_updated_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                }
+                            },
+                            {
+                                "alias_uuid": "435B4D26-A64A-4379-ACBB-248FCEA756A8",
+                                "user_alias": "jtai",
+                                "stamp_created": 1584179854,
+                                "stamp_created_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "stamp_updated": 1584179854,
+                                "stamp_updated_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                }
+                            },
+                            {
+                                "alias_uuid": "EAB01D9A-5FF4-442D-8543-121B595885D3",
+                                "user_alias": "Jintai",
+                                "stamp_created": 1584179854,
+                                "stamp_created_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "stamp_updated": 1584179854,
+                                "stamp_updated_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                }
+                            }
+                        ]
+                    },
+                    "emails": {
+                        "data": [
+                            {
+                                "user_auth_email": "jintai@arena.com",
+                                "stamp_created": 1584179854,
+                                "stamp_created_by": {
+                                    "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                    "name_first": "Samuel",
+                                    "name_middle": "",
+                                    "name_last": "White"
+                                },
+                                "stamp_updated": 1584179854,
+                                "stamp_updated_by": {
+                                    "uuid": "21B9D205-15C5-4447-B131-7BED04988830",
+                                    "name_first": "Yurii",
+                                    "name_middle": "",
+                                    "name_last": "Kosiak"
+                                },
+                                "stamp_email": 1584179854,
+                                "stamp_email_by": {
+                                    "uuid": "21B9D205-15C5-4447-B131-7BED04988830",
+                                    "name_first": "Yurii",
+                                    "name_middle": "",
+                                    "name_last": "Kosiak"
+                                }
+                            }
+                        ]
+                    },
+                    "avatar": {
+                        "data": {
+                            "avatar_uuid": "5BDB32CB-F8AB-45CC-B6B8-40019DC8C172",
+                            "avatar_url": "http://test.api.arena.com/storage/default/avatar.png",
+                            "stamp_created": 1584179855,
+                            "stamp_created_by": {
+                                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                "name_first": "Samuel",
+                                "name_middle": "",
+                                "name_last": "White"
+                            },
+                            "stamp_updated": 1584179855,
+                            "stamp_updated_by": {
+                                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                                "name_first": "Samuel",
+                                "name_middle": "",
+                                "name_last": "White"
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

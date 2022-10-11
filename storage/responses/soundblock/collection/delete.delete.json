@@ -1,0 +1,103 @@
+{
+    "data": {
+        "collection_uuid": "d0ae12f2-0940-401c-8464-94f6581e582c",
+        "project_uuid": "16b97d9e-4ad2-41ee-8721-7101d04691e0",
+        "collection_comment": "Delete 2 files",
+        "stamp_created": 1581131405,
+        "stamp_created_at": "2020-02-08T03:10:05.000000Z",
+        "stamp_updated": 1581131405,
+        "stamp_updated_at": "2020-02-08T03:10:05.000000Z",
+        "directories": {
+            "data": [
+                {
+                    "uuid": "722e1847-20c8-4b07-8e23-8c652aceff85",
+                    "directory_name": null,
+                    "directory_path": "/Music/music",
+                    "directory_sortby": "/Music/music/Something"
+                },
+                {
+                    "uuid": "4e8ba393-a84e-4822-897a-38bf8b896380",
+                    "directory_name": null,
+                    "directory_path": "/Music/music",
+                    "directory_sortby": "/Music/music/Something"
+                },
+                {
+                    "uuid": "83dd1277-eb4c-42c1-be4b-4d94b9c9e06c",
+                    "directory_name": null,
+                    "directory_path": "/Music/music",
+                    "directory_sortby": "/Music/music/Somethinglppllpl"
+                }
+            ]
+        },
+        "files": {
+            "data": [
+                {
+                    "file_uuid": "922ef008-dd64-4eaa-8d12-c4d7eb431e3a",
+                    "file_name": "Death Grips - I've Seen Footage.mp3",
+                    "file_path": "/Music",
+                    "file_category": "music",
+                    "file_sortby": "/Music/Death Grips - I've Seen Footage.mp3",
+                    "file_size": 3247632
+                },
+                {
+                    "file_uuid": "550e1e28-b9e0-4449-8387-03d3862c3d3e",
+                    "file_name": "License free.txt",
+                    "file_path": "/Other",
+                    "file_category": "3",
+                    "file_sortby": "/Other/License free.txt",
+                    "file_size": 1462
+                },
+                {
+                    "file_uuid": "73b78914-c700-4ccd-a677-a2a6b8b0f760",
+                    "file_name": "License premium.txt",
+                    "file_path": "/Other",
+                    "file_category": "3",
+                    "file_sortby": "/Other/License premium.txt",
+                    "file_size": 1115
+                },
+                {
+                    "file_uuid": "95cd450e-6387-4049-a354-a060522e83d3",
+                    "file_name": "3327489 copy.psd",
+                    "file_path": "/Video",
+                    "file_category": "merch",
+                    "file_sortby": "/Video/3327489 copy.psd",
+                    "file_size": 1656966
+                },
+                {
+                    "file_uuid": "cbb054bc-3ca9-43d3-9067-daa25fb00c2b",
+                    "file_name": "Zootopia song (try everything).mp4",
+                    "file_path": "/Video",
+                    "file_category": "video",
+                    "file_sortby": "/Video/Zootopia song (try everything).mp4",
+                    "file_size": 14209460
+                }
+            ]
+        },
+        "project": {
+            "data": {
+                "project_uuid": "16b97d9e-4ad2-41ee-8721-7101d04691e0",
+                "project_title": "Now",
+                "project_type": 1,
+                "project_date": "2020-01-08",
+                "account": {
+                    "data": {
+                        "account_uuid": "25d44a62-0316-498b-83fa-722331b8ae33",
+                        "account_name": "Account Name 3",
+                        "stamp_created_at": "2020-02-07T18:12:13.000000Z",
+                        "stamp_updated_at": "2020-02-07T18:12:13.000000Z",
+                        "user": {
+                            "data": {
+                                "user_uuid": "c56dfcdf-c35d-4821-bbac-32eea165726f",
+                                "name": null,
+                                "email": null,
+                                "roles": {
+                                    "data": []
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "data": {
+        "collection_uuid": "71E58974-BF4D-40BB-9269-CCC3B862BB71",
+        "project_uuid": "1B150CD8-3F18-4E8C-8F63-FC6414F0A27E",
+        "collection_comment": "Changed file tracks",
+        "stamp_created": 1584325994,
+        "stamp_created_by": {
+            "uuid": "21B9D205-15C5-4447-B131-7BED04988830",
+            "name_first": "Yurii",
+            "name_middle": "",
+            "name_last": "Kosiak"
+        },
+        "stamp_updated": 1584325994,
+        "stamp_updated_by": {
+            "uuid": "21B9D205-15C5-4447-B131-7BED04988830",
+            "name_first": "Yurii",
+            "name_middle": "",
+            "name_last": "Kosiak"
+        }
+    }
+}

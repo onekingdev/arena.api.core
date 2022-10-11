@@ -1,0 +1,18 @@
+{
+    "data": {
+        "user_uuid": "6DD3415E-2B7D-4BF2-8CC0-E579BEE30B22",
+        "stamp_created": 1583287473,
+        "stamp_created_by": "6DD3415E-2B7D-4BF2-8CC0-E579BEE30B22",
+        "stamp_updated": 1583287473,
+        "stamp_updated_by": "6DD3415E-2B7D-4BF2-8CC0-E579BEE30B22",
+        "avatar": {
+            "data": {
+                "avatar_uuid": "255DFACE-FD09-4408-A7B2-326B98382110",
+                "stamp_created": 1583287478,
+                "stamp_created_by": "6DD3415E-2B7D-4BF2-8CC0-E579BEE30B22",
+                "stamp_updated": 1583287478,
+                "stamp_updated_by": "6DD3415E-2B7D-4BF2-8CC0-E579BEE30B22"
+            }
+        }
+    }
+}

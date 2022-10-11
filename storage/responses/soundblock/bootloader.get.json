@@ -1,0 +1,135 @@
+{
+    "response": {
+        "user": {
+            "data": {
+                "user_uuid": "21B9D205-15C5-4447-B131-7BED04988830",
+                "name_first": "Yurii",
+                "name_middle": "",
+                "name_last": "Kosiak"
+            },
+            "emails": [
+                {
+                    "user_auth_email": "ykosiak@arena.com"
+                }
+            ],
+            "avatar": null
+        },
+        "services": [
+            [
+                {
+                    "service": {
+                        "service_uuid": "7BC828D1-B645-4A5E-8023-9795D69D335B",
+                        "user_uuid": "21B9D205-15C5-4447-B131-7BED04988830",
+                        "service_name": "Service Name 3"
+                    },
+                    "permissions": [
+                        {
+                            "permission_uuid": "98D1E7DF-2E16-4EAD-B1CA-56A50DB4AD86",
+                            "permission_name": "App.Soundblock.Service.Project.Create",
+                            "permission_memo": "App.Soundblock.Service.Project.Create",
+                            "flag_critical": 1
+                        },
+                        {
+                            "permission_uuid": "92103616-D7F6-42BC-89DB-22B93621F1DD",
+                            "permission_name": "App.Soundblock.Service.Project.Deploy",
+                            "permission_memo": "App.Soundblock.Service.Project.Deploy",
+                            "flag_critical": 1
+                        },
+                        {
+                            "permission_uuid": "9069704F-B0FB-45F0-BDEB-FACA2E2B446B",
+                            "permission_name": "App.Soundblock.Service.Report.Payments",
+                            "permission_memo": "App.Soundblock.Service.Report.Payments",
+                            "flag_critical": 1
+                        },
+                        {
+                            "permission_uuid": "6E655241-68CC-421D-B540-EF0CE238CB40",
+                            "permission_name": "App.Soundblock.Service.Storage.Simple",
+                            "permission_memo": "App.Soundblock.Service.Storage.Simple",
+                            "flag_critical": 1
+                        },
+                        {
+                            "permission_uuid": "174D6E70-A524-412D-84DE-529F7CBBD28A",
+                            "permission_name": "App.Soundblock.Service.Storage.Smart",
+                            "permission_memo": "App.Soundblock.Service.Storage.Smart",
+                            "flag_critical": 1
+                        }
+                    ]
+                },
+                {
+                    "service": {
+                        "service_uuid": "EC44339E-436E-4E2D-8310-0D92B683326C",
+                        "user_uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "service_name": "Service Name 1"
+                    },
+                    "permissions": [
+                        {
+                            "permission_uuid": "98D1E7DF-2E16-4EAD-B1CA-56A50DB4AD86",
+                            "permission_name": "App.Soundblock.Service.Project.Create",
+                            "permission_memo": "App.Soundblock.Service.Project.Create",
+                            "flag_critical": 1
+                        }
+                    ]
+                },
+                {
+                    "service": {
+                        "service_uuid": "7FBADC96-E9D1-4C9D-BB7C-13CC1C84D664",
+                        "user_uuid": "4C6AAD53-70BA-470A-A854-0F88DBDC9E2E",
+                        "service_name": "Service Name 2"
+                    },
+                    "permissions": [
+                        {
+                            "permission_uuid": "98D1E7DF-2E16-4EAD-B1CA-56A50DB4AD86",
+                            "permission_name": "App.Soundblock.Service.Project.Create",
+                            "permission_memo": "App.Soundblock.Service.Project.Create",
+                            "flag_critical": 1
+                        },
+                        {
+                            "permission_uuid": "92103616-D7F6-42BC-89DB-22B93621F1DD",
+                            "permission_name": "App.Soundblock.Service.Project.Deploy",
+                            "permission_memo": "App.Soundblock.Service.Project.Deploy",
+                            "flag_critical": 1
+                        },
+                        {
+                            "permission_uuid": "9069704F-B0FB-45F0-BDEB-FACA2E2B446B",
+                            "permission_name": "App.Soundblock.Service.Report.Payments",
+                            "permission_memo": "App.Soundblock.Service.Report.Payments",
+                            "flag_critical": 1
+                        }
+                    ]
+                },
+                {
+                    "service": {
+                        "service_uuid": "37C8694E-0E7E-4C8D-A050-8B4DDB5EA875",
+                        "user_uuid": "28F0270E-9906-4712-90F2-1236CEFA2958",
+                        "service_name": "Service Name 5"
+                    },
+                    "permissions": [
+                        {
+                            "permission_uuid": "98D1E7DF-2E16-4EAD-B1CA-56A50DB4AD86",
+                            "permission_name": "App.Soundblock.Service.Project.Create",
+                            "permission_memo": "App.Soundblock.Service.Project.Create",
+                            "flag_critical": 1
+                        },
+                        {
+                            "permission_uuid": "6E655241-68CC-421D-B540-EF0CE238CB40",
+                            "permission_name": "App.Soundblock.Service.Storage.Simple",
+                            "permission_memo": "App.Soundblock.Service.Storage.Simple",
+                            "flag_critical": 1
+                        },
+                        {
+                            "permission_uuid": "174D6E70-A524-412D-84DE-529F7CBBD28A",
+                            "permission_name": "App.Soundblock.Service.Storage.Smart",
+                            "permission_memo": "App.Soundblock.Service.Storage.Smart",
+                            "flag_critical": 1
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "status": {
+        "app": "Arena.API",
+        "code": 200,
+        "message": ""
+    }
+}

@@ -1,0 +1,170 @@
+{
+    "data": {
+        "collection_uuid": "F9B4687A-8437-4A73-8B57-F51D9D3C077A",
+        "project_uuid": "6C7CEAF1-6DC5-47B8-99AE-BCFC5F9AC5F7",
+        "collection_comment": "Let's revert!",
+        "stamp_created": 1581719862,
+        "stamp_created_at": "2020-02-14T22:37:42.000000Z",
+        "stamp_updated": 1581719862,
+        "stamp_updated_at": "2020-02-14T22:37:42.000000Z",
+        "directories": {
+            "data": []
+        },
+        "files": {
+            "data": [
+                {
+                    "file_uuid": "8EBC21AB-D3D1-47C2-9154-3AF6A2483170",
+                    "file_name": "I'm Back.mp3",
+                    "file_path": "/Music",
+                    "file_category": "music",
+                    "file_sortby": "/Music/I'm Back.mp3",
+                    "file_size": 2113939
+                },
+                {
+                    "file_uuid": "199F244F-DEC9-4FF2-9779-87D31B1C0AC8",
+                    "file_name": "Marshal Mathers.mp3",
+                    "file_path": "/Music",
+                    "file_category": "music",
+                    "file_sortby": "/Music/Marshal Mathers.mp3",
+                    "file_size": 2113939
+                },
+                {
+                    "file_uuid": "0616AD92-0FE5-45A5-8F87-2D8B83FB4B9E",
+                    "file_name": "Stan.mp3",
+                    "file_path": "/Music",
+                    "file_category": "music",
+                    "file_sortby": "/Music/Stan.mp3",
+                    "file_size": 2113939
+                },
+                {
+                    "file_uuid": "3A440E66-7424-46B1-A38F-E1FB700BF463",
+                    "file_name": ".DS_Store",
+                    "file_path": "/Other",
+                    "file_category": "other",
+                    "file_sortby": "/Other/.DS_Store",
+                    "file_size": 6148
+                },
+                {
+                    "file_uuid": "3A440E66-7424-46B1-A38F-E1FB700BF463",
+                    "file_name": ".DS_Store",
+                    "file_path": "/Other",
+                    "file_category": "other",
+                    "file_sortby": "/Other/.DS_Store",
+                    "file_size": 6148
+                },
+                {
+                    "file_uuid": "900AE15C-C508-4477-8479-11557BF805F8",
+                    "file_name": "Files-2.doc",
+                    "file_path": "/Other",
+                    "file_category": "other",
+                    "file_sortby": "/Other/Files-2.doc",
+                    "file_size": 1024000
+                },
+                {
+                    "file_uuid": "C00211A1-8A68-4A75-A1EA-639B9D10A664",
+                    "file_name": "file-1.doc",
+                    "file_path": "/Other",
+                    "file_category": "other",
+                    "file_sortby": "/Other/file-1.doc",
+                    "file_size": 512000
+                },
+                {
+                    "file_uuid": "919C1002-1276-4D84-A192-479BC5B6FBC0",
+                    "file_name": "files-4.docx",
+                    "file_path": "/Other",
+                    "file_category": "other",
+                    "file_sortby": "/Other/files-4.docx",
+                    "file_size": 1026736
+                },
+                {
+                    "file_uuid": "C6BA4BCC-C3AD-43E0-B774-C623F9A0B1A8",
+                    "file_name": "22.psd",
+                    "file_path": "/Video",
+                    "file_category": "merch",
+                    "file_sortby": "/Video/22.psd",
+                    "file_size": 1993972
+                },
+                {
+                    "file_uuid": "0E0E6A97-9AC1-4EDD-A1A4-5322851D0640",
+                    "file_name": "Me!.psd",
+                    "file_path": "/Video",
+                    "file_category": "merch",
+                    "file_sortby": "/Video/Me!.psd",
+                    "file_size": 1993972
+                },
+                {
+                    "file_uuid": "2ED0D0C0-58BF-4A55-BFC3-788C549F718E",
+                    "file_name": "Panic.ai",
+                    "file_path": "/Video",
+                    "file_category": "merch",
+                    "file_sortby": "/Video/Panic.ai",
+                    "file_size": 826458
+                },
+                {
+                    "file_uuid": "E340FC02-5438-43B8-A449-EB2420401F66",
+                    "file_name": "Shake_it_off.psd",
+                    "file_path": "/Video",
+                    "file_category": "merch",
+                    "file_sortby": "/Video/Shake_it_off.psd",
+                    "file_size": 2196530
+                },
+                {
+                    "file_uuid": "2A9B28EB-C854-4D1F-B0C3-5B7EF844507E",
+                    "file_name": "Style.psd",
+                    "file_path": "/Video",
+                    "file_category": "merch",
+                    "file_sortby": "/Video/Style.psd",
+                    "file_size": 2196530
+                },
+                {
+                    "file_uuid": "73DC2C32-5FD7-40CB-BFD9-F751EE895AB3",
+                    "file_name": "back.mp4",
+                    "file_path": "/Video",
+                    "file_category": "video",
+                    "file_sortby": "/Video/back.mp4",
+                    "file_size": 5249454
+                },
+                {
+                    "file_uuid": "33F8AFE2-18AD-4D04-9554-3E9557399207",
+                    "file_name": "marsahal.mp4",
+                    "file_path": "/Video",
+                    "file_category": "video",
+                    "file_sortby": "/Video/marsahal.mp4",
+                    "file_size": 14209460
+                },
+                {
+                    "file_uuid": "08013F7B-8381-4E79-8279-1A34252CA8DC",
+                    "file_name": "sample.psd",
+                    "file_path": "/Video",
+                    "file_category": "merch",
+                    "file_sortby": "/Video/sample.psd",
+                    "file_size": 2196530
+                },
+                {
+                    "file_uuid": "DAC47D47-A42B-4B1E-BDC3-BFF8539E1596",
+                    "file_name": "video1.mp4",
+                    "file_path": "/Video",
+                    "file_category": "video",
+                    "file_sortby": "/Video/video1.mp4",
+                    "file_size": 31539436
+                },
+                {
+                    "file_uuid": "7076E3AE-B5B7-45B9-8D7D-335F96217106",
+                    "file_name": "video2.mp4",
+                    "file_path": "/Video",
+                    "file_category": "video",
+                    "file_sortby": "/Video/video2.mp4",
+                    "file_size": 25311565
+                },
+                {
+                    "file_uuid": "40972320-BCCC-4906-B094-F6881ACB5A4E",
+                    "file_name": "video3.mp4",
+                    "file_path": "/Video",
+                    "file_category": "video",
+                    "file_sortby": "/Video/video3.mp4",
+                    "file_size": 14209460
+                }
+            ]
+        }
+    }
+}

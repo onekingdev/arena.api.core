@@ -1,0 +1,21 @@
+{
+    "data": {
+        "collection_uuid": "89A8BA01-162C-40BD-85AF-6DA5299765B9",
+        "project_uuid": "1B150CD8-3F18-4E8C-8F63-FC6414F0A27E",
+        "collection_comment": "delete a directory from 75th collection",
+        "stamp_created": 1584328318,
+        "stamp_created_by": {
+            "uuid": "21B9D205-15C5-4447-B131-7BED04988830",
+            "name_first": "Yurii",
+            "name_middle": "",
+            "name_last": "Kosiak"
+        },
+        "stamp_updated": 1584328318,
+        "stamp_updated_by": {
+            "uuid": "21B9D205-15C5-4447-B131-7BED04988830",
+            "name_first": "Yurii",
+            "name_middle": "",
+            "name_last": "Kosiak"
+        }
+    }
+}

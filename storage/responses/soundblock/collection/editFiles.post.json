@@ -1,0 +1,84 @@
+{
+    "data": {
+        "collection_uuid": "01e6a5fb-0e19-435e-adbf-a881f4b24f7d",
+        "project_uuid": "16b97d9e-4ad2-41ee-8721-7101d04691e0",
+        "collection_comment": "Sharing everything.",
+        "stamp_created": 1581118122,
+        "stamp_created_at": "2020-02-07T23:28:42.000000Z",
+        "stamp_updated": 1581118122,
+        "stamp_updated_at": "2020-02-07T23:28:42.000000Z",
+        "directories": {
+            "data": []
+        },
+        "files": {
+            "data": [
+                {
+                    "uuid": "922ef008-dd64-4eaa-8d12-c4d7eb431e3a",
+                    "file_name": "Death Grips - I've Seen Footage.mp3",
+                    "file_path": "/Music",
+                    "file_category": "music",
+                    "file_sortby": "/Music/Death Grips - I've Seen Footage.mp3",
+                    "file_size": 3247632
+                },
+                {
+                    "uuid": "550e1e28-b9e0-4449-8387-03d3862c3d3e",
+                    "file_name": "License free.txt",
+                    "file_path": "/Other",
+                    "file_category": "3",
+                    "file_sortby": "/Other/License free.txt",
+                    "file_size": 1462
+                },
+                {
+                    "uuid": "73b78914-c700-4ccd-a677-a2a6b8b0f760",
+                    "file_name": "License premium.txt",
+                    "file_path": "/Other",
+                    "file_category": "3",
+                    "file_sortby": "/Other/License premium.txt",
+                    "file_size": 1115
+                },
+                {
+                    "uuid": "1e9b12a2-8039-4947-ae49-45b0e8b89608",
+                    "file_name": "Joker.psd",
+                    "file_path": "/Video",
+                    "file_category": "merch",
+                    "file_sortby": "/Video/Joker.psd",
+                    "file_size": 1656966
+                },
+                {
+                    "uuid": "cbb054bc-3ca9-43d3-9067-daa25fb00c2b",
+                    "file_name": "Zootopia song (try everything).mp4",
+                    "file_path": "/Video",
+                    "file_category": "video",
+                    "file_sortby": "/Video/Zootopia song (try everything).mp4",
+                    "file_size": 14209460
+                }
+            ]
+        },
+        "project": {
+            "data": {
+                "project_uuid": "16b97d9e-4ad2-41ee-8721-7101d04691e0",
+                "project_title": "Now",
+                "project_type": 1,
+                "project_date": "2020-01-08",
+                "account": {
+                    "data": {
+                        "account_uuid": "25d44a62-0316-498b-83fa-722331b8ae33",
+                        "account_name": "Account Name 3",
+                        "stamp_created_at": "2020-02-07T18:12:13.000000Z",
+                        "stamp_updated_at": "2020-02-07T18:12:13.000000Z",
+                        "user": {
+                            "data": {
+                                "user_uuid": "c56dfcdf-c35d-4821-bbac-32eea165726f",
+                                "name": null,
+                                "email": null,
+                                "roles": {
+                                    "data": []
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

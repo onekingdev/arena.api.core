@@ -1,0 +1,12 @@
+{
+    "response": {
+        "error": "Can not finish your query request!",
+        "exception": "Illuminate\\Database\\QueryException",
+        "message": "SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Today Arena Group POLO111' for key 'auth_groups_group_name_unique' (SQL: insert into `auth_groups` (`group_uuid`, `auth_id`, `auth_uuid`, `group_name`, `group_memo`, `flag_critical`, `stamp_created`, `stamp_updated`, `stamp_created_by`, `stamp_updated_by`, `stamp_updated_at`, `stamp_created_at`) values (DE169F46-94F3-4DAF-B774-9A07EAEFA61B, 8, 021B118C-EA54-4FD2-A8EF-3C99D4D1C862, Today Arena Group POLO111, Group memo, 0, 1584250817, 1584250817, 3, 3, 2020-03-15 05:40:17, 2020-03-15 05:40:17))"
+    },
+    "status": {
+        "app": "Arena.API",
+        "code": 422,
+        "message": ""
+    }
+}

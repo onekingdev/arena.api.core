@@ -1,0 +1,26 @@
+{
+    "data": {
+        "user_auth_email": "ron@arena.com",
+        "stamp_created": 1584292000,
+        "stamp_created_by": {
+            "uuid": "28F0270E-9906-4712-90F2-1236CEFA2958",
+            "name_first": "Lazar",
+            "name_middle": "",
+            "name_last": "Jankovic"
+        },
+        "stamp_updated": 1584292000,
+        "stamp_updated_by": {
+            "uuid": "28F0270E-9906-4712-90F2-1236CEFA2958",
+            "name_first": "Lazar",
+            "name_middle": "",
+            "name_last": "Jankovic"
+        },
+        "stamp_email": null,
+        "stamp_email_by": {
+            "uuid": "28F0270E-9906-4712-90F2-1236CEFA2958",
+            "name_first": "Lazar",
+            "name_middle": "",
+            "name_last": "Jankovic"
+        }
+    }
+}

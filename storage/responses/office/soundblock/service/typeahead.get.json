@@ -1,0 +1,94 @@
+{
+    "data": [
+        {
+            "service_uuid": "CB7FA69A-BF28-49EA-8F6B-2B58CC61FE49",
+            "service_name": "Service Name 1",
+            "stamp_created": 1584399954,
+            "stamp_created_by": {
+                "uuid": "027CC4FA-8A94-4ACE-932E-1C8222832941",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584399954,
+            "stamp_updated_by": {
+                "uuid": "027CC4FA-8A94-4ACE-932E-1C8222832941"
+            }
+        },
+        {
+            "service_uuid": "A3C9AA00-C95E-497E-8236-07E84E141FF5",
+            "service_name": "Service Name 2",
+            "stamp_created": 1584399954,
+            "stamp_created_by": {
+                "uuid": "027CC4FA-8A94-4ACE-932E-1C8222832941",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584399954,
+            "stamp_updated_by": {
+                "uuid": "027CC4FA-8A94-4ACE-932E-1C8222832941"
+            }
+        },
+        {
+            "service_uuid": "4E905A69-9705-439A-857A-2A8A3C841C83",
+            "service_name": "Service Name 3",
+            "stamp_created": 1584399954,
+            "stamp_created_by": {
+                "uuid": "027CC4FA-8A94-4ACE-932E-1C8222832941",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584399954,
+            "stamp_updated_by": {
+                "uuid": "027CC4FA-8A94-4ACE-932E-1C8222832941"
+            }
+        },
+        {
+            "service_uuid": "012FF2FE-5215-4F38-BA4C-D684F5D33B31",
+            "service_name": "Service Name 4",
+            "stamp_created": 1584399954,
+            "stamp_created_by": {
+                "uuid": "027CC4FA-8A94-4ACE-932E-1C8222832941",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584399954,
+            "stamp_updated_by": {
+                "uuid": "027CC4FA-8A94-4ACE-932E-1C8222832941"
+            }
+        },
+        {
+            "service_uuid": "34F01952-8C83-41AB-938A-A6FCDDAAB1DA",
+            "service_name": "Service Name 5",
+            "stamp_created": 1584399954,
+            "stamp_created_by": {
+                "uuid": "027CC4FA-8A94-4ACE-932E-1C8222832941",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584399954,
+            "stamp_updated_by": {
+                "uuid": "027CC4FA-8A94-4ACE-932E-1C8222832941"
+            }
+        },
+        {
+            "service_uuid": "59AC2F0F-1FCC-41F4-9AB0-2D06763ACE3F",
+            "service_name": "Service Name 6",
+            "stamp_created": 1584399954,
+            "stamp_created_by": {
+                "uuid": "027CC4FA-8A94-4ACE-932E-1C8222832941",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584399954,
+            "stamp_updated_by": {
+                "uuid": "027CC4FA-8A94-4ACE-932E-1C8222832941"
+            }
+        }
+    ]
+}

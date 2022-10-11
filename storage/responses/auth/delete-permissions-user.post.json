@@ -1,0 +1,391 @@
+{
+    "data": {
+        "user_uuid": "DDCA6C8B-BEF6-403E-83AD-FC1C75A91EBB",
+        "stamp_created": 1582675326,
+        "stamp_created_by": "3698FB72-A5D2-4E24-9C50-48BC2415C636",
+        "stamp_updated": 1582675326,
+        "stamp_updated_by": "3698FB72-A5D2-4E24-9C50-48BC2415C636",
+        "permissions_in_group": {
+            "data": [
+                {
+                    "permission_uuid": "B7AB525B-6235-4176-A812-A88491B5961A",
+                    "permission_name": "App.Soundblock.Service.Project.Create",
+                    "permission_memo": "App.Soundblock.Service.Project.Create",
+                    "stamp_created": 1582675325,
+                    "stamp_created_by": "238950B3-2F95-44F2-B30D-B45F04557FB3",
+                    "stamp_updated": 1582675325,
+                    "stamp_updated_by": "3698FB72-A5D2-4E24-9C50-48BC2415C636"
+                },
+                {
+                    "permission_uuid": "B7AB525B-6235-4176-A812-A88491B5961A",
+                    "permission_name": "App.Soundblock.Service.Project.Create",
+                    "permission_memo": "App.Soundblock.Service.Project.Create",
+                    "stamp_created": 1582675325,
+                    "stamp_created_by": "238950B3-2F95-44F2-B30D-B45F04557FB3",
+                    "stamp_updated": 1582675325,
+                    "stamp_updated_by": "3698FB72-A5D2-4E24-9C50-48BC2415C636"
+                },
+                {
+                    "permission_uuid": "3A26A7F2-679E-499C-BCE1-D965510510FB",
+                    "permission_name": "App.Soundblock.Service.Project.Deploy",
+                    "permission_memo": "App.Soundblock.Service.Project.Deploy",
+                    "stamp_created": 1582675325,
+                    "stamp_created_by": "238950B3-2F95-44F2-B30D-B45F04557FB3",
+                    "stamp_updated": 1582675325,
+                    "stamp_updated_by": "3698FB72-A5D2-4E24-9C50-48BC2415C636"
+                },
+                {
+                    "permission_uuid": "3A26A7F2-679E-499C-BCE1-D965510510FB",
+                    "permission_name": "App.Soundblock.Service.Project.Deploy",
+                    "permission_memo": "App.Soundblock.Service.Project.Deploy",
+                    "stamp_created": 1582675325,
+                    "stamp_created_by": "238950B3-2F95-44F2-B30D-B45F04557FB3",
+                    "stamp_updated": 1582675325,
+                    "stamp_updated_by": "3698FB72-A5D2-4E24-9C50-48BC2415C636"
+                },
+                {
+                    "permission_uuid": "C928C3CC-CA01-49CB-8A31-A5A0F6C0D328",
+                    "permission_name": "App.Soundblock.Service.Storage.Simple",
+                    "permission_memo": "App.Soundblock.Service.Storage.Simple",
+                    "stamp_created": 1582675325,
+                    "stamp_created_by": "238950B3-2F95-44F2-B30D-B45F04557FB3",
+                    "stamp_updated": 1582675325,
+                    "stamp_updated_by": "3698FB72-A5D2-4E24-9C50-48BC2415C636"
+                },
+                {
+                    "permission_uuid": "C928C3CC-CA01-49CB-8A31-A5A0F6C0D328",
+                    "permission_name": "App.Soundblock.Service.Storage.Simple",
+                    "permission_memo": "App.Soundblock.Service.Storage.Simple",
+                    "stamp_created": 1582675325,
+                    "stamp_created_by": "238950B3-2F95-44F2-B30D-B45F04557FB3",
+                    "stamp_updated": 1582675325,
+                    "stamp_updated_by": "3698FB72-A5D2-4E24-9C50-48BC2415C636"
+                },
+                {
+                    "permission_uuid": "DFA69801-20C9-46E8-BA0B-DC32A8B8BE5E",
+                    "permission_name": "App.Soundblock.Service.Storage.Smart",
+                    "permission_memo": "App.Soundblock.Service.Storage.Smart",
+                    "stamp_created": 1582675325,
+                    "stamp_created_by": "238950B3-2F95-44F2-B30D-B45F04557FB3",
+                    "stamp_updated": 1582675325,
+                    "stamp_updated_by": "3698FB72-A5D2-4E24-9C50-48BC2415C636"
+                },
+                {
+                    "permission_uuid": "DFA69801-20C9-46E8-BA0B-DC32A8B8BE5E",
+                    "permission_name": "App.Soundblock.Service.Storage.Smart",
+                    "permission_memo": "App.Soundblock.Service.Storage.Smart",
+                    "stamp_created": 1582675325,
+                    "stamp_created_by": "238950B3-2F95-44F2-B30D-B45F04557FB3",
+                    "stamp_updated": 1582675325,
+                    "stamp_updated_by": "3698FB72-A5D2-4E24-9C50-48BC2415C636"
+                },
+                {
+                    "permission_uuid": "ED39F1A6-9B18-4672-BE96-8A4ECBBD8F3C",
+                    "permission_name": "App.Soundblock.Service.Report.Payments",
+                    "permission_memo": "App.Soundblock.Service.Report.Payments",
+                    "stamp_created": 1582675325,
+                    "stamp_created_by": "238950B3-2F95-44F2-B30D-B45F04557FB3",
+                    "stamp_updated": 1582675325,
+                    "stamp_updated_by": "3698FB72-A5D2-4E24-9C50-48BC2415C636"
+                },
+                {
+                    "permission_uuid": "ED39F1A6-9B18-4672-BE96-8A4ECBBD8F3C",
+                    "permission_name": "App.Soundblock.Service.Report.Payments",
+                    "permission_memo": "App.Soundblock.Service.Report.Payments",
+                    "stamp_created": 1582675325,
+                    "stamp_created_by": "238950B3-2F95-44F2-B30D-B45F04557FB3",
+                    "stamp_updated": 1582675325,
+                    "stamp_updated_by": "3698FB72-A5D2-4E24-9C50-48BC2415C636"
+                },
+                {
+                    "permission_uuid": "8B3F2EFE-9E32-4B77-A991-1B0A4AD0AF5F",
+                    "permission_name": "App.Soundblock.Project.Member.Create",
+                    "permission_memo": "App.Soundblock.Project.Member.Create",
+                    "stamp_created": 1582675325,
+                    "stamp_created_by": "238950B3-2F95-44F2-B30D-B45F04557FB3",
+                    "stamp_updated": 1582675325,
+                    "stamp_updated_by": "3698FB72-A5D2-4E24-9C50-48BC2415C636"
+                },
+                {
+                    "permission_uuid": "8B3F2EFE-9E32-4B77-A991-1B0A4AD0AF5F",
+                    "permission_name": "App.Soundblock.Project.Member.Create",
+                    "permission_memo": "App.Soundblock.Project.Member.Create",
+                    "stamp_created": 1582675325,
+                    "stamp_created_by": "238950B3-2F95-44F2-B30D-B45F04557FB3",
+                    "stamp_updated": 1582675325,
+                    "stamp_updated_by": "3698FB72-A5D2-4E24-9C50-48BC2415C636"
+                },
+                {
+                    "permission_uuid": "A36288F3-B30A-4B66-9CCE-4B3D9B936E09",
+                    "permission_name": "App.Soundblock.Project.Member.Permissions",
+                    "permission_memo": "App.Soundblock.Project.Member.Permissions",
+                    "stamp_created": 1582675325,
+                    "stamp_created_by": "238950B3-2F95-44F2-B30D-B45F04557FB3",
+                    "stamp_updated": 1582675325,
+                    "stamp_updated_by": "3698FB72-A5D2-4E24-9C50-48BC2415C636"
+                },
+                {
+                    "permission_uuid": "A36288F3-B30A-4B66-9CCE-4B3D9B936E09",
+                    "permission_name": "App.Soundblock.Project.Member.Permissions",
+                    "permission_memo": "App.Soundblock.Project.Member.Permissions",
+                    "stamp_created": 1582675325,
+                    "stamp_created_by": "238950B3-2F95-44F2-B30D-B45F04557FB3",
+                    "stamp_updated": 1582675325,
+                    "stamp_updated_by": "3698FB72-A5D2-4E24-9C50-48BC2415C636"
+                },
+                {
+                    "permission_uuid": "D08784AE-88B6-4EFE-A728-DBAC45EEEB1A",
+                    "permission_name": "App.Soundblock.Project.File.Music.Restore",
+                    "permission_memo": "App.Soundblock.Project.File.Music.Restore",
+                    "stamp_created": 1582675325,
+                    "stamp_created_by": "238950B3-2F95-44F2-B30D-B45F04557FB3",
+                    "stamp_updated": 1582675325,
+                    "stamp_updated_by": "3698FB72-A5D2-4E24-9C50-48BC2415C636"
+                },
+                {
+                    "permission_uuid": "D08784AE-88B6-4EFE-A728-DBAC45EEEB1A",
+                    "permission_name": "App.Soundblock.Project.File.Music.Restore",
+                    "permission_memo": "App.Soundblock.Project.File.Music.Restore",
+                    "stamp_created": 1582675325,
+                    "stamp_created_by": "238950B3-2F95-44F2-B30D-B45F04557FB3",
+                    "stamp_updated": 1582675325,
+                    "stamp_updated_by": "3698FB72-A5D2-4E24-9C50-48BC2415C636"
+                },
+                {
+                    "permission_uuid": "512DAF63-54DB-4EF5-AF62-A98A32EC3FEA",
+                    "permission_name": "App.Soundblock.Project.File.Music.Update",
+                    "permission_memo": "App.Soundblock.Project.File.Music.Update",
+                    "stamp_created": 1582675325,
+                    "stamp_created_by": "238950B3-2F95-44F2-B30D-B45F04557FB3",
+                    "stamp_updated": 1582675325,
+                    "stamp_updated_by": "3698FB72-A5D2-4E24-9C50-48BC2415C636"
+                },
+                {
+                    "permission_uuid": "512DAF63-54DB-4EF5-AF62-A98A32EC3FEA",
+                    "permission_name": "App.Soundblock.Project.File.Music.Update",
+                    "permission_memo": "App.Soundblock.Project.File.Music.Update",
+                    "stamp_created": 1582675325,
+                    "stamp_created_by": "238950B3-2F95-44F2-B30D-B45F04557FB3",
+                    "stamp_updated": 1582675325,
+                    "stamp_updated_by": "3698FB72-A5D2-4E24-9C50-48BC2415C636"
+                },
+                {
+                    "permission_uuid": "B9ABCC2A-EC4B-4259-B0F7-555339275699",
+                    "permission_name": "App.Soundblock.Project.File.Video.Add",
+                    "permission_memo": "App.Soundblock.Project.File.Video.Add",
+                    "stamp_created": 1582675325,
+                    "stamp_created_by": "238950B3-2F95-44F2-B30D-B45F04557FB3",
+                    "stamp_updated": 1582675325,
+                    "stamp_updated_by": "3698FB72-A5D2-4E24-9C50-48BC2415C636"
+                },
+                {
+                    "permission_uuid": "B9ABCC2A-EC4B-4259-B0F7-555339275699",
+                    "permission_name": "App.Soundblock.Project.File.Video.Add",
+                    "permission_memo": "App.Soundblock.Project.File.Video.Add",
+                    "stamp_created": 1582675325,
+                    "stamp_created_by": "238950B3-2F95-44F2-B30D-B45F04557FB3",
+                    "stamp_updated": 1582675325,
+                    "stamp_updated_by": "3698FB72-A5D2-4E24-9C50-48BC2415C636"
+                },
+                {
+                    "permission_uuid": "6EA7342B-2DF1-432F-953B-D438B774923E",
+                    "permission_name": "App.Soundblock.Project.File.Video.Delete",
+                    "permission_memo": "App.Soundblock.Project.File.Video.Delete",
+                    "stamp_created": 1582675325,
+                    "stamp_created_by": "238950B3-2F95-44F2-B30D-B45F04557FB3",
+                    "stamp_updated": 1582675325,
+                    "stamp_updated_by": "3698FB72-A5D2-4E24-9C50-48BC2415C636"
+                },
+                {
+                    "permission_uuid": "6EA7342B-2DF1-432F-953B-D438B774923E",
+                    "permission_name": "App.Soundblock.Project.File.Video.Delete",
+                    "permission_memo": "App.Soundblock.Project.File.Video.Delete",
+                    "stamp_created": 1582675325,
+                    "stamp_created_by": "238950B3-2F95-44F2-B30D-B45F04557FB3",
+                    "stamp_updated": 1582675325,
+                    "stamp_updated_by": "3698FB72-A5D2-4E24-9C50-48BC2415C636"
+                },
+                {
+                    "permission_uuid": "7F1EF557-D999-4DBB-93B2-606CC5E323EB",
+                    "permission_name": "App.Soundblock.Project.File.Video.Update",
+                    "permission_memo": "App.Soundblock.Project.File.Video.Update",
+                    "stamp_created": 1582675325,
+                    "stamp_created_by": "238950B3-2F95-44F2-B30D-B45F04557FB3",
+                    "stamp_updated": 1582675325,
+                    "stamp_updated_by": "3698FB72-A5D2-4E24-9C50-48BC2415C636"
+                },
+                {
+                    "permission_uuid": "7F1EF557-D999-4DBB-93B2-606CC5E323EB",
+                    "permission_name": "App.Soundblock.Project.File.Video.Update",
+                    "permission_memo": "App.Soundblock.Project.File.Video.Update",
+                    "stamp_created": 1582675325,
+                    "stamp_created_by": "238950B3-2F95-44F2-B30D-B45F04557FB3",
+                    "stamp_updated": 1582675325,
+                    "stamp_updated_by": "3698FB72-A5D2-4E24-9C50-48BC2415C636"
+                },
+                {
+                    "permission_uuid": "F15A64E3-D1C7-4B74-A592-C6FAB5841C3B",
+                    "permission_name": "App.Soundblock.Project.File.Video.Download",
+                    "permission_memo": "App.Soundblock.Project.File.Video.Download",
+                    "stamp_created": 1582675325,
+                    "stamp_created_by": "238950B3-2F95-44F2-B30D-B45F04557FB3",
+                    "stamp_updated": 1582675325,
+                    "stamp_updated_by": "3698FB72-A5D2-4E24-9C50-48BC2415C636"
+                },
+                {
+                    "permission_uuid": "F15A64E3-D1C7-4B74-A592-C6FAB5841C3B",
+                    "permission_name": "App.Soundblock.Project.File.Video.Download",
+                    "permission_memo": "App.Soundblock.Project.File.Video.Download",
+                    "stamp_created": 1582675325,
+                    "stamp_created_by": "238950B3-2F95-44F2-B30D-B45F04557FB3",
+                    "stamp_updated": 1582675325,
+                    "stamp_updated_by": "3698FB72-A5D2-4E24-9C50-48BC2415C636"
+                },
+                {
+                    "permission_uuid": "247E3A5F-ED19-44B7-A568-E90B8FD07559",
+                    "permission_name": "App.Soundblock.Project.File.Merch.Delete",
+                    "permission_memo": "App.Soundblock.Project.File.Merch.Delete",
+                    "stamp_created": 1582675325,
+                    "stamp_created_by": "238950B3-2F95-44F2-B30D-B45F04557FB3",
+                    "stamp_updated": 1582675325,
+                    "stamp_updated_by": "3698FB72-A5D2-4E24-9C50-48BC2415C636"
+                },
+                {
+                    "permission_uuid": "247E3A5F-ED19-44B7-A568-E90B8FD07559",
+                    "permission_name": "App.Soundblock.Project.File.Merch.Delete",
+                    "permission_memo": "App.Soundblock.Project.File.Merch.Delete",
+                    "stamp_created": 1582675325,
+                    "stamp_created_by": "238950B3-2F95-44F2-B30D-B45F04557FB3",
+                    "stamp_updated": 1582675325,
+                    "stamp_updated_by": "3698FB72-A5D2-4E24-9C50-48BC2415C636"
+                },
+                {
+                    "permission_uuid": "C0A1DA3D-6E86-4D4E-8E0C-F52EDCDF205D",
+                    "permission_name": "App.Soundblock.Project.File.Merch.Restore",
+                    "permission_memo": "App.Soundblock.Project.File.Merch.Restore",
+                    "stamp_created": 1582675325,
+                    "stamp_created_by": "238950B3-2F95-44F2-B30D-B45F04557FB3",
+                    "stamp_updated": 1582675325,
+                    "stamp_updated_by": "3698FB72-A5D2-4E24-9C50-48BC2415C636"
+                },
+                {
+                    "permission_uuid": "C0A1DA3D-6E86-4D4E-8E0C-F52EDCDF205D",
+                    "permission_name": "App.Soundblock.Project.File.Merch.Restore",
+                    "permission_memo": "App.Soundblock.Project.File.Merch.Restore",
+                    "stamp_created": 1582675325,
+                    "stamp_created_by": "238950B3-2F95-44F2-B30D-B45F04557FB3",
+                    "stamp_updated": 1582675325,
+                    "stamp_updated_by": "3698FB72-A5D2-4E24-9C50-48BC2415C636"
+                },
+                {
+                    "permission_uuid": "E96291D4-12D3-46F8-B127-6F6672FC5347",
+                    "permission_name": "App.Soundblock.Project.File.Merch.Download",
+                    "permission_memo": "App.Soundblock.Project.File.Merch.Download",
+                    "stamp_created": 1582675325,
+                    "stamp_created_by": "238950B3-2F95-44F2-B30D-B45F04557FB3",
+                    "stamp_updated": 1582675325,
+                    "stamp_updated_by": "3698FB72-A5D2-4E24-9C50-48BC2415C636"
+                },
+                {
+                    "permission_uuid": "E96291D4-12D3-46F8-B127-6F6672FC5347",
+                    "permission_name": "App.Soundblock.Project.File.Merch.Download",
+                    "permission_memo": "App.Soundblock.Project.File.Merch.Download",
+                    "stamp_created": 1582675325,
+                    "stamp_created_by": "238950B3-2F95-44F2-B30D-B45F04557FB3",
+                    "stamp_updated": 1582675325,
+                    "stamp_updated_by": "3698FB72-A5D2-4E24-9C50-48BC2415C636"
+                },
+                {
+                    "permission_uuid": "4D39AE39-AB6A-4EEE-A60C-7F16FA816F51",
+                    "permission_name": "App.Soundblock.Project.File.Other.Add",
+                    "permission_memo": "App.Soundblock.Project.File.Other.Add",
+                    "stamp_created": 1582675325,
+                    "stamp_created_by": "238950B3-2F95-44F2-B30D-B45F04557FB3",
+                    "stamp_updated": 1582675325,
+                    "stamp_updated_by": "3698FB72-A5D2-4E24-9C50-48BC2415C636"
+                },
+                {
+                    "permission_uuid": "4D39AE39-AB6A-4EEE-A60C-7F16FA816F51",
+                    "permission_name": "App.Soundblock.Project.File.Other.Add",
+                    "permission_memo": "App.Soundblock.Project.File.Other.Add",
+                    "stamp_created": 1582675325,
+                    "stamp_created_by": "238950B3-2F95-44F2-B30D-B45F04557FB3",
+                    "stamp_updated": 1582675325,
+                    "stamp_updated_by": "3698FB72-A5D2-4E24-9C50-48BC2415C636"
+                },
+                {
+                    "permission_uuid": "BC11063B-22A5-49EC-82B6-D7A30E6D6C5B",
+                    "permission_name": "App.Soundblock.Project.File.Other.Restore",
+                    "permission_memo": "App.Soundblock.Project.File.Other.Restore",
+                    "stamp_created": 1582675325,
+                    "stamp_created_by": "238950B3-2F95-44F2-B30D-B45F04557FB3",
+                    "stamp_updated": 1582675325,
+                    "stamp_updated_by": "3698FB72-A5D2-4E24-9C50-48BC2415C636"
+                },
+                {
+                    "permission_uuid": "BC11063B-22A5-49EC-82B6-D7A30E6D6C5B",
+                    "permission_name": "App.Soundblock.Project.File.Other.Restore",
+                    "permission_memo": "App.Soundblock.Project.File.Other.Restore",
+                    "stamp_created": 1582675325,
+                    "stamp_created_by": "238950B3-2F95-44F2-B30D-B45F04557FB3",
+                    "stamp_updated": 1582675325,
+                    "stamp_updated_by": "3698FB72-A5D2-4E24-9C50-48BC2415C636"
+                },
+                {
+                    "permission_uuid": "D8E1392C-22D7-4086-A9B8-CE36075DFC9B",
+                    "permission_name": "App.Soundblock.Project.File.Other.Update",
+                    "permission_memo": "App.Soundblock.Project.File.Other.Update",
+                    "stamp_created": 1582675325,
+                    "stamp_created_by": "238950B3-2F95-44F2-B30D-B45F04557FB3",
+                    "stamp_updated": 1582675325,
+                    "stamp_updated_by": "3698FB72-A5D2-4E24-9C50-48BC2415C636"
+                },
+                {
+                    "permission_uuid": "D8E1392C-22D7-4086-A9B8-CE36075DFC9B",
+                    "permission_name": "App.Soundblock.Project.File.Other.Update",
+                    "permission_memo": "App.Soundblock.Project.File.Other.Update",
+                    "stamp_created": 1582675325,
+                    "stamp_created_by": "238950B3-2F95-44F2-B30D-B45F04557FB3",
+                    "stamp_updated": 1582675325,
+                    "stamp_updated_by": "3698FB72-A5D2-4E24-9C50-48BC2415C636"
+                },
+                {
+                    "permission_uuid": "CE075C68-036A-418A-8410-63E236C3AF91",
+                    "permission_name": "App.Soundblock.Project.File.Other.Download",
+                    "permission_memo": "App.Soundblock.Project.File.Other.Download",
+                    "stamp_created": 1582675325,
+                    "stamp_created_by": "238950B3-2F95-44F2-B30D-B45F04557FB3",
+                    "stamp_updated": 1582675325,
+                    "stamp_updated_by": "3698FB72-A5D2-4E24-9C50-48BC2415C636"
+                },
+                {
+                    "permission_uuid": "CE075C68-036A-418A-8410-63E236C3AF91",
+                    "permission_name": "App.Soundblock.Project.File.Other.Download",
+                    "permission_memo": "App.Soundblock.Project.File.Other.Download",
+                    "stamp_created": 1582675325,
+                    "stamp_created_by": "238950B3-2F95-44F2-B30D-B45F04557FB3",
+                    "stamp_updated": 1582675325,
+                    "stamp_updated_by": "3698FB72-A5D2-4E24-9C50-48BC2415C636"
+                },
+                {
+                    "permission_uuid": "6FB73685-3580-4754-B9E3-7B6A59D1E7DE",
+                    "permission_name": "permission1",
+                    "permission_memo": "34345",
+                    "stamp_created": 1582675617,
+                    "stamp_created_by": "238950B3-2F95-44F2-B30D-B45F04557FB3",
+                    "stamp_updated": 1582679838,
+                    "stamp_updated_by": "3698FB72-A5D2-4E24-9C50-48BC2415C636"
+                },
+                {
+                    "permission_uuid": "210FDD30-09D6-4AC3-825A-DCCBC2314EEE",
+                    "permission_name": "permission11",
+                    "permission_memo": "343458",
+                    "stamp_created": 1582675617,
+                    "stamp_created_by": "238950B3-2F95-44F2-B30D-B45F04557FB3",
+                    "stamp_updated": 1582679838,
+                    "stamp_updated_by": "3698FB72-A5D2-4E24-9C50-48BC2415C636"
+                }
+            ]
+        }
+    }
+}

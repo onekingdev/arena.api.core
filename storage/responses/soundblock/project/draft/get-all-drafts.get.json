@@ -1,0 +1,72 @@
+{
+    "data": [
+        {
+            "draft_uuid": "208D89ED-D15A-468B-A9D3-A26C2DF5886D",
+            "draft_json": {
+                "project": {
+                    "project_title": "The project4 for a draft",
+                    "project_type": "Album",
+                    "project_date": "2020-03-14",
+                    "project_file": true,
+                    "project_avatar": ""
+                },
+                "payment": {
+                    "members": [
+                        {
+                            "name": "Jin Tai",
+                            "email": "jintai@arena.com",
+                            "role": "Band Member",
+                            "Payout": 20
+                        },
+                        {
+                            "name": "Samuel White",
+                            "email": "swhite@arena.com",
+                            "role": "Lawyer",
+                            "Payout": 80
+                        }
+                    ],
+                    "contract": {
+                        "payment_message": "Custom Payment Message",
+                        "name": "Rocky1",
+                        "email": "rocky1@gmail.com",
+                        "phone": "13833798"
+                    }
+                }
+            },
+            "stamp_created": 1584179855,
+            "stamp_created_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584179855,
+            "stamp_updated_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "service": {
+                "data": {
+                    "service_uuid": "F180F725-7D8A-45D4-9B4D-0FF8630666E4",
+                    "service_name": "Service Name 4",
+                    "stamp_created": 1584179854,
+                    "stamp_created_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584179854,
+                    "stamp_updated_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    }
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,3 @@
+SHELL=/bin/bash
+COLUMNS=320
+* * * * * root source /var/app/current/export-env.sh && php /var/app/current/artisan schedule:run >> /dev/null 2>&1

@@ -1,0 +1,162 @@
+{
+    "data": {
+        "user_uuid": "28F0270E-9906-4712-90F2-1236CEFA2958",
+        "name_first": "Lazar",
+        "name_middle": "",
+        "name_last": "Jankovic",
+        "stamp_created": 1584179854,
+        "stamp_created_by": {
+            "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+            "name_first": "Samuel",
+            "name_middle": "",
+            "name_last": "White"
+        },
+        "stamp_updated": 1584179854,
+        "stamp_updated_by": {
+            "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+            "name_first": "Samuel",
+            "name_middle": "",
+            "name_last": "White"
+        },
+        "emails": {
+            "data": [
+                {
+                    "user_auth_email": "lazar@arena.com",
+                    "stamp_created": 1584179854,
+                    "stamp_created_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584179854,
+                    "stamp_updated_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_email": 1584179854,
+                    "stamp_email_by": {
+                        "uuid": "7C619A2D-9BF6-4F6A-BE96-17285A354344",
+                        "name_first": "jin",
+                        "name_middle": "",
+                        "name_last": "tai"
+                    }
+                }
+            ]
+        },
+        "phones": {
+            "data": [
+                {
+                    "phone_type": "Home",
+                    "phone_number": "1-243-253-4885",
+                    "flag_primary": 1,
+                    "stamp_created": 1584179856,
+                    "stamp_created_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584179856,
+                    "stamp_updated_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    }
+                }
+            ]
+        },
+        "postals": {
+            "data": [
+                {
+                    "postal_uuid": "A07B91E0-6792-425D-B164-FB357E8FA56E",
+                    "postal_type": "Office",
+                    "postal_street": "Meggie Mission",
+                    "postal_city": "Port Myrl",
+                    "postal_zipcode": "64410-8416",
+                    "postal_country": "Cayman Islands",
+                    "flag_primary": 1,
+                    "stamp_created": 1584179856,
+                    "stamp_created_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584179856,
+                    "stamp_updated_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    }
+                }
+            ]
+        },
+        "paypals": {
+            "data": [
+                {
+                    "paypal": "CE4409EF-A7EA-4618-85DF-3E96B1C5F4AA",
+                    "paypal_email": "kristoffer.dibbert@hotmail.com",
+                    "flag_primary": 1,
+                    "stamp_created": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    }
+                },
+                {
+                    "paypal": "17FA9EBD-43DB-4C44-B9D4-900647A2DDFB",
+                    "paypal_email": "qborer@howell.biz",
+                    "flag_primary": 0,
+                    "stamp_created": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    }
+                }
+            ]
+        },
+        "bankings": {
+            "data": [
+                {
+                    "bank_uuid": "CCF1BB47-0D71-46DF-8A36-038ED2FFCF84",
+                    "bank_name": "Elwin Hessel",
+                    "account_type": "Saving",
+                    "account_number": "83777690",
+                    "routing_number": "1234567890",
+                    "flag_primary": 1,
+                    "stamp_created": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    }
+                }
+            ]
+        }
+    }
+}

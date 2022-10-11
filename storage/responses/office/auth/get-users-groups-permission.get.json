@@ -1,0 +1,955 @@
+{
+    "data": [
+        {
+            "user_uuid": "535CA654-85B8-48FE-B4B4-58CE0FCCFA7E",
+            "name_first": "Samuel",
+            "name_middle": "",
+            "name_last": "White",
+            "stamp_created": 1584687081,
+            "stamp_created_by": {
+                "uuid": "535CA654-85B8-48FE-B4B4-58CE0FCCFA7E",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584687081,
+            "stamp_updated_by": {
+                "uuid": "535CA654-85B8-48FE-B4B4-58CE0FCCFA7E",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "avatar": {
+                "data": {
+                    "avatar_url": "http://test.api.arena.com/storage/default/avatar.png",
+                    "stamp_created": 1584687084,
+                    "stamp_created_by": {
+                        "uuid": "535CA654-85B8-48FE-B4B4-58CE0FCCFA7E",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584687084,
+                    "stamp_updated_by": {
+                        "uuid": "535CA654-85B8-48FE-B4B4-58CE0FCCFA7E",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    }
+                }
+            },
+            "groups_permissions": {
+                "data": [
+                    {
+                        "group_uuid": "DCB38F61-612B-404C-AE5F-868716C06DE4",
+                        "auth_uuid": "49B23515-5566-425B-BEB6-5F4004427061",
+                        "group_name": "App.Office.Admin",
+                        "group_memo": "App.Office.Admin( 2462AFE3-2DA4-4C16-849B-A673AED3EACE )",
+                        "stamp_created": 1584687081,
+                        "stamp_created_by": {
+                            "uuid": "535CA654-85B8-48FE-B4B4-58CE0FCCFA7E",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        },
+                        "stamp_updated": 1584687081,
+                        "stamp_updated_by": {
+                            "uuid": "C621B410-7011-4611-B8A3-46704EFA062B"
+                        },
+                        "permission": {
+                            "data": {
+                                "permission_uuid": "47121552-FD65-4780-9D59-1862A018FB91",
+                                "permission_value": 1
+                            }
+                        }
+                    },
+                    {
+                        "group_uuid": "908A4B40-2A64-4437-8A7C-77B23412ABB6",
+                        "auth_uuid": "C345469C-DF8E-4283-813B-06927B58BF0C",
+                        "group_name": "App.Soundblock.Service.E85F11C7-3414-42C9-8AC3-AAFBEFF995DF",
+                        "group_memo": "App.Soundblock.Service.( E85F11C7-3414-42C9-8AC3-AAFBEFF995DF )",
+                        "stamp_created": 1584687082,
+                        "stamp_created_by": {
+                            "uuid": "535CA654-85B8-48FE-B4B4-58CE0FCCFA7E",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        },
+                        "stamp_updated": 1584687082,
+                        "stamp_updated_by": {
+                            "uuid": "C621B410-7011-4611-B8A3-46704EFA062B"
+                        },
+                        "permission": {
+                            "data": {
+                                "permission_uuid": "47121552-FD65-4780-9D59-1862A018FB91",
+                                "permission_value": 1
+                            }
+                        }
+                    },
+                    {
+                        "group_uuid": "F4190118-14F2-43EA-AA30-323B7AA0BC74",
+                        "auth_uuid": "C345469C-DF8E-4283-813B-06927B58BF0C",
+                        "group_name": "App.Soundblock.Service.78959C02-0E36-40A3-A8C7-2228141916C2",
+                        "group_memo": "App.Soundblock.Service.( 78959C02-0E36-40A3-A8C7-2228141916C2 )",
+                        "stamp_created": 1584687082,
+                        "stamp_created_by": {
+                            "uuid": "535CA654-85B8-48FE-B4B4-58CE0FCCFA7E",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        },
+                        "stamp_updated": 1584687082,
+                        "stamp_updated_by": {
+                            "uuid": "C621B410-7011-4611-B8A3-46704EFA062B"
+                        },
+                        "permission": {
+                            "data": {
+                                "permission_uuid": "47121552-FD65-4780-9D59-1862A018FB91",
+                                "permission_value": 0
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "user_uuid": "BB5C4C97-2B6C-49B1-82BE-B53C6AC9A810",
+            "name_first": "Damon",
+            "name_middle": "",
+            "name_last": "Evans",
+            "stamp_created": 1584687081,
+            "stamp_created_by": {
+                "uuid": "535CA654-85B8-48FE-B4B4-58CE0FCCFA7E",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584687081,
+            "stamp_updated_by": {
+                "uuid": "535CA654-85B8-48FE-B4B4-58CE0FCCFA7E",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "groups_permissions": {
+                "data": [
+                    {
+                        "group_uuid": "DCB38F61-612B-404C-AE5F-868716C06DE4",
+                        "auth_uuid": "49B23515-5566-425B-BEB6-5F4004427061",
+                        "group_name": "App.Office.Admin",
+                        "group_memo": "App.Office.Admin( 2462AFE3-2DA4-4C16-849B-A673AED3EACE )",
+                        "stamp_created": 1584687081,
+                        "stamp_created_by": {
+                            "uuid": "535CA654-85B8-48FE-B4B4-58CE0FCCFA7E",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        },
+                        "stamp_updated": 1584687081,
+                        "stamp_updated_by": {
+                            "uuid": "C621B410-7011-4611-B8A3-46704EFA062B"
+                        },
+                        "permission": {
+                            "data": {
+                                "permission_uuid": "47121552-FD65-4780-9D59-1862A018FB91",
+                                "permission_value": 1
+                            }
+                        }
+                    },
+                    {
+                        "group_uuid": "908A4B40-2A64-4437-8A7C-77B23412ABB6",
+                        "auth_uuid": "C345469C-DF8E-4283-813B-06927B58BF0C",
+                        "group_name": "App.Soundblock.Service.E85F11C7-3414-42C9-8AC3-AAFBEFF995DF",
+                        "group_memo": "App.Soundblock.Service.( E85F11C7-3414-42C9-8AC3-AAFBEFF995DF )",
+                        "stamp_created": 1584687082,
+                        "stamp_created_by": {
+                            "uuid": "535CA654-85B8-48FE-B4B4-58CE0FCCFA7E",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        },
+                        "stamp_updated": 1584687082,
+                        "stamp_updated_by": {
+                            "uuid": "C621B410-7011-4611-B8A3-46704EFA062B"
+                        },
+                        "permission": {
+                            "data": {
+                                "permission_uuid": "47121552-FD65-4780-9D59-1862A018FB91",
+                                "permission_value": 0
+                            }
+                        }
+                    },
+                    {
+                        "group_uuid": "E4D01B89-3E85-4511-8582-77AB3AAF5E8F",
+                        "auth_uuid": "C345469C-DF8E-4283-813B-06927B58BF0C",
+                        "group_name": "App.Soundblock.Service.506EC600-C455-47A3-B5F0-B970C3EAF4BA",
+                        "group_memo": "App.Soundblock.Service.( 506EC600-C455-47A3-B5F0-B970C3EAF4BA )",
+                        "stamp_created": 1584687082,
+                        "stamp_created_by": {
+                            "uuid": "535CA654-85B8-48FE-B4B4-58CE0FCCFA7E",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        },
+                        "stamp_updated": 1584687082,
+                        "stamp_updated_by": {
+                            "uuid": "C621B410-7011-4611-B8A3-46704EFA062B"
+                        },
+                        "permission": {
+                            "data": {
+                                "permission_uuid": "47121552-FD65-4780-9D59-1862A018FB91",
+                                "permission_value": 1
+                            }
+                        }
+                    },
+                    {
+                        "group_uuid": "506D946C-1EFE-4D66-A90A-31D3F23DC00F",
+                        "auth_uuid": "C345469C-DF8E-4283-813B-06927B58BF0C",
+                        "group_name": "App.Soundblock.Service.A2DD9319-714D-4FAC-8EAA-29E32DF5F41B",
+                        "group_memo": "App.Soundblock.Service.( A2DD9319-714D-4FAC-8EAA-29E32DF5F41B )",
+                        "stamp_created": 1584687082,
+                        "stamp_created_by": {
+                            "uuid": "535CA654-85B8-48FE-B4B4-58CE0FCCFA7E",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        },
+                        "stamp_updated": 1584687082,
+                        "stamp_updated_by": {
+                            "uuid": "C621B410-7011-4611-B8A3-46704EFA062B"
+                        },
+                        "permission": {
+                            "data": {
+                                "permission_uuid": "47121552-FD65-4780-9D59-1862A018FB91",
+                                "permission_value": 0
+                            }
+                        }
+                    },
+                    {
+                        "group_uuid": "F4190118-14F2-43EA-AA30-323B7AA0BC74",
+                        "auth_uuid": "C345469C-DF8E-4283-813B-06927B58BF0C",
+                        "group_name": "App.Soundblock.Service.78959C02-0E36-40A3-A8C7-2228141916C2",
+                        "group_memo": "App.Soundblock.Service.( 78959C02-0E36-40A3-A8C7-2228141916C2 )",
+                        "stamp_created": 1584687082,
+                        "stamp_created_by": {
+                            "uuid": "535CA654-85B8-48FE-B4B4-58CE0FCCFA7E",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        },
+                        "stamp_updated": 1584687082,
+                        "stamp_updated_by": {
+                            "uuid": "C621B410-7011-4611-B8A3-46704EFA062B"
+                        },
+                        "permission": {
+                            "data": {
+                                "permission_uuid": "47121552-FD65-4780-9D59-1862A018FB91",
+                                "permission_value": 1
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "user_uuid": "FAD775E0-BC49-4A59-93DF-9F001BE6A71D",
+            "name_first": "Yurii",
+            "name_middle": "",
+            "name_last": "Kosiak",
+            "stamp_created": 1584687081,
+            "stamp_created_by": {
+                "uuid": "535CA654-85B8-48FE-B4B4-58CE0FCCFA7E",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584687081,
+            "stamp_updated_by": {
+                "uuid": "535CA654-85B8-48FE-B4B4-58CE0FCCFA7E",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "avatar": {
+                "data": {
+                    "avatar_url": "http://test.api.arena.com/storage/default/avatar.png",
+                    "stamp_created": 1584687084,
+                    "stamp_created_by": {
+                        "uuid": "535CA654-85B8-48FE-B4B4-58CE0FCCFA7E",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584687084,
+                    "stamp_updated_by": {
+                        "uuid": "535CA654-85B8-48FE-B4B4-58CE0FCCFA7E",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    }
+                }
+            },
+            "groups_permissions": {
+                "data": [
+                    {
+                        "group_uuid": "DCB38F61-612B-404C-AE5F-868716C06DE4",
+                        "auth_uuid": "49B23515-5566-425B-BEB6-5F4004427061",
+                        "group_name": "App.Office.Admin",
+                        "group_memo": "App.Office.Admin( 2462AFE3-2DA4-4C16-849B-A673AED3EACE )",
+                        "stamp_created": 1584687081,
+                        "stamp_created_by": {
+                            "uuid": "535CA654-85B8-48FE-B4B4-58CE0FCCFA7E",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        },
+                        "stamp_updated": 1584687081,
+                        "stamp_updated_by": {
+                            "uuid": "C621B410-7011-4611-B8A3-46704EFA062B"
+                        },
+                        "permission": {
+                            "data": {
+                                "permission_uuid": "47121552-FD65-4780-9D59-1862A018FB91",
+                                "permission_value": 1
+                            }
+                        }
+                    },
+                    {
+                        "group_uuid": "E4D01B89-3E85-4511-8582-77AB3AAF5E8F",
+                        "auth_uuid": "C345469C-DF8E-4283-813B-06927B58BF0C",
+                        "group_name": "App.Soundblock.Service.506EC600-C455-47A3-B5F0-B970C3EAF4BA",
+                        "group_memo": "App.Soundblock.Service.( 506EC600-C455-47A3-B5F0-B970C3EAF4BA )",
+                        "stamp_created": 1584687082,
+                        "stamp_created_by": {
+                            "uuid": "535CA654-85B8-48FE-B4B4-58CE0FCCFA7E",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        },
+                        "stamp_updated": 1584687082,
+                        "stamp_updated_by": {
+                            "uuid": "C621B410-7011-4611-B8A3-46704EFA062B"
+                        },
+                        "permission": {
+                            "data": {
+                                "permission_uuid": "47121552-FD65-4780-9D59-1862A018FB91",
+                                "permission_value": 1
+                            }
+                        }
+                    },
+                    {
+                        "group_uuid": "506D946C-1EFE-4D66-A90A-31D3F23DC00F",
+                        "auth_uuid": "C345469C-DF8E-4283-813B-06927B58BF0C",
+                        "group_name": "App.Soundblock.Service.A2DD9319-714D-4FAC-8EAA-29E32DF5F41B",
+                        "group_memo": "App.Soundblock.Service.( A2DD9319-714D-4FAC-8EAA-29E32DF5F41B )",
+                        "stamp_created": 1584687082,
+                        "stamp_created_by": {
+                            "uuid": "535CA654-85B8-48FE-B4B4-58CE0FCCFA7E",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        },
+                        "stamp_updated": 1584687082,
+                        "stamp_updated_by": {
+                            "uuid": "C621B410-7011-4611-B8A3-46704EFA062B"
+                        },
+                        "permission": {
+                            "data": {
+                                "permission_uuid": "47121552-FD65-4780-9D59-1862A018FB91",
+                                "permission_value": 1
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "user_uuid": "E3EA4A8D-091E-49A1-B0D9-2EAC3B1E8979",
+            "name_first": "jin",
+            "name_middle": "",
+            "name_last": "tai",
+            "stamp_created": 1584687081,
+            "stamp_created_by": {
+                "uuid": "535CA654-85B8-48FE-B4B4-58CE0FCCFA7E",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584687081,
+            "stamp_updated_by": {
+                "uuid": "535CA654-85B8-48FE-B4B4-58CE0FCCFA7E",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "avatar": {
+                "data": {
+                    "avatar_url": "http://test.api.arena.com/storage/default/avatar.png",
+                    "stamp_created": 1584687084,
+                    "stamp_created_by": {
+                        "uuid": "535CA654-85B8-48FE-B4B4-58CE0FCCFA7E",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584687084,
+                    "stamp_updated_by": {
+                        "uuid": "535CA654-85B8-48FE-B4B4-58CE0FCCFA7E",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    }
+                }
+            },
+            "groups_permissions": {
+                "data": [
+                    {
+                        "group_uuid": "DCB38F61-612B-404C-AE5F-868716C06DE4",
+                        "auth_uuid": "49B23515-5566-425B-BEB6-5F4004427061",
+                        "group_name": "App.Office.Admin",
+                        "group_memo": "App.Office.Admin( 2462AFE3-2DA4-4C16-849B-A673AED3EACE )",
+                        "stamp_created": 1584687081,
+                        "stamp_created_by": {
+                            "uuid": "535CA654-85B8-48FE-B4B4-58CE0FCCFA7E",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        },
+                        "stamp_updated": 1584687081,
+                        "stamp_updated_by": {
+                            "uuid": "C621B410-7011-4611-B8A3-46704EFA062B"
+                        },
+                        "permission": {
+                            "data": {
+                                "permission_uuid": "47121552-FD65-4780-9D59-1862A018FB91",
+                                "permission_value": 1
+                            }
+                        }
+                    },
+                    {
+                        "group_uuid": "F4190118-14F2-43EA-AA30-323B7AA0BC74",
+                        "auth_uuid": "C345469C-DF8E-4283-813B-06927B58BF0C",
+                        "group_name": "App.Soundblock.Service.78959C02-0E36-40A3-A8C7-2228141916C2",
+                        "group_memo": "App.Soundblock.Service.( 78959C02-0E36-40A3-A8C7-2228141916C2 )",
+                        "stamp_created": 1584687082,
+                        "stamp_created_by": {
+                            "uuid": "535CA654-85B8-48FE-B4B4-58CE0FCCFA7E",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        },
+                        "stamp_updated": 1584687082,
+                        "stamp_updated_by": {
+                            "uuid": "C621B410-7011-4611-B8A3-46704EFA062B"
+                        },
+                        "permission": {
+                            "data": {
+                                "permission_uuid": "47121552-FD65-4780-9D59-1862A018FB91",
+                                "permission_value": 1
+                            }
+                        }
+                    },
+                    {
+                        "group_uuid": "0F56F69F-5429-401D-AC24-380D7B6A122D",
+                        "auth_uuid": "C345469C-DF8E-4283-813B-06927B58BF0C",
+                        "group_name": "App.Soundblock.Service.87EE6F46-64D6-4066-ABF3-8890635847F1",
+                        "group_memo": "App.Soundblock.Service.( 87EE6F46-64D6-4066-ABF3-8890635847F1 )",
+                        "stamp_created": 1584687082,
+                        "stamp_created_by": {
+                            "uuid": "535CA654-85B8-48FE-B4B4-58CE0FCCFA7E",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        },
+                        "stamp_updated": 1584687082,
+                        "stamp_updated_by": {
+                            "uuid": "C621B410-7011-4611-B8A3-46704EFA062B"
+                        },
+                        "permission": {
+                            "data": {
+                                "permission_uuid": "47121552-FD65-4780-9D59-1862A018FB91",
+                                "permission_value": 0
+                            }
+                        }
+                    },
+                    {
+                        "group_uuid": "FC1EC2FD-D0AE-42F5-A04B-F26350011EE3",
+                        "auth_uuid": "C345469C-DF8E-4283-813B-06927B58BF0C",
+                        "group_name": "App.Soundblock.Service.FB569A54-3A63-49D1-8B9D-7D13543728E1",
+                        "group_memo": "App.Soundblock.Service.( FB569A54-3A63-49D1-8B9D-7D13543728E1 )",
+                        "stamp_created": 1584687082,
+                        "stamp_created_by": {
+                            "uuid": "535CA654-85B8-48FE-B4B4-58CE0FCCFA7E",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        },
+                        "stamp_updated": 1584687082,
+                        "stamp_updated_by": {
+                            "uuid": "C621B410-7011-4611-B8A3-46704EFA062B"
+                        },
+                        "permission": {
+                            "data": {
+                                "permission_uuid": "47121552-FD65-4780-9D59-1862A018FB91",
+                                "permission_value": 1
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "user_uuid": "4826A64E-0069-4F29-9585-E62C16056B43",
+            "name_first": "Lazar",
+            "name_middle": "",
+            "name_last": "Jankovic",
+            "stamp_created": 1584687081,
+            "stamp_created_by": {
+                "uuid": "535CA654-85B8-48FE-B4B4-58CE0FCCFA7E",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584687081,
+            "stamp_updated_by": {
+                "uuid": "535CA654-85B8-48FE-B4B4-58CE0FCCFA7E",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "groups_permissions": {
+                "data": [
+                    {
+                        "group_uuid": "DCB38F61-612B-404C-AE5F-868716C06DE4",
+                        "auth_uuid": "49B23515-5566-425B-BEB6-5F4004427061",
+                        "group_name": "App.Office.Admin",
+                        "group_memo": "App.Office.Admin( 2462AFE3-2DA4-4C16-849B-A673AED3EACE )",
+                        "stamp_created": 1584687081,
+                        "stamp_created_by": {
+                            "uuid": "535CA654-85B8-48FE-B4B4-58CE0FCCFA7E",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        },
+                        "stamp_updated": 1584687081,
+                        "stamp_updated_by": {
+                            "uuid": "C621B410-7011-4611-B8A3-46704EFA062B"
+                        },
+                        "permission": {
+                            "data": {
+                                "permission_uuid": "47121552-FD65-4780-9D59-1862A018FB91",
+                                "permission_value": 1
+                            }
+                        }
+                    },
+                    {
+                        "group_uuid": "908A4B40-2A64-4437-8A7C-77B23412ABB6",
+                        "auth_uuid": "C345469C-DF8E-4283-813B-06927B58BF0C",
+                        "group_name": "App.Soundblock.Service.E85F11C7-3414-42C9-8AC3-AAFBEFF995DF",
+                        "group_memo": "App.Soundblock.Service.( E85F11C7-3414-42C9-8AC3-AAFBEFF995DF )",
+                        "stamp_created": 1584687082,
+                        "stamp_created_by": {
+                            "uuid": "535CA654-85B8-48FE-B4B4-58CE0FCCFA7E",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        },
+                        "stamp_updated": 1584687082,
+                        "stamp_updated_by": {
+                            "uuid": "C621B410-7011-4611-B8A3-46704EFA062B"
+                        },
+                        "permission": {
+                            "data": {
+                                "permission_uuid": "47121552-FD65-4780-9D59-1862A018FB91",
+                                "permission_value": 1
+                            }
+                        }
+                    },
+                    {
+                        "group_uuid": "506D946C-1EFE-4D66-A90A-31D3F23DC00F",
+                        "auth_uuid": "C345469C-DF8E-4283-813B-06927B58BF0C",
+                        "group_name": "App.Soundblock.Service.A2DD9319-714D-4FAC-8EAA-29E32DF5F41B",
+                        "group_memo": "App.Soundblock.Service.( A2DD9319-714D-4FAC-8EAA-29E32DF5F41B )",
+                        "stamp_created": 1584687082,
+                        "stamp_created_by": {
+                            "uuid": "535CA654-85B8-48FE-B4B4-58CE0FCCFA7E",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        },
+                        "stamp_updated": 1584687082,
+                        "stamp_updated_by": {
+                            "uuid": "C621B410-7011-4611-B8A3-46704EFA062B"
+                        },
+                        "permission": {
+                            "data": {
+                                "permission_uuid": "47121552-FD65-4780-9D59-1862A018FB91",
+                                "permission_value": 1
+                            }
+                        }
+                    },
+                    {
+                        "group_uuid": "0F56F69F-5429-401D-AC24-380D7B6A122D",
+                        "auth_uuid": "C345469C-DF8E-4283-813B-06927B58BF0C",
+                        "group_name": "App.Soundblock.Service.87EE6F46-64D6-4066-ABF3-8890635847F1",
+                        "group_memo": "App.Soundblock.Service.( 87EE6F46-64D6-4066-ABF3-8890635847F1 )",
+                        "stamp_created": 1584687082,
+                        "stamp_created_by": {
+                            "uuid": "535CA654-85B8-48FE-B4B4-58CE0FCCFA7E",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        },
+                        "stamp_updated": 1584687082,
+                        "stamp_updated_by": {
+                            "uuid": "C621B410-7011-4611-B8A3-46704EFA062B"
+                        },
+                        "permission": {
+                            "data": {
+                                "permission_uuid": "47121552-FD65-4780-9D59-1862A018FB91",
+                                "permission_value": 1
+                            }
+                        }
+                    },
+                    {
+                        "group_uuid": "FC1EC2FD-D0AE-42F5-A04B-F26350011EE3",
+                        "auth_uuid": "C345469C-DF8E-4283-813B-06927B58BF0C",
+                        "group_name": "App.Soundblock.Service.FB569A54-3A63-49D1-8B9D-7D13543728E1",
+                        "group_memo": "App.Soundblock.Service.( FB569A54-3A63-49D1-8B9D-7D13543728E1 )",
+                        "stamp_created": 1584687082,
+                        "stamp_created_by": {
+                            "uuid": "535CA654-85B8-48FE-B4B4-58CE0FCCFA7E",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        },
+                        "stamp_updated": 1584687082,
+                        "stamp_updated_by": {
+                            "uuid": "C621B410-7011-4611-B8A3-46704EFA062B"
+                        },
+                        "permission": {
+                            "data": {
+                                "permission_uuid": "47121552-FD65-4780-9D59-1862A018FB91",
+                                "permission_value": 0
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "user_uuid": "F66A2B92-4187-4086-AD3E-A8A8927A7C42",
+            "name_first": "Demo",
+            "name_middle": "Test",
+            "name_last": "Dummy",
+            "stamp_created": 1584687081,
+            "stamp_created_by": {
+                "uuid": "535CA654-85B8-48FE-B4B4-58CE0FCCFA7E",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584687081,
+            "stamp_updated_by": {
+                "uuid": "535CA654-85B8-48FE-B4B4-58CE0FCCFA7E",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "groups_permissions": {
+                "data": [
+                    {
+                        "group_uuid": "506D946C-1EFE-4D66-A90A-31D3F23DC00F",
+                        "auth_uuid": "C345469C-DF8E-4283-813B-06927B58BF0C",
+                        "group_name": "App.Soundblock.Service.A2DD9319-714D-4FAC-8EAA-29E32DF5F41B",
+                        "group_memo": "App.Soundblock.Service.( A2DD9319-714D-4FAC-8EAA-29E32DF5F41B )",
+                        "stamp_created": 1584687082,
+                        "stamp_created_by": {
+                            "uuid": "535CA654-85B8-48FE-B4B4-58CE0FCCFA7E",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        },
+                        "stamp_updated": 1584687082,
+                        "stamp_updated_by": {
+                            "uuid": "C621B410-7011-4611-B8A3-46704EFA062B"
+                        },
+                        "permission": {
+                            "data": {
+                                "permission_uuid": "47121552-FD65-4780-9D59-1862A018FB91",
+                                "permission_value": 1
+                            }
+                        }
+                    },
+                    {
+                        "group_uuid": "0F56F69F-5429-401D-AC24-380D7B6A122D",
+                        "auth_uuid": "C345469C-DF8E-4283-813B-06927B58BF0C",
+                        "group_name": "App.Soundblock.Service.87EE6F46-64D6-4066-ABF3-8890635847F1",
+                        "group_memo": "App.Soundblock.Service.( 87EE6F46-64D6-4066-ABF3-8890635847F1 )",
+                        "stamp_created": 1584687082,
+                        "stamp_created_by": {
+                            "uuid": "535CA654-85B8-48FE-B4B4-58CE0FCCFA7E",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        },
+                        "stamp_updated": 1584687082,
+                        "stamp_updated_by": {
+                            "uuid": "C621B410-7011-4611-B8A3-46704EFA062B"
+                        },
+                        "permission": {
+                            "data": {
+                                "permission_uuid": "47121552-FD65-4780-9D59-1862A018FB91",
+                                "permission_value": 1
+                            }
+                        }
+                    },
+                    {
+                        "group_uuid": "FC1EC2FD-D0AE-42F5-A04B-F26350011EE3",
+                        "auth_uuid": "C345469C-DF8E-4283-813B-06927B58BF0C",
+                        "group_name": "App.Soundblock.Service.FB569A54-3A63-49D1-8B9D-7D13543728E1",
+                        "group_memo": "App.Soundblock.Service.( FB569A54-3A63-49D1-8B9D-7D13543728E1 )",
+                        "stamp_created": 1584687082,
+                        "stamp_created_by": {
+                            "uuid": "535CA654-85B8-48FE-B4B4-58CE0FCCFA7E",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        },
+                        "stamp_updated": 1584687082,
+                        "stamp_updated_by": {
+                            "uuid": "C621B410-7011-4611-B8A3-46704EFA062B"
+                        },
+                        "permission": {
+                            "data": {
+                                "permission_uuid": "47121552-FD65-4780-9D59-1862A018FB91",
+                                "permission_value": 1
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "user_uuid": "3B721316-851C-487E-9977-D0D91631CCC6",
+            "name_first": "Jacky",
+            "name_middle": "Test",
+            "name_last": "Dummy",
+            "stamp_created": 1584687081,
+            "stamp_created_by": {
+                "uuid": "535CA654-85B8-48FE-B4B4-58CE0FCCFA7E",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584687081,
+            "stamp_updated_by": {
+                "uuid": "535CA654-85B8-48FE-B4B4-58CE0FCCFA7E",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "groups_permissions": {
+                "data": [
+                    {
+                        "group_uuid": "E4D01B89-3E85-4511-8582-77AB3AAF5E8F",
+                        "auth_uuid": "C345469C-DF8E-4283-813B-06927B58BF0C",
+                        "group_name": "App.Soundblock.Service.506EC600-C455-47A3-B5F0-B970C3EAF4BA",
+                        "group_memo": "App.Soundblock.Service.( 506EC600-C455-47A3-B5F0-B970C3EAF4BA )",
+                        "stamp_created": 1584687082,
+                        "stamp_created_by": {
+                            "uuid": "535CA654-85B8-48FE-B4B4-58CE0FCCFA7E",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        },
+                        "stamp_updated": 1584687082,
+                        "stamp_updated_by": {
+                            "uuid": "C621B410-7011-4611-B8A3-46704EFA062B"
+                        },
+                        "permission": {
+                            "data": {
+                                "permission_uuid": "47121552-FD65-4780-9D59-1862A018FB91",
+                                "permission_value": 0
+                            }
+                        }
+                    },
+                    {
+                        "group_uuid": "F4190118-14F2-43EA-AA30-323B7AA0BC74",
+                        "auth_uuid": "C345469C-DF8E-4283-813B-06927B58BF0C",
+                        "group_name": "App.Soundblock.Service.78959C02-0E36-40A3-A8C7-2228141916C2",
+                        "group_memo": "App.Soundblock.Service.( 78959C02-0E36-40A3-A8C7-2228141916C2 )",
+                        "stamp_created": 1584687082,
+                        "stamp_created_by": {
+                            "uuid": "535CA654-85B8-48FE-B4B4-58CE0FCCFA7E",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        },
+                        "stamp_updated": 1584687082,
+                        "stamp_updated_by": {
+                            "uuid": "C621B410-7011-4611-B8A3-46704EFA062B"
+                        },
+                        "permission": {
+                            "data": {
+                                "permission_uuid": "47121552-FD65-4780-9D59-1862A018FB91",
+                                "permission_value": 1
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "user_uuid": "E781FD6D-3525-4797-BEDD-BCCAB33CF2FA",
+            "name_first": "Ace",
+            "name_middle": "Test",
+            "name_last": "Dummy",
+            "stamp_created": 1584687081,
+            "stamp_created_by": {
+                "uuid": "535CA654-85B8-48FE-B4B4-58CE0FCCFA7E",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584687081,
+            "stamp_updated_by": {
+                "uuid": "535CA654-85B8-48FE-B4B4-58CE0FCCFA7E",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "groups_permissions": {
+                "data": [
+                    {
+                        "group_uuid": "908A4B40-2A64-4437-8A7C-77B23412ABB6",
+                        "auth_uuid": "C345469C-DF8E-4283-813B-06927B58BF0C",
+                        "group_name": "App.Soundblock.Service.E85F11C7-3414-42C9-8AC3-AAFBEFF995DF",
+                        "group_memo": "App.Soundblock.Service.( E85F11C7-3414-42C9-8AC3-AAFBEFF995DF )",
+                        "stamp_created": 1584687082,
+                        "stamp_created_by": {
+                            "uuid": "535CA654-85B8-48FE-B4B4-58CE0FCCFA7E",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        },
+                        "stamp_updated": 1584687082,
+                        "stamp_updated_by": {
+                            "uuid": "C621B410-7011-4611-B8A3-46704EFA062B"
+                        },
+                        "permission": {
+                            "data": {
+                                "permission_uuid": "47121552-FD65-4780-9D59-1862A018FB91",
+                                "permission_value": 0
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "user_uuid": "B000DC9D-7439-4D07-94F6-241C1A052D3B",
+            "name_first": "Polo",
+            "name_middle": "Test",
+            "name_last": "Dummy",
+            "stamp_created": 1584687081,
+            "stamp_created_by": {
+                "uuid": "535CA654-85B8-48FE-B4B4-58CE0FCCFA7E",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584687081,
+            "stamp_updated_by": {
+                "uuid": "535CA654-85B8-48FE-B4B4-58CE0FCCFA7E",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "groups_permissions": {
+                "data": [
+                    {
+                        "group_uuid": "E4D01B89-3E85-4511-8582-77AB3AAF5E8F",
+                        "auth_uuid": "C345469C-DF8E-4283-813B-06927B58BF0C",
+                        "group_name": "App.Soundblock.Service.506EC600-C455-47A3-B5F0-B970C3EAF4BA",
+                        "group_memo": "App.Soundblock.Service.( 506EC600-C455-47A3-B5F0-B970C3EAF4BA )",
+                        "stamp_created": 1584687082,
+                        "stamp_created_by": {
+                            "uuid": "535CA654-85B8-48FE-B4B4-58CE0FCCFA7E",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        },
+                        "stamp_updated": 1584687082,
+                        "stamp_updated_by": {
+                            "uuid": "C621B410-7011-4611-B8A3-46704EFA062B"
+                        },
+                        "permission": {
+                            "data": {
+                                "permission_uuid": "47121552-FD65-4780-9D59-1862A018FB91",
+                                "permission_value": 0
+                            }
+                        }
+                    },
+                    {
+                        "group_uuid": "0F56F69F-5429-401D-AC24-380D7B6A122D",
+                        "auth_uuid": "C345469C-DF8E-4283-813B-06927B58BF0C",
+                        "group_name": "App.Soundblock.Service.87EE6F46-64D6-4066-ABF3-8890635847F1",
+                        "group_memo": "App.Soundblock.Service.( 87EE6F46-64D6-4066-ABF3-8890635847F1 )",
+                        "stamp_created": 1584687082,
+                        "stamp_created_by": {
+                            "uuid": "535CA654-85B8-48FE-B4B4-58CE0FCCFA7E",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        },
+                        "stamp_updated": 1584687082,
+                        "stamp_updated_by": {
+                            "uuid": "C621B410-7011-4611-B8A3-46704EFA062B"
+                        },
+                        "permission": {
+                            "data": {
+                                "permission_uuid": "47121552-FD65-4780-9D59-1862A018FB91",
+                                "permission_value": 0
+                            }
+                        }
+                    },
+                    {
+                        "group_uuid": "FC1EC2FD-D0AE-42F5-A04B-F26350011EE3",
+                        "auth_uuid": "C345469C-DF8E-4283-813B-06927B58BF0C",
+                        "group_name": "App.Soundblock.Service.FB569A54-3A63-49D1-8B9D-7D13543728E1",
+                        "group_memo": "App.Soundblock.Service.( FB569A54-3A63-49D1-8B9D-7D13543728E1 )",
+                        "stamp_created": 1584687082,
+                        "stamp_created_by": {
+                            "uuid": "535CA654-85B8-48FE-B4B4-58CE0FCCFA7E",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        },
+                        "stamp_updated": 1584687082,
+                        "stamp_updated_by": {
+                            "uuid": "C621B410-7011-4611-B8A3-46704EFA062B"
+                        },
+                        "permission": {
+                            "data": {
+                                "permission_uuid": "47121552-FD65-4780-9D59-1862A018FB91",
+                                "permission_value": 0
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    ],
+    "meta": {
+        "pages": {
+            "total": 9,
+            "count": 9,
+            "per_page": 10,
+            "current_page": 1,
+            "total_pages": 1,
+            "links": [],
+            "from": 1
+        }
+    }
+}

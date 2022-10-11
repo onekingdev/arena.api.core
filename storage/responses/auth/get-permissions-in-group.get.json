@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "permission_uuid": "F0DC3F36-D9DA-4829-9437-7CFE8002DC62",
+            "permission_name": "App.Soundblock.Service.Storage.Smart",
+            "permission_memo": "App.Soundblock.Service.Storage.Smart",
+            "stamp_created": 1582659748,
+            "stamp_created_by": "238950B3-2F95-44F2-B30D-B45F04557FB3",
+            "stamp_updated": 1582659748,
+            "stamp_updated_by": "3698FB72-A5D2-4E24-9C50-48BC2415C636"
+        },
+        {
+            "permission_uuid": "7E433E62-989C-489A-A006-972FF7F8DC99",
+            "permission_name": "App.Soundblock.Service.Report.Payments",
+            "permission_memo": "App.Soundblock.Service.Report.Payments",
+            "stamp_created": 1582659748,
+            "stamp_created_by": "238950B3-2F95-44F2-B30D-B45F04557FB3",
+            "stamp_updated": 1582659748,
+            "stamp_updated_by": "3698FB72-A5D2-4E24-9C50-48BC2415C636"
+        }
+    ]
+}

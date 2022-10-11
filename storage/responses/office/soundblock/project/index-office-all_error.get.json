@@ -1,0 +1,12 @@
+{
+    "response": {
+        "error": "Permission Denied.",
+        "exception": "App\\Exceptions\\AuthException",
+        "message": "User (4499824F-2C69-4A43-9ADB-0700ED1514E5) permission (E93EA006-9269-4D0F-976B-96AF3A68470F) denied from group"
+    },
+    "status": {
+        "app": "Arena.API",
+        "code": 417,
+        "message": ""
+    }
+}

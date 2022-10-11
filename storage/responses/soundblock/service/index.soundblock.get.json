@@ -1,0 +1,64 @@
+{
+    "data": [
+        {
+            "service_uuid": "37C8694E-0E7E-4C8D-A050-8B4DDB5EA875",
+            "service_name": "Service Name 5",
+            "stamp_created": 1584179854,
+            "stamp_created_by": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+            "stamp_updated": 1584179854,
+            "stamp_updated_by": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+            "user": {
+                "data": {
+                    "user_uuid": "28F0270E-9906-4712-90F2-1236CEFA2958",
+                    "name_first": "Lazar",
+                    "name_middle": "Unknown",
+                    "name_last": "Kirill",
+                    "stamp_created": 1584179854,
+                    "stamp_created_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584293725,
+                    "stamp_updated_by": {
+                        "uuid": "28F0270E-9906-4712-90F2-1236CEFA2958",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    }
+                }
+            }
+        },
+        {
+            "service_uuid": "F180F725-7D8A-45D4-9B4D-0FF8630666E4",
+            "service_name": "Service Name 4",
+            "stamp_created": 1584179854,
+            "stamp_created_by": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+            "stamp_updated": 1584179854,
+            "stamp_updated_by": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+            "user": {
+                "data": {
+                    "user_uuid": "7C619A2D-9BF6-4F6A-BE96-17285A354344",
+                    "name_first": "jin",
+                    "name_middle": "",
+                    "name_last": "tai",
+                    "stamp_created": 1584179854,
+                    "stamp_created_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584179854,
+                    "stamp_updated_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    }
+                }
+            }
+        }
+    ]
+}

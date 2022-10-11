@@ -1,0 +1,12 @@
+{
+    "response": {
+        "error": "Can not finish your query request!",
+        "exception": "Illuminate\\Database\\QueryException",
+        "message": "SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '5-202-555-0109' for key 'uidx_user-id_phone-number' (SQL: insert into `users_contact_phones` (`row_uuid`, `user_id`, `user_uuid`, `phone_type`, `phone_number`, `flag_primary`, `stamp_created`, `stamp_updated`, `stamp_created_by`, `stamp_updated_by`, `stamp_updated_at`, `stamp_created_at`) values (03BBBAC3-3E7A-495F-AB3B-737249088C64, 5, 28F0270E-9906-4712-90F2-1236CEFA2958, Home, 202-555-0109, 1, 1584290624, 1584290624, 5, 5, 2020-03-15 16:43:44, 2020-03-15 16:43:44))"
+    },
+    "status": {
+        "app": "Arena.API",
+        "code": 422,
+        "message": ""
+    }
+}

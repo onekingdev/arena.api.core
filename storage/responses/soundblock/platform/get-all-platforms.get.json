@@ -1,0 +1,868 @@
+{
+    "data": [
+        {
+            "platform_uuid": "3F623BD1-8B26-4661-83EB-394B55154F5C",
+            "platform_name": "Apple Music",
+            "stamp_created": 1584179855,
+            "stamp_created_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584179855,
+            "stamp_updated_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            }
+        },
+        {
+            "platform_uuid": "E7254EB6-DE54-4A00-8544-F16B5F007283",
+            "platform_name": "Pandora",
+            "stamp_created": 1584179855,
+            "stamp_created_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584179855,
+            "stamp_updated_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            }
+        },
+        {
+            "platform_uuid": "DD9646D4-47F4-47BB-A069-76336071DFF1",
+            "platform_name": "Arena",
+            "stamp_created": 1584179855,
+            "stamp_created_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584179855,
+            "stamp_updated_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            }
+        },
+        {
+            "platform_uuid": "D91231DF-D782-4AAD-A176-5264232B4CBC",
+            "platform_name": "Spotify",
+            "stamp_created": 1584179855,
+            "stamp_created_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584179855,
+            "stamp_updated_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            }
+        },
+        {
+            "platform_uuid": "C16EDE84-7438-4E61-BF17-B3252906F656",
+            "platform_name": "iHeartRadio",
+            "stamp_created": 1584179855,
+            "stamp_created_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584179855,
+            "stamp_updated_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            }
+        },
+        {
+            "platform_uuid": "B13FBD8C-2F29-45C7-9641-CF238E502132",
+            "platform_name": "YouTube",
+            "stamp_created": 1584179855,
+            "stamp_created_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584179855,
+            "stamp_updated_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            }
+        },
+        {
+            "platform_uuid": "82840716-2D1F-49C1-A100-F8FE04089C74",
+            "platform_name": "Juno Download",
+            "stamp_created": 1584179855,
+            "stamp_created_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584179855,
+            "stamp_updated_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            }
+        },
+        {
+            "platform_uuid": "3AF2D0A0-AC84-446C-8D51-F7CA921CEB94",
+            "platform_name": "SHAZAM",
+            "stamp_created": 1584179855,
+            "stamp_created_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584179855,
+            "stamp_updated_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            }
+        },
+        {
+            "platform_uuid": "EFEEE16F-FDCA-4886-ACD1-300406910FD1",
+            "platform_name": "Deezer",
+            "stamp_created": 1584179855,
+            "stamp_created_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584179855,
+            "stamp_updated_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            }
+        },
+        {
+            "platform_uuid": "6AE4AB0C-CE07-4C7C-AB0E-CDFD07BAB5BA",
+            "platform_name": "Soundcloud",
+            "stamp_created": 1584179855,
+            "stamp_created_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584179855,
+            "stamp_updated_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            }
+        },
+        {
+            "platform_uuid": "191B9438-C0E9-48AE-A652-29D4E80CA53E",
+            "platform_name": "Amazon Music",
+            "stamp_created": 1584179855,
+            "stamp_created_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584179855,
+            "stamp_updated_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            }
+        },
+        {
+            "platform_uuid": "EC1E82B6-3942-4B44-B281-BE07A2340A47",
+            "platform_name": "Amazon",
+            "stamp_created": 1584179855,
+            "stamp_created_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584179855,
+            "stamp_updated_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            }
+        },
+        {
+            "platform_uuid": "24D456CC-1044-4125-A86A-C8F0D0C1A93E",
+            "platform_name": "Google Play",
+            "stamp_created": 1584179855,
+            "stamp_created_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584179855,
+            "stamp_updated_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            }
+        },
+        {
+            "platform_uuid": "BDF0DE87-B58F-4CC1-AED3-9E6A606FDAF0",
+            "platform_name": "Dubset",
+            "stamp_created": 1584179855,
+            "stamp_created_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584179855,
+            "stamp_updated_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            }
+        },
+        {
+            "platform_uuid": "C50C1F5A-3BB9-4B12-9C65-7A517CFCE615",
+            "platform_name": "Slacker Radio",
+            "stamp_created": 1584179855,
+            "stamp_created_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584179855,
+            "stamp_updated_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            }
+        },
+        {
+            "platform_uuid": "EC951BA2-F67F-44AA-A0C9-AC04ECB76B13",
+            "platform_name": "Uma Music",
+            "stamp_created": 1584179855,
+            "stamp_created_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584179855,
+            "stamp_updated_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            }
+        },
+        {
+            "platform_uuid": "1A017228-1205-4727-828E-8135FE9C8F4B",
+            "platform_name": "Bandcamp",
+            "stamp_created": 1584179855,
+            "stamp_created_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584179855,
+            "stamp_updated_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            }
+        },
+        {
+            "platform_uuid": "39EB9499-F545-4C95-ABFB-3B9459A434F3",
+            "platform_name": "Digital",
+            "stamp_created": 1584179855,
+            "stamp_created_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584179855,
+            "stamp_updated_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            }
+        },
+        {
+            "platform_uuid": "EA613404-2E20-4FA3-9901-E14F40C93A9E",
+            "platform_name": "Akazoo",
+            "stamp_created": 1584179855,
+            "stamp_created_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584179855,
+            "stamp_updated_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            }
+        },
+        {
+            "platform_uuid": "36ED2E70-B0A9-43FA-9364-138F52A602D9",
+            "platform_name": "Audible Magic",
+            "stamp_created": 1584179855,
+            "stamp_created_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584179855,
+            "stamp_updated_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            }
+        },
+        {
+            "platform_uuid": "55CFAF22-8503-43E8-A505-4919BA0C93BB",
+            "platform_name": "Napster",
+            "stamp_created": 1584179855,
+            "stamp_created_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584179855,
+            "stamp_updated_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            }
+        },
+        {
+            "platform_uuid": "D6EC82E6-5198-478F-9648-A9C274575C27",
+            "platform_name": "Shopify",
+            "stamp_created": 1584179855,
+            "stamp_created_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584179855,
+            "stamp_updated_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            }
+        },
+        {
+            "platform_uuid": "2FC8D14F-9902-411E-803D-8BF7CFDD7182",
+            "platform_name": "TikTok",
+            "stamp_created": 1584179855,
+            "stamp_created_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584179855,
+            "stamp_updated_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            }
+        },
+        {
+            "platform_uuid": "A7FD721F-3FEE-45B3-BCB9-337BE4A39D61",
+            "platform_name": "Traxsource",
+            "stamp_created": 1584179855,
+            "stamp_created_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584179855,
+            "stamp_updated_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            }
+        },
+        {
+            "platform_uuid": "4FF5ADCC-A3A5-47A1-8A0E-CDB2DAF6407F",
+            "platform_name": "Apple Music",
+            "stamp_created": 1584179855,
+            "stamp_created_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584179855,
+            "stamp_updated_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            }
+        },
+        {
+            "platform_uuid": "127C91CC-9090-4D8F-83A6-698C177CBB2E",
+            "platform_name": "Pandora",
+            "stamp_created": 1584179855,
+            "stamp_created_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584179855,
+            "stamp_updated_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            }
+        },
+        {
+            "platform_uuid": "EA3A81CF-3869-445B-8845-77E61AB687C2",
+            "platform_name": "Arena",
+            "stamp_created": 1584179855,
+            "stamp_created_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584179855,
+            "stamp_updated_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            }
+        },
+        {
+            "platform_uuid": "3F43C38D-4C8B-4EA8-8CC0-C7A3B5346287",
+            "platform_name": "Spotify",
+            "stamp_created": 1584179855,
+            "stamp_created_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584179855,
+            "stamp_updated_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            }
+        },
+        {
+            "platform_uuid": "70528455-35ED-4C16-B2DF-94355524365D",
+            "platform_name": "iHeartRadio",
+            "stamp_created": 1584179855,
+            "stamp_created_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584179855,
+            "stamp_updated_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            }
+        },
+        {
+            "platform_uuid": "AF883124-DA64-4C31-9B3A-6E84C2A59E52",
+            "platform_name": "YouTube",
+            "stamp_created": 1584179856,
+            "stamp_created_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584179856,
+            "stamp_updated_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            }
+        },
+        {
+            "platform_uuid": "BFC33104-D591-431E-8D54-F9A54B19B4D1",
+            "platform_name": "Juno Download",
+            "stamp_created": 1584179856,
+            "stamp_created_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584179856,
+            "stamp_updated_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            }
+        },
+        {
+            "platform_uuid": "C67E7B84-58AF-480F-B9DA-7B6889387500",
+            "platform_name": "SHAZAM",
+            "stamp_created": 1584179856,
+            "stamp_created_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584179856,
+            "stamp_updated_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            }
+        },
+        {
+            "platform_uuid": "37197AA9-9F71-4AB6-9EBB-00CE9599FD4E",
+            "platform_name": "Deezer",
+            "stamp_created": 1584179856,
+            "stamp_created_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584179856,
+            "stamp_updated_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            }
+        },
+        {
+            "platform_uuid": "BB6D6202-D4C6-44E9-BFD5-B4377F58C482",
+            "platform_name": "Soundcloud",
+            "stamp_created": 1584179856,
+            "stamp_created_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584179856,
+            "stamp_updated_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            }
+        },
+        {
+            "platform_uuid": "D3E26C23-B8F6-47EB-8B9C-254B0DDD9EF6",
+            "platform_name": "Amazon Music",
+            "stamp_created": 1584179856,
+            "stamp_created_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584179856,
+            "stamp_updated_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            }
+        },
+        {
+            "platform_uuid": "3420354F-E983-4D7A-9048-477DB7335B42",
+            "platform_name": "Amazon",
+            "stamp_created": 1584179856,
+            "stamp_created_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584179856,
+            "stamp_updated_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            }
+        },
+        {
+            "platform_uuid": "AB3C4F49-3227-4676-A181-09165554D2DC",
+            "platform_name": "Google Play",
+            "stamp_created": 1584179856,
+            "stamp_created_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584179856,
+            "stamp_updated_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            }
+        },
+        {
+            "platform_uuid": "EE8FE392-0DDF-4361-B0DF-944E7B89E39F",
+            "platform_name": "Dubset",
+            "stamp_created": 1584179856,
+            "stamp_created_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584179856,
+            "stamp_updated_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            }
+        },
+        {
+            "platform_uuid": "DDEE8945-2CFF-4C86-8925-2A54715D7B0C",
+            "platform_name": "Slacker Radio",
+            "stamp_created": 1584179856,
+            "stamp_created_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584179856,
+            "stamp_updated_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            }
+        },
+        {
+            "platform_uuid": "E002243E-1D52-43BB-BFEE-E25C8690FA1B",
+            "platform_name": "Uma Music",
+            "stamp_created": 1584179856,
+            "stamp_created_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584179856,
+            "stamp_updated_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            }
+        },
+        {
+            "platform_uuid": "C0A81653-DDB7-4D0C-9993-59A438437E5B",
+            "platform_name": "Bandcamp",
+            "stamp_created": 1584179856,
+            "stamp_created_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584179856,
+            "stamp_updated_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            }
+        },
+        {
+            "platform_uuid": "18C1B9B0-12C6-443B-859A-20E1F5CF0DB6",
+            "platform_name": "Digital",
+            "stamp_created": 1584179856,
+            "stamp_created_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584179856,
+            "stamp_updated_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            }
+        },
+        {
+            "platform_uuid": "F992AF29-0FE0-477C-9DC5-F1C90F61A722",
+            "platform_name": "Akazoo",
+            "stamp_created": 1584179856,
+            "stamp_created_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584179856,
+            "stamp_updated_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            }
+        },
+        {
+            "platform_uuid": "4D6D4A36-66B7-423B-91AF-F7A2D595BFAC",
+            "platform_name": "Audible Magic",
+            "stamp_created": 1584179856,
+            "stamp_created_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584179856,
+            "stamp_updated_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            }
+        },
+        {
+            "platform_uuid": "B1F936BA-90C3-4835-9720-8AA58F4EC19C",
+            "platform_name": "Napster",
+            "stamp_created": 1584179856,
+            "stamp_created_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584179856,
+            "stamp_updated_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            }
+        },
+        {
+            "platform_uuid": "B62095B1-5CC6-42B7-9888-E6AB691D1314",
+            "platform_name": "Shopify",
+            "stamp_created": 1584179856,
+            "stamp_created_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584179856,
+            "stamp_updated_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            }
+        },
+        {
+            "platform_uuid": "FDAE533D-268E-4785-B7B3-F934345C2023",
+            "platform_name": "TikTok",
+            "stamp_created": 1584179856,
+            "stamp_created_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584179856,
+            "stamp_updated_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            }
+        },
+        {
+            "platform_uuid": "EE79BEBE-FEEA-4442-9530-74553C87A043",
+            "platform_name": "Traxsource",
+            "stamp_created": 1584179856,
+            "stamp_created_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584179856,
+            "stamp_updated_by": {
+                "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            }
+        }
+    ]
+}

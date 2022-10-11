@@ -1,0 +1,21 @@
+{
+    "data": {
+        "paypal": "8BC3431F-8144-4262-A798-A3E546D0CD22",
+        "paypal_email": "pay@pay.com",
+        "flag_primary": false,
+        "stamp_created": 1584296277,
+        "stamp_created_by": {
+            "uuid": "28F0270E-9906-4712-90F2-1236CEFA2958",
+            "name_first": "Jin",
+            "name_middle": "",
+            "name_last": "Tai"
+        },
+        "stamp_updated": 1584296277,
+        "stamp_updated_by": {
+            "uuid": "28F0270E-9906-4712-90F2-1236CEFA2958",
+            "name_first": "Jin",
+            "name_middle": "",
+            "name_last": "Tai"
+        }
+    }
+}

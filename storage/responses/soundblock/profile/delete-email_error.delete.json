@@ -1,0 +1,12 @@
+{
+    "response": {
+        "error": "Sorry, can not excute your request",
+        "exception": "Symfony\\Component\\Routing\\Exception\\InvalidParameterException",
+        "message": ""
+    },
+    "status": {
+        "app": "Arena.API",
+        "code": 400,
+        "message": ""
+    }
+}

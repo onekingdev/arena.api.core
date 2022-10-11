@@ -1,0 +1,42 @@
+{
+    "data": {
+        "account_uuid": "079308A0-ABB6-41CF-A392-DDF991E8D401",
+        "account_name": "Account Name 1",
+        "stamp_created_at": "2020-02-18T02:50:28.000000Z",
+        "stamp_updated_at": "2020-02-18T02:50:28.000000Z",
+        "user": {
+            "data": {
+                "user_uuid": "C947116C-6A68-4AFB-AF4F-22865DC831E8",
+                "email": null,
+                "alias": {
+                    "data": [
+                        {
+                            "alias_uuid": "11BBF69B-4C03-41D0-9151-1633349357D0",
+                            "user_alias": "arescode"
+                        },
+                        {
+                            "alias_uuid": "8EF89DF3-485D-4349-8034-D7A5C0F35DCE",
+                            "user_alias": "enetwizard"
+                        },
+                        {
+                            "alias_uuid": "688B7FA5-D04D-49DE-83C3-0B66445E1CF7",
+                            "user_alias": "rswfire"
+                        },
+                        {
+                            "alias_uuid": "09F551D9-F4F5-4364-B0A6-58A2776D1360",
+                            "user_alias": "samuel"
+                        },
+                        {
+                            "alias_uuid": "9B2767E8-4688-4CE4-8218-94B809CFE2CA",
+                            "user_alias": "swhite"
+                        },
+                        {
+                            "alias_uuid": "63873436-7534-4072-9F64-DDC75F80ACB0",
+                            "user_alias": "ljankovic"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

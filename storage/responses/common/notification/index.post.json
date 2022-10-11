@@ -1,0 +1,167 @@
+{
+    "data": [
+        {
+            "notification_uuid": "EDD44695-75D4-411B-A167-FF9BA6FE033A",
+            "notification_name": "Notification Name 1",
+            "notification_memo": "Notification Memo 1",
+            "notification_action": "Notification Actions 1",
+            "notification_detail": {
+                "notification_state": "unread",
+                "flag_canarchieve": 0,
+                "flag_candelete": 0
+            },
+            "stamp_created": 1583178637,
+            "stamp_created_by": "D4A293C4-4CBE-4DE5-B493-FBC22C0D9B89",
+            "stamp_updated": 1583178637,
+            "stamp_updated_by": "D4A293C4-4CBE-4DE5-B493-FBC22C0D9B89"
+        },
+        {
+            "notification_uuid": "01D980CA-CE0D-4597-9531-4197EA3FAD0C",
+            "notification_name": "Notification Name 2",
+            "notification_memo": "Notification Memo 2",
+            "notification_action": "Notification Actions 2",
+            "notification_detail": {
+                "notification_state": "unread",
+                "flag_canarchieve": 0,
+                "flag_candelete": 0
+            },
+            "stamp_created": 1583178637,
+            "stamp_created_by": "D4A293C4-4CBE-4DE5-B493-FBC22C0D9B89",
+            "stamp_updated": 1583178637,
+            "stamp_updated_by": "D4A293C4-4CBE-4DE5-B493-FBC22C0D9B89"
+        },
+        {
+            "notification_uuid": "28CE085B-3900-483A-9FAC-7A22CBD6B25F",
+            "notification_name": "Notification Name 3",
+            "notification_memo": "Notification Memo 3",
+            "notification_action": "Notification Actions 3",
+            "notification_detail": {
+                "notification_state": "unread",
+                "flag_canarchieve": 0,
+                "flag_candelete": 0
+            },
+            "stamp_created": 1583178637,
+            "stamp_created_by": "D4A293C4-4CBE-4DE5-B493-FBC22C0D9B89",
+            "stamp_updated": 1583178637,
+            "stamp_updated_by": "D4A293C4-4CBE-4DE5-B493-FBC22C0D9B89"
+        },
+        {
+            "notification_uuid": "6F6DFC9B-29D3-47F5-8876-A28EE704BB3E",
+            "notification_name": "Test Notification",
+            "notification_memo": "Test Notification( 6F6DFC9B-29D3-47F5-8876-A28EE704BB3E )",
+            "notification_action": "Test Notification Action",
+            "notification_detail": {
+                "notification_state": "unread",
+                "flag_canarchieve": 0,
+                "flag_candelete": 0
+            },
+            "stamp_created": 1583178790,
+            "stamp_created_by": "D4A293C4-4CBE-4DE5-B493-FBC22C0D9B89",
+            "stamp_updated": 1583178790,
+            "stamp_updated_by": "D4A293C4-4CBE-4DE5-B493-FBC22C0D9B89"
+        },
+        {
+            "notification_uuid": "BEAD54C3-DF9B-4786-8605-74FC5B2E178B",
+            "notification_name": "Test Notification",
+            "notification_memo": "Test Notification( BEAD54C3-DF9B-4786-8605-74FC5B2E178B )",
+            "notification_action": "Test Notification Action",
+            "notification_detail": {
+                "notification_state": "unread",
+                "flag_canarchieve": 0,
+                "flag_candelete": 0
+            },
+            "stamp_created": 1583178858,
+            "stamp_created_by": "D4A293C4-4CBE-4DE5-B493-FBC22C0D9B89",
+            "stamp_updated": 1583178858,
+            "stamp_updated_by": "D4A293C4-4CBE-4DE5-B493-FBC22C0D9B89"
+        },
+        {
+            "notification_uuid": "E2008A76-1142-47CE-9B85-56462CB65C9D",
+            "notification_name": "Test Notification",
+            "notification_memo": "Test Notification( E2008A76-1142-47CE-9B85-56462CB65C9D )",
+            "notification_action": "Test Notification Action",
+            "notification_detail": {
+                "notification_state": "unread",
+                "flag_canarchieve": 0,
+                "flag_candelete": 0
+            },
+            "stamp_created": 1583183713,
+            "stamp_created_by": "D4A293C4-4CBE-4DE5-B493-FBC22C0D9B89",
+            "stamp_updated": 1583183713,
+            "stamp_updated_by": "D4A293C4-4CBE-4DE5-B493-FBC22C0D9B89"
+        },
+        {
+            "notification_uuid": "02ECD053-B7DB-414D-A0F8-9D05C7AC8D61",
+            "notification_name": "Test Notification",
+            "notification_memo": "Test Notification( 02ECD053-B7DB-414D-A0F8-9D05C7AC8D61 )",
+            "notification_action": "Test Notification Action",
+            "notification_detail": {
+                "notification_state": "unread",
+                "flag_canarchieve": 0,
+                "flag_candelete": 0
+            },
+            "stamp_created": 1583183722,
+            "stamp_created_by": "D4A293C4-4CBE-4DE5-B493-FBC22C0D9B89",
+            "stamp_updated": 1583183722,
+            "stamp_updated_by": "D4A293C4-4CBE-4DE5-B493-FBC22C0D9B89"
+        },
+        {
+            "notification_uuid": "93CF0B37-0A06-4465-A50F-147D144D452C",
+            "notification_name": "Test Notification",
+            "notification_memo": "Test Notification( 93CF0B37-0A06-4465-A50F-147D144D452C )",
+            "notification_action": "Test Notification Action",
+            "notification_detail": {
+                "notification_state": "unread",
+                "flag_canarchieve": 0,
+                "flag_candelete": 0
+            },
+            "stamp_created": 1583183729,
+            "stamp_created_by": "D4A293C4-4CBE-4DE5-B493-FBC22C0D9B89",
+            "stamp_updated": 1583183729,
+            "stamp_updated_by": "D4A293C4-4CBE-4DE5-B493-FBC22C0D9B89"
+        },
+        {
+            "notification_uuid": "1E9A4293-5A31-4DB1-8734-E2A823AF3A7A",
+            "notification_name": "Test Notification",
+            "notification_memo": "Test Notification( 1E9A4293-5A31-4DB1-8734-E2A823AF3A7A )",
+            "notification_action": "Test Notification Action",
+            "notification_detail": {
+                "notification_state": "unread",
+                "flag_canarchieve": 0,
+                "flag_candelete": 0
+            },
+            "stamp_created": 1583183736,
+            "stamp_created_by": "D4A293C4-4CBE-4DE5-B493-FBC22C0D9B89",
+            "stamp_updated": 1583183736,
+            "stamp_updated_by": "D4A293C4-4CBE-4DE5-B493-FBC22C0D9B89"
+        },
+        {
+            "notification_uuid": "3D5C0FF5-CF42-42AE-85C8-B27DB1369D75",
+            "notification_name": "Test Notification",
+            "notification_memo": "Test Notification( 3D5C0FF5-CF42-42AE-85C8-B27DB1369D75 )",
+            "notification_action": "Test Notification Action",
+            "notification_detail": {
+                "notification_state": "unread",
+                "flag_canarchieve": 0,
+                "flag_candelete": 0
+            },
+            "stamp_created": 1583183743,
+            "stamp_created_by": "D4A293C4-4CBE-4DE5-B493-FBC22C0D9B89",
+            "stamp_updated": 1583183743,
+            "stamp_updated_by": "D4A293C4-4CBE-4DE5-B493-FBC22C0D9B89"
+        }
+    ],
+    "meta": {
+        "pages": {
+            "total": 56,
+            "count": 10,
+            "per_page": 10,
+            "current_page": 1,
+            "total_pages": 6,
+            "links": {
+                "next": "http://localhost:8000/user/notifications?page=2"
+            },
+            "from": 1
+        }
+    }
+}

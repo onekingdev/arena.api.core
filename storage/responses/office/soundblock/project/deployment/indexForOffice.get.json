@@ -1,0 +1,45 @@
+{
+    "data": [
+        {
+            "deployment_uuid": "1C692A47-8814-48E0-BD7A-9465EC51721F",
+            "deployment_status": {
+                "deployment_status": "pending",
+                "deployment_memo": "deployment_memo"
+            },
+            "stamp_created_at": "2020-02-22T19:20:40.000000Z",
+            "stamp_updated_at": "2020-02-22T19:20:40.000000Z",
+            "platform": {
+                "data": {
+                    "platform_uuid": "E50B961D-A475-488A-9883-08503D6E3A5A",
+                    "platform_name": "Apple Music"
+                }
+            }
+        },
+        {
+            "deployment_uuid": "5308A63E-883F-42CC-A571-B6A9CEACCAB1",
+            "deployment_status": {
+                "deployment_status": "deployed",
+                "deployment_memo": "deployment_memo"
+            },
+            "stamp_created_at": "2020-02-22T19:20:40.000000Z",
+            "stamp_updated_at": "2020-02-22T19:20:40.000000Z",
+            "platform": {
+                "data": {
+                    "platform_uuid": "1B2F0097-68D8-4E9A-9E1D-E7B9809BC914",
+                    "platform_name": "Spotify"
+                }
+            }
+        }
+    ],
+    "meta": {
+        "pages": {
+            "total": 2,
+            "count": 2,
+            "per_page": 5,
+            "current_page": 1,
+            "total_pages": 1,
+            "links": [],
+            "from": 1
+        }
+    }
+}

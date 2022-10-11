@@ -1,0 +1,27 @@
+{
+    "data": {
+        "project_uuid": "781EB5C4-4F5A-4708-8ED0-E33A151C24F3",
+        "project_title": "Marshal Marther",
+        "project_avatar": "http://test.api.arena.com/storage/soundblock/service/F180F725-7D8A-45D4-9B4D-0FF8630666E4/projects/781EB5C4-4F5A-4708-8ED0-E33A151C24F3/artwork.png",
+        "project_type": "Album",
+        "project_date": "2020-10-10",
+        "project_upc": null,
+        "stamp_created": 1584319691,
+        "stamp_created_by": {
+            "uuid": "7C619A2D-9BF6-4F6A-BE96-17285A354344",
+            "name_first": "jin",
+            "name_middle": "",
+            "name_last": "tai"
+        },
+        "stamp_updated": 1584319691,
+        "stamp_updated_by": {
+            "uuid": "7C619A2D-9BF6-4F6A-BE96-17285A354344",
+            "name_first": "jin",
+            "name_middle": "",
+            "name_last": "tai"
+        },
+        "collections": {
+            "data": []
+        }
+    }
+}

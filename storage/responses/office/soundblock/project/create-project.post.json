@@ -1,0 +1,24 @@
+{
+    "data": {
+        "project_uuid": "2625D656-3EB7-4AB4-8BF4-A1D701393825",
+        "project_title": "Office Project Remind me",
+        "project_avatar": "http://test.api.arena.com/storage/default/artwork.png",
+        "project_type": "Album",
+        "project_date": "2020-01-08 18:10:21",
+        "project_upc": null,
+        "stamp_created": 1584284165,
+        "stamp_created_by": {
+            "uuid": "21B9D205-15C5-4447-B131-7BED04988830",
+            "name_first": "Yurii",
+            "name_middle": "",
+            "name_last": "Kosiak"
+        },
+        "stamp_updated": 1584284165,
+        "stamp_updated_by": {
+            "uuid": "21B9D205-15C5-4447-B131-7BED04988830",
+            "name_first": "Yurii",
+            "name_middle": "",
+            "name_last": "Kosiak"
+        }
+    }
+}

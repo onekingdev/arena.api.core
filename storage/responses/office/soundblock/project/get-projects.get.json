@@ -1,0 +1,351 @@
+{
+    "data": [
+        {
+            "project_uuid": "7A5576F5-28ED-4BDA-9AE8-124FBC903732",
+            "project_title": "Norman Fucking Rockwell!",
+            "project_avatar": "http://test.api.arena.com/storage/default/artwork.png",
+            "project_type": "Album",
+            "project_date": "2020-03-16",
+            "project_upc": "5536995014",
+            "stamp_created": 1584399955,
+            "stamp_created_by": {
+                "uuid": "027CC4FA-8A94-4ACE-932E-1C8222832941",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584399955,
+            "stamp_updated_by": {
+                "uuid": "027CC4FA-8A94-4ACE-932E-1C8222832941",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "deployments": {
+                "data": [
+                    {
+                        "deployment_uuid": "102AF773-1EAC-4F20-B90E-FA579207B34F",
+                        "deployment_status": {
+                            "deployment_status": "Deployed",
+                            "deployment_memo": "deployment_memo"
+                        },
+                        "distribution": "All Territory",
+                        "stamp_created": 1584399955,
+                        "stamp_created_by": {
+                            "uuid": "027CC4FA-8A94-4ACE-932E-1C8222832941",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        },
+                        "stamp_updated": 1584399955,
+                        "stamp_updated_by": {
+                            "uuid": "027CC4FA-8A94-4ACE-932E-1C8222832941",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "project_uuid": "BA53F83D-9671-42F6-9F68-2379C9AD39B9",
+            "project_title": "When I Get Home",
+            "project_avatar": "http://test.api.arena.com/storage/default/artwork.png",
+            "project_type": "Solo",
+            "project_date": "2020-03-16",
+            "project_upc": "3662651890",
+            "stamp_created": 1584399955,
+            "stamp_created_by": {
+                "uuid": "027CC4FA-8A94-4ACE-932E-1C8222832941",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584399955,
+            "stamp_updated_by": {
+                "uuid": "027CC4FA-8A94-4ACE-932E-1C8222832941",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "deployments": {
+                "data": [
+                    {
+                        "deployment_uuid": "59EE358A-063E-49DD-B584-4EC89F7E8FB6",
+                        "deployment_status": {
+                            "deployment_status": "Deployed",
+                            "deployment_memo": "deployment_memo"
+                        },
+                        "distribution": "All Territory",
+                        "stamp_created": 1584399955,
+                        "stamp_created_by": {
+                            "uuid": "027CC4FA-8A94-4ACE-932E-1C8222832941",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        },
+                        "stamp_updated": 1584399955,
+                        "stamp_updated_by": {
+                            "uuid": "027CC4FA-8A94-4ACE-932E-1C8222832941",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "project_uuid": "871EC4E2-D318-4D53-89C7-9A2493C82360",
+            "project_title": "Remind me Tomorrow",
+            "project_avatar": "http://test.api.arena.com/storage/default/artwork.png",
+            "project_type": "Album",
+            "project_date": "2020-03-16",
+            "project_upc": "0711711143",
+            "stamp_created": 1584399955,
+            "stamp_created_by": {
+                "uuid": "027CC4FA-8A94-4ACE-932E-1C8222832941",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584399955,
+            "stamp_updated_by": {
+                "uuid": "027CC4FA-8A94-4ACE-932E-1C8222832941",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "deployments": {
+                "data": [
+                    {
+                        "deployment_uuid": "E8C1D954-ACD3-4417-AE93-38F69A4E46C1",
+                        "deployment_status": {
+                            "deployment_status": "Deployed",
+                            "deployment_memo": "deployment_memo"
+                        },
+                        "distribution": "All Territory",
+                        "stamp_created": 1584399955,
+                        "stamp_created_by": {
+                            "uuid": "027CC4FA-8A94-4ACE-932E-1C8222832941",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        },
+                        "stamp_updated": 1584399955,
+                        "stamp_updated_by": {
+                            "uuid": "027CC4FA-8A94-4ACE-932E-1C8222832941",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "project_uuid": "E5B9675C-149C-4356-A76F-88344C656087",
+            "project_title": "All Mirrors",
+            "project_avatar": "http://test.api.arena.com/storage/default/artwork.png",
+            "project_type": "EP",
+            "project_date": "2020-03-16",
+            "project_upc": "5087849628",
+            "stamp_created": 1584399955,
+            "stamp_created_by": {
+                "uuid": "027CC4FA-8A94-4ACE-932E-1C8222832941",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584399955,
+            "stamp_updated_by": {
+                "uuid": "027CC4FA-8A94-4ACE-932E-1C8222832941",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "deployments": {
+                "data": [
+                    {
+                        "deployment_uuid": "4D0C9F52-8228-464C-A102-96552475C884",
+                        "deployment_status": {
+                            "deployment_status": "Pending",
+                            "deployment_memo": "deployment_memo"
+                        },
+                        "distribution": "All Territory",
+                        "stamp_created": 1584399955,
+                        "stamp_created_by": {
+                            "uuid": "027CC4FA-8A94-4ACE-932E-1C8222832941",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        },
+                        "stamp_updated": 1584399955,
+                        "stamp_updated_by": {
+                            "uuid": "027CC4FA-8A94-4ACE-932E-1C8222832941",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "project_uuid": "D26EEBE9-1013-416B-97EB-2E242E6F97D7",
+            "project_title": "MAGDALENE",
+            "project_avatar": "http://test.api.arena.com/storage/default/artwork.png",
+            "project_type": "EP",
+            "project_date": "2020-03-16",
+            "project_upc": "460124210X",
+            "stamp_created": 1584399955,
+            "stamp_created_by": {
+                "uuid": "027CC4FA-8A94-4ACE-932E-1C8222832941",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584399955,
+            "stamp_updated_by": {
+                "uuid": "027CC4FA-8A94-4ACE-932E-1C8222832941",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "deployments": {
+                "data": [
+                    {
+                        "deployment_uuid": "38B715FF-CA07-4892-BF4E-6EAA8A6021D8",
+                        "deployment_status": {
+                            "deployment_status": "Deployed",
+                            "deployment_memo": "deployment_memo"
+                        },
+                        "distribution": "All Territory",
+                        "stamp_created": 1584399955,
+                        "stamp_created_by": {
+                            "uuid": "027CC4FA-8A94-4ACE-932E-1C8222832941",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        },
+                        "stamp_updated": 1584399955,
+                        "stamp_updated_by": {
+                            "uuid": "027CC4FA-8A94-4ACE-932E-1C8222832941",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "project_uuid": "F4EDC24C-4AD6-48C9-A841-C25ED978C2E3",
+            "project_title": "Titanic Rising",
+            "project_avatar": "http://test.api.arena.com/storage/default/artwork.png",
+            "project_type": "Solo",
+            "project_date": "2020-03-16",
+            "project_upc": "7610354422",
+            "stamp_created": 1584399955,
+            "stamp_created_by": {
+                "uuid": "027CC4FA-8A94-4ACE-932E-1C8222832941",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584399955,
+            "stamp_updated_by": {
+                "uuid": "027CC4FA-8A94-4ACE-932E-1C8222832941",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "deployments": {
+                "data": [
+                    {
+                        "deployment_uuid": "8E2199C5-8F48-4056-BF23-B82567F28159",
+                        "deployment_status": {
+                            "deployment_status": "Deployed",
+                            "deployment_memo": "deployment_memo"
+                        },
+                        "distribution": "All Territory",
+                        "stamp_created": 1584399955,
+                        "stamp_created_by": {
+                            "uuid": "027CC4FA-8A94-4ACE-932E-1C8222832941",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        },
+                        "stamp_updated": 1584399955,
+                        "stamp_updated_by": {
+                            "uuid": "027CC4FA-8A94-4ACE-932E-1C8222832941",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "project_uuid": "B851485A-01D6-4DA9-88E7-D04C6142141F",
+            "project_title": "Legacy!",
+            "project_avatar": "http://test.api.arena.com/storage/default/artwork.png",
+            "project_type": "Album",
+            "project_date": "2020-03-16",
+            "project_upc": "6244455479",
+            "stamp_created": 1584399955,
+            "stamp_created_by": {
+                "uuid": "027CC4FA-8A94-4ACE-932E-1C8222832941",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584399955,
+            "stamp_updated_by": {
+                "uuid": "027CC4FA-8A94-4ACE-932E-1C8222832941",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "deployments": {
+                "data": [
+                    {
+                        "deployment_uuid": "F67A7AC7-150C-4EF1-AE38-D40D84FC43C4",
+                        "deployment_status": {
+                            "deployment_status": "Deployed",
+                            "deployment_memo": "deployment_memo"
+                        },
+                        "distribution": "All Territory",
+                        "stamp_created": 1584399955,
+                        "stamp_created_by": {
+                            "uuid": "027CC4FA-8A94-4ACE-932E-1C8222832941",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        },
+                        "stamp_updated": 1584399955,
+                        "stamp_updated_by": {
+                            "uuid": "027CC4FA-8A94-4ACE-932E-1C8222832941",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        }
+                    }
+                ]
+            }
+        }
+    ],
+    "meta": {
+        "pages": {
+            "total": 7,
+            "count": 7,
+            "per_page": 10,
+            "current_page": 1,
+            "total_pages": 1,
+            "links": [],
+            "from": 1
+        }
+    }
+}

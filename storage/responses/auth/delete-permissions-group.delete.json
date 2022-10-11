@@ -1,0 +1,486 @@
+{
+    "data": {
+        "group_uuid": "9C362F69-2D85-4CC9-BAD7-1AE3B717CC38",
+        "auth_uuid": "021B118C-EA54-4FD2-A8EF-3C99D4D1C862",
+        "group_name": "App.Soundblock.Project.E791A9D6-11AA-4129-8EAC-45A1F0D9422A",
+        "group_memo": "App.Soundblock.Project.( E791A9D6-11AA-4129-8EAC-45A1F0D9422A )",
+        "stamp_created": 1584179855,
+        "stamp_created_by": {
+            "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+            "name_first": "Samuel",
+            "name_middle": "",
+            "name_last": "White"
+        },
+        "stamp_updated": 1584179855,
+        "stamp_updated_by": {
+            "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+            "name_first": "Samuel",
+            "name_middle": "",
+            "name_last": "White"
+        },
+        "permissions": {
+            "data": [
+                {
+                    "permission_uuid": "3B311F79-4041-4737-BD80-893BC2BE2A44",
+                    "permission_name": "App.Soundblock.Project.Member.Create",
+                    "permission_memo": "App.Soundblock.Project.Member.Create",
+                    "stamp_created": 1584179853,
+                    "stamp_created_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584179853,
+                    "stamp_updated_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "permission_value": 0
+                },
+                {
+                    "permission_uuid": "E197E53D-3D5B-425A-8B42-BA4F5E8DA720",
+                    "permission_name": "App.Soundblock.Project.Member.Delete",
+                    "permission_memo": "App.Soundblock.Project.Member.Delete",
+                    "stamp_created": 1584179853,
+                    "stamp_created_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584179853,
+                    "stamp_updated_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "permission_value": 0
+                },
+                {
+                    "permission_uuid": "F4AE0578-FB2A-4771-848C-EB09B47FB6E4",
+                    "permission_name": "App.Soundblock.Project.Member.Permissions",
+                    "permission_memo": "App.Soundblock.Project.Member.Permissions",
+                    "stamp_created": 1584179853,
+                    "stamp_created_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584179853,
+                    "stamp_updated_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "permission_value": 0
+                },
+                {
+                    "permission_uuid": "F4ABA14C-8A85-4BE2-A142-2E2C46B6A01F",
+                    "permission_name": "App.Soundblock.Project.File.Music.Add",
+                    "permission_memo": "App.Soundblock.Project.File.Music.Add",
+                    "stamp_created": 1584179853,
+                    "stamp_created_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584179853,
+                    "stamp_updated_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "permission_value": 0
+                },
+                {
+                    "permission_uuid": "306E95A6-52C0-4F40-BDFD-FCD6F7923FBB",
+                    "permission_name": "App.Soundblock.Project.File.Music.Delete",
+                    "permission_memo": "App.Soundblock.Project.File.Music.Delete",
+                    "stamp_created": 1584179853,
+                    "stamp_created_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584179853,
+                    "stamp_updated_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "permission_value": 0
+                },
+                {
+                    "permission_uuid": "ADBD7542-E9FE-4D72-A6D3-5F696217FD01",
+                    "permission_name": "App.Soundblock.Project.File.Music.Restore",
+                    "permission_memo": "App.Soundblock.Project.File.Music.Restore",
+                    "stamp_created": 1584179853,
+                    "stamp_created_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584179853,
+                    "stamp_updated_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "permission_value": 0
+                },
+                {
+                    "permission_uuid": "9D71B136-ED78-4CE2-8272-62DBE08E0442",
+                    "permission_name": "App.Soundblock.Project.File.Music.Update",
+                    "permission_memo": "App.Soundblock.Project.File.Music.Update",
+                    "stamp_created": 1584179853,
+                    "stamp_created_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584179853,
+                    "stamp_updated_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "permission_value": 0
+                },
+                {
+                    "permission_uuid": "EC6B4545-3CDF-4BC5-8795-2845DCF20C98",
+                    "permission_name": "App.Soundblock.Project.File.Music.Download",
+                    "permission_memo": "App.Soundblock.Project.File.Music.Download",
+                    "stamp_created": 1584179853,
+                    "stamp_created_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584179853,
+                    "stamp_updated_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "permission_value": 0
+                },
+                {
+                    "permission_uuid": "B04905DA-47FB-41C9-8D0C-E11E69A5ECA6",
+                    "permission_name": "App.Soundblock.Project.File.Video.Add",
+                    "permission_memo": "App.Soundblock.Project.File.Video.Add",
+                    "stamp_created": 1584179853,
+                    "stamp_created_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584179853,
+                    "stamp_updated_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "permission_value": 0
+                },
+                {
+                    "permission_uuid": "95259EAE-D8FE-4B47-917B-70228F75AF9A",
+                    "permission_name": "App.Soundblock.Project.File.Video.Delete",
+                    "permission_memo": "App.Soundblock.Project.File.Video.Delete",
+                    "stamp_created": 1584179853,
+                    "stamp_created_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584179853,
+                    "stamp_updated_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "permission_value": 0
+                },
+                {
+                    "permission_uuid": "4B1E8FA9-64E9-4FC5-B333-367220A9D5EC",
+                    "permission_name": "App.Soundblock.Project.File.Video.Restore",
+                    "permission_memo": "App.Soundblock.Project.File.Video.Restore",
+                    "stamp_created": 1584179853,
+                    "stamp_created_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584179853,
+                    "stamp_updated_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "permission_value": 0
+                },
+                {
+                    "permission_uuid": "55756EB2-2DFE-4EB5-BE2F-2B19DA264BE1",
+                    "permission_name": "App.Soundblock.Project.File.Video.Update",
+                    "permission_memo": "App.Soundblock.Project.File.Video.Update",
+                    "stamp_created": 1584179853,
+                    "stamp_created_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584179853,
+                    "stamp_updated_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "permission_value": 0
+                },
+                {
+                    "permission_uuid": "EB1A2642-3D5F-4BE2-8027-6E0D2A9356C8",
+                    "permission_name": "App.Soundblock.Project.File.Video.Download",
+                    "permission_memo": "App.Soundblock.Project.File.Video.Download",
+                    "stamp_created": 1584179853,
+                    "stamp_created_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584179853,
+                    "stamp_updated_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "permission_value": 0
+                },
+                {
+                    "permission_uuid": "17C0075B-D3C7-4826-B3D3-625155967F25",
+                    "permission_name": "App.Soundblock.Project.File.Merch.Add",
+                    "permission_memo": "App.Soundblock.Project.File.Merch.Add",
+                    "stamp_created": 1584179853,
+                    "stamp_created_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584179853,
+                    "stamp_updated_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "permission_value": 0
+                },
+                {
+                    "permission_uuid": "9E0554C3-F3D4-4EE3-9231-DBFD76F0D715",
+                    "permission_name": "App.Soundblock.Project.File.Merch.Delete",
+                    "permission_memo": "App.Soundblock.Project.File.Merch.Delete",
+                    "stamp_created": 1584179853,
+                    "stamp_created_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584179853,
+                    "stamp_updated_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "permission_value": 0
+                },
+                {
+                    "permission_uuid": "68BB13EE-1F12-4BD2-8EB4-9F6973040E40",
+                    "permission_name": "App.Soundblock.Project.File.Merch.Restore",
+                    "permission_memo": "App.Soundblock.Project.File.Merch.Restore",
+                    "stamp_created": 1584179853,
+                    "stamp_created_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584179853,
+                    "stamp_updated_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "permission_value": 0
+                },
+                {
+                    "permission_uuid": "B9444BE7-410E-4177-8AD2-45E2B189D714",
+                    "permission_name": "App.Soundblock.Project.File.Merch.Update",
+                    "permission_memo": "App.Soundblock.Project.File.Merch.Update",
+                    "stamp_created": 1584179853,
+                    "stamp_created_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584179853,
+                    "stamp_updated_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "permission_value": 0
+                },
+                {
+                    "permission_uuid": "043DCF98-7A75-49B4-8834-6EBF8FF012C8",
+                    "permission_name": "App.Soundblock.Project.File.Merch.Download",
+                    "permission_memo": "App.Soundblock.Project.File.Merch.Download",
+                    "stamp_created": 1584179853,
+                    "stamp_created_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584179853,
+                    "stamp_updated_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "permission_value": 0
+                },
+                {
+                    "permission_uuid": "26600DD8-180C-4904-B324-941E3CA1C393",
+                    "permission_name": "App.Soundblock.Project.File.Other.Add",
+                    "permission_memo": "App.Soundblock.Project.File.Other.Add",
+                    "stamp_created": 1584179853,
+                    "stamp_created_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584179853,
+                    "stamp_updated_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "permission_value": 0
+                },
+                {
+                    "permission_uuid": "A358EE5D-B18D-44CD-AF23-5E6119C24A18",
+                    "permission_name": "App.Soundblock.Project.File.Other.Delete",
+                    "permission_memo": "App.Soundblock.Project.File.Other.Delete",
+                    "stamp_created": 1584179853,
+                    "stamp_created_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584179853,
+                    "stamp_updated_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "permission_value": 0
+                },
+                {
+                    "permission_uuid": "6844BE92-65E3-4987-B1B9-394DFBA16B6B",
+                    "permission_name": "App.Soundblock.Project.File.Other.Restore",
+                    "permission_memo": "App.Soundblock.Project.File.Other.Restore",
+                    "stamp_created": 1584179853,
+                    "stamp_created_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584179853,
+                    "stamp_updated_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "permission_value": 0
+                },
+                {
+                    "permission_uuid": "9CB11969-0C44-458C-B0ED-9CEAFD225932",
+                    "permission_name": "App.Soundblock.Project.File.Other.Update",
+                    "permission_memo": "App.Soundblock.Project.File.Other.Update",
+                    "stamp_created": 1584179853,
+                    "stamp_created_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584179853,
+                    "stamp_updated_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "permission_value": 0
+                },
+                {
+                    "permission_uuid": "A9B8DEB3-D6A1-4F30-BFF0-A9C44457C44B",
+                    "permission_name": "App.Soundblock.Project.File.Other.Download",
+                    "permission_memo": "App.Soundblock.Project.File.Other.Download",
+                    "stamp_created": 1584179853,
+                    "stamp_created_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584179853,
+                    "stamp_updated_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "permission_value": 0
+                }
+            ]
+        }
+    }
+}

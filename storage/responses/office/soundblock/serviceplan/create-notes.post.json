@@ -1,0 +1,43 @@
+{
+    "data": {
+        "note_uuid": "98F10B83-23A1-49AA-B2FE-FF32C8762EE7",
+        "service_uuid": "D7CB5D20-F47C-49DA-834E-EC1326696827",
+        "user_uuid": "4B81297A-4511-4D61-888A-8283FAADB072",
+        "service_notes": "Remind me project",
+        "stamp_created": 1584633634,
+        "stamp_created_by": {
+            "uuid": "4B81297A-4511-4D61-888A-8283FAADB072",
+            "name_first": "Yurii",
+            "name_middle": "",
+            "name_last": "Kosiak"
+        },
+        "stamp_updated": 1584633634,
+        "stamp_updated_by": {
+            "uuid": "4B81297A-4511-4D61-888A-8283FAADB072",
+            "name_first": "Yurii",
+            "name_middle": "",
+            "name_last": "Kosiak"
+        },
+        "attachments": {
+            "data": [
+                {
+                    "attachment_url": "http://localhost:8000/office/soundblock/service/notes",
+                    "stamp_created": 1584633634,
+                    "stamp_created_by": {
+                        "uuid": "4B81297A-4511-4D61-888A-8283FAADB072",
+                        "name_first": "Yurii",
+                        "name_middle": "",
+                        "name_last": "Kosiak"
+                    },
+                    "stamp_updated": 1584633634,
+                    "stamp_updated_by": {
+                        "uuid": "4B81297A-4511-4D61-888A-8283FAADB072",
+                        "name_first": "Yurii",
+                        "name_middle": "",
+                        "name_last": "Kosiak"
+                    }
+                }
+            ]
+        }
+    }
+}

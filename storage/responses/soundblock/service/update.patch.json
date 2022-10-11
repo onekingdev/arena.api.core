@@ -1,0 +1,20 @@
+{
+    "data": {
+        "service_uuid": "04126030-5533-4529-B8BA-9E943DC0740E",
+        "service_name": "AAAAPPPP",
+        "stamp_created": 1584302409,
+        "stamp_created_by": {
+            "uuid": "28F0270E-9906-4712-90F2-1236CEFA2958",
+            "name_first": "Jin",
+            "name_middle": "",
+            "name_last": "Tai"
+        },
+        "stamp_updated": 1584303377,
+        "stamp_updated_by": {
+            "uuid": "28F0270E-9906-4712-90F2-1236CEFA2958",
+            "name_first": "Jin",
+            "name_middle": "",
+            "name_last": "Tai"
+        }
+    }
+}

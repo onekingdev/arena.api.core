@@ -1,0 +1,263 @@
+{
+    "data": {
+        "project_uuid": "8D18936C-52EB-4ABC-B1A4-62D1B05968EE",
+        "project_title": "awesome project1",
+        "project_album_file": null,
+        "project_type": 0,
+        "project_date": "2020-02-21",
+        "collections": {
+            "data": [
+                {
+                    "collection_uuid": "4A4A3B53-43D3-4352-BF9C-EB317B11C956",
+                    "project_uuid": "8D18936C-52EB-4ABC-B1A4-62D1B05968EE",
+                    "collection_comment": "Collection Comment 1",
+                    "stamp_created": 1582319821,
+                    "stamp_created_at": "2020-02-21T21:17:01.000000Z",
+                    "stamp_updated": 1582319821,
+                    "stamp_updated_at": "2020-02-21T21:17:01.000000Z",
+                    "directories": {
+                        "data": []
+                    },
+                    "files": {
+                        "data": [
+                            {
+                                "file_uuid": "886420A8-703B-4845-AB05-412549901FEB",
+                                "file_name": "Shake_it_off.ai",
+                                "file_path": "/Merch/Taylor",
+                                "file_category": "merch",
+                                "file_sortby": "/Merch/Taylor/Shake_it_off.ai",
+                                "file_size": 230734
+                            },
+                            {
+                                "file_uuid": "3AA95B62-70A9-4223-82E4-66447BDE9C78",
+                                "file_name": "I'm Back.mp3",
+                                "file_path": "/Music",
+                                "file_category": "music",
+                                "file_sortby": "/Music/I'm Back.mp3",
+                                "file_size": 74778
+                            },
+                            {
+                                "file_uuid": "98FF3D56-4F51-40C3-A6F9-2AB8E39BE6CD",
+                                "file_name": "Marshal Mathers.mp3",
+                                "file_path": "/Music",
+                                "file_category": "music",
+                                "file_sortby": "/Music/Marshal Mathers.mp3",
+                                "file_size": 479537
+                            },
+                            {
+                                "file_uuid": "F6E2BB06-2C4C-4C60-B661-2BE4C2A68C23",
+                                "file_name": "video1.mp4",
+                                "file_path": "/Video",
+                                "file_category": "video",
+                                "file_sortby": "/Video/back.mp4",
+                                "file_size": 313997
+                            },
+                            {
+                                "file_uuid": "0DE2A3F5-858E-471F-B2DB-6D9AA38B4427",
+                                "file_name": "video3.mp4",
+                                "file_path": "/Video",
+                                "file_category": "video",
+                                "file_sortby": "/Video/video3.mp4",
+                                "file_size": 418566
+                            }
+                        ]
+                    }
+                },
+                {
+                    "collection_uuid": "5BAA77E8-E4AD-4D10-9DF2-E3CA3B737EA6",
+                    "project_uuid": "8D18936C-52EB-4ABC-B1A4-62D1B05968EE",
+                    "collection_comment": "Collection Comment 2",
+                    "stamp_created": 1582319821,
+                    "stamp_created_at": "2020-02-21T21:17:01.000000Z",
+                    "stamp_updated": 1582319821,
+                    "stamp_updated_at": "2020-02-21T21:17:01.000000Z",
+                    "directories": {
+                        "data": [
+                            {
+                                "uuid": "acf3502e-9759-4939-a85b-f9b1a74f4014",
+                                "directory_name": "Taylor",
+                                "directory_path": "/Merch",
+                                "directory_sortby": "/Merch/Taylor"
+                            }
+                        ]
+                    },
+                    "files": {
+                        "data": [
+                            {
+                                "file_uuid": "23869F2B-3EB0-4479-93BC-5A7F696BF7E5",
+                                "file_name": "Me!.psd",
+                                "file_path": "/Merch/Taylor",
+                                "file_category": "merch",
+                                "file_sortby": "/Merch/Taylor/Me!.psd",
+                                "file_size": 400570
+                            },
+                            {
+                                "file_uuid": "CFAEF0EA-8877-4332-B8E7-CB4C0475BE11",
+                                "file_name": "Style.psd",
+                                "file_path": "/Merch/Taylor",
+                                "file_category": "merch",
+                                "file_sortby": "/Merch/Taylor/Style.psd",
+                                "file_size": 312804
+                            },
+                            {
+                                "file_uuid": "006D3476-1C68-4276-A80D-DBA3296FCECC",
+                                "file_name": "files-4.docx",
+                                "file_path": "/Other/Files",
+                                "file_category": "other",
+                                "file_sortby": "/Other/Files/files-4.docx",
+                                "file_size": 312643
+                            },
+                            {
+                                "file_uuid": "CA3589F9-EC69-47DD-8304-E22519804496",
+                                "file_name": "video2.mp4",
+                                "file_path": "/Video",
+                                "file_category": "video",
+                                "file_sortby": "/Video/video2.mp4",
+                                "file_size": 245279
+                            }
+                        ]
+                    }
+                },
+                {
+                    "collection_uuid": "A2BFBC45-1603-4320-BD7B-DA04B4AB4197",
+                    "project_uuid": "8D18936C-52EB-4ABC-B1A4-62D1B05968EE",
+                    "collection_comment": "Collection Comment 3",
+                    "stamp_created": 1582319821,
+                    "stamp_created_at": "2020-02-21T21:17:01.000000Z",
+                    "stamp_updated": 1582319821,
+                    "stamp_updated_at": "2020-02-21T21:17:01.000000Z",
+                    "directories": {
+                        "data": []
+                    },
+                    "files": {
+                        "data": [
+                            {
+                                "file_uuid": "0E3817FA-D6D2-43B3-9EF8-837640E27764",
+                                "file_name": "Stan.mp3",
+                                "file_path": "/Music",
+                                "file_category": "music",
+                                "file_sortby": "/Music/Stan.mp3",
+                                "file_size": 118009
+                            },
+                            {
+                                "file_uuid": "FA5CCEA1-4F66-4153-BA79-5AC711442838",
+                                "file_name": "Files-2.doc",
+                                "file_path": "/Other/Files",
+                                "file_category": "other",
+                                "file_sortby": "/Other/Files/Files-2.doc",
+                                "file_size": 347387
+                            },
+                            {
+                                "file_uuid": "47DB0B07-C3AA-45EF-8BD6-926DDF23DDAC",
+                                "file_name": "file-1.doc",
+                                "file_path": "/Other/Files",
+                                "file_category": "other",
+                                "file_sortby": "/Other/Files/file-1.doc",
+                                "file_size": 43249
+                            }
+                        ]
+                    }
+                },
+                {
+                    "collection_uuid": "D9FB309B-3867-48C7-9FF7-975C51F1F68E",
+                    "project_uuid": "8D18936C-52EB-4ABC-B1A4-62D1B05968EE",
+                    "collection_comment": "Collection Comment 4",
+                    "stamp_created": 1582319821,
+                    "stamp_created_at": "2020-02-21T21:17:01.000000Z",
+                    "stamp_updated": 1582319821,
+                    "stamp_updated_at": "2020-02-21T21:17:01.000000Z",
+                    "directories": {
+                        "data": [
+                            {
+                                "uuid": "dcf67c78-3212-4530-9167-7567912dc551",
+                                "directory_name": "Panic",
+                                "directory_path": "/Merch",
+                                "directory_sortby": "/Merch/Panic"
+                            },
+                            {
+                                "uuid": "5b2de76d-1220-49b0-88fd-4f19a9922764",
+                                "directory_name": "Files",
+                                "directory_path": "/Other/Files",
+                                "directory_sortby": "/Other/Files"
+                            }
+                        ]
+                    },
+                    "files": {
+                        "data": [
+                            {
+                                "file_uuid": "D81CBD20-07A7-4830-9001-49539ECD5F9F",
+                                "file_name": "22.psd",
+                                "file_path": "/Merch/Panic",
+                                "file_category": "merch",
+                                "file_sortby": "/Merch/Panic/22.psd",
+                                "file_size": 366748
+                            },
+                            {
+                                "file_uuid": "AA51F3DE-2346-4589-ACCE-243FD5E7BC56",
+                                "file_name": "Panic.ai",
+                                "file_path": "/Merch/Panic",
+                                "file_category": "merch",
+                                "file_sortby": "/Merch/Panic/Panic.ai",
+                                "file_size": 336148
+                            },
+                            {
+                                "file_uuid": "9220816F-7B18-438A-AC45-D1048E053EF6",
+                                "file_name": "back.mp4",
+                                "file_path": "/Video",
+                                "file_category": "video",
+                                "file_sortby": "/Video/back.mp4",
+                                "file_size": 436603
+                            },
+                            {
+                                "file_uuid": "45BCB266-7A01-44F6-88DD-D3B78AB5D86D",
+                                "file_name": "video2.mp4",
+                                "file_path": "/Video",
+                                "file_category": "video",
+                                "file_sortby": "/Video/marshal.mp4",
+                                "file_size": 318659
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "deployments": {
+            "data": [
+                {
+                    "deployment_uuid": "71E51197-9CE0-4D0A-842C-4F4DD6293D5A",
+                    "deployment_status": {
+                        "deployment_status": "pending",
+                        "deployment_memo": "deployment_memo",
+                        "stamp_created_at": "2020-02-21T21:17:01.000000Z",
+                        "stamp_updated_at": "2020-02-21T21:17:01.000000Z"
+                    },
+                    "stamp_created_at": "2020-02-21T21:17:01.000000Z",
+                    "stamp_updated_at": "2020-02-21T21:17:01.000000Z",
+                    "platform": {
+                        "data": {
+                            "platform_uuid": "5D022C1E-9DA3-4B72-892C-67060F55CE48",
+                            "platform_name": "Apple Music"
+                        }
+                    }
+                },
+                {
+                    "deployment_uuid": "FD418C64-1DB9-4947-987C-6A5DA33AE810",
+                    "deployment_status": {
+                        "deployment_status": "pending",
+                        "deployment_memo": "deployment_memo",
+                        "stamp_created_at": "2020-02-21T21:17:01.000000Z",
+                        "stamp_updated_at": "2020-02-21T21:17:01.000000Z"
+                    },
+                    "stamp_created_at": "2020-02-21T21:17:01.000000Z",
+                    "stamp_updated_at": "2020-02-21T21:17:01.000000Z",
+                    "platform": {
+                        "data": {
+                            "platform_uuid": "3E1FB17E-806B-4F48-900A-3FD9F99E3B1C",
+                            "platform_name": "Spotify"
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

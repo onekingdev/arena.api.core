@@ -1,0 +1,21 @@
+{
+    "data": {
+        "collection_uuid": "29D5AD31-D95C-47EA-AFC1-4EC7C5EB75A6",
+        "project_uuid": "1B150CD8-3F18-4E8C-8F63-FC6414F0A27E",
+        "collection_comment": "Edit file this!!!",
+        "stamp_created": 1584323892,
+        "stamp_created_by": {
+            "uuid": "7C619A2D-9BF6-4F6A-BE96-17285A354344",
+            "name_first": "jin",
+            "name_middle": "",
+            "name_last": "tai"
+        },
+        "stamp_updated": 1584323892,
+        "stamp_updated_by": {
+            "uuid": "7C619A2D-9BF6-4F6A-BE96-17285A354344",
+            "name_first": "jin",
+            "name_middle": "",
+            "name_last": "tai"
+        }
+    }
+}

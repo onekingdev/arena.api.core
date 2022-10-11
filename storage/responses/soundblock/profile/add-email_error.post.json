@@ -1,0 +1,12 @@
+{
+    "response": {
+        "error": "Can not finish your query request!",
+        "exception": "Illuminate\\Database\\QueryException",
+        "message": "SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '5-ron@arena.com' for key 'uidx_user-id_user-auth-email' (SQL: insert into `users_emails` (`row_uuid`, `user_id`, `user_uuid`, `user_auth_email`, `stamp_created`, `stamp_updated`, `stamp_created_by`, `stamp_updated_by`, `stamp_updated_at`, `stamp_created_at`) values (5BCCCC85-7401-4044-B2ED-912C044BBAAF, 5, 28F0270E-9906-4712-90F2-1236CEFA2958, ron@arena.com, 1584292025, 1584292025, 5, 5, 2020-03-15 17:07:05, 2020-03-15 17:07:05))"
+    },
+    "status": {
+        "app": "Arena.API",
+        "code": 422,
+        "message": ""
+    }
+}

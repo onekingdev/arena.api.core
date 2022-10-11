@@ -1,0 +1,12 @@
+{
+    "response": {
+        "message": "The provided authorization grant (e.g., authorization code, resource owner credentials) or refresh token is invalid, expired, revoked, does not match the redirection URI used in the authorization request, or was issued to another client.",
+        "code": 10,
+        "status_code": 500
+    },
+    "status": {
+        "app": "Arena.API",
+        "code": 417,
+        "message": ""
+    }
+}

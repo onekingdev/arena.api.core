@@ -1,0 +1,84 @@
+{
+    "data": {
+        "note_uuid": "86D2A4C0-E862-4D44-B338-1079A8E4FE46",
+        "project_uuid": "B16F174B-427C-4DC5-9493-C3DA4F664332",
+        "project_notes": "Cusomer service is required!",
+        "stamp_created": 1584505030,
+        "stamp_created_by": {
+            "uuid": "971269E3-EA93-4E58-B0F2-3191E3F9E5DB",
+            "name_first": "Yurii",
+            "name_middle": "",
+            "name_last": "Kosiak"
+        },
+        "stamp_updated": 1584505030,
+        "stamp_updated_by": {
+            "uuid": "971269E3-EA93-4E58-B0F2-3191E3F9E5DB",
+            "name_first": "Yurii",
+            "name_middle": "",
+            "name_last": "Kosiak"
+        },
+        "user": {
+            "data": {
+                "user_uuid": "971269E3-EA93-4E58-B0F2-3191E3F9E5DB",
+                "name_first": "Yurii",
+                "name_middle": "",
+                "name_last": "Kosiak",
+                "stamp_created": 1584499160,
+                "stamp_created_by": {
+                    "uuid": "86D99096-E527-4153-9E14-4AF60451A498",
+                    "name_first": "Samuel",
+                    "name_middle": "",
+                    "name_last": "White"
+                },
+                "stamp_updated": 1584499160,
+                "stamp_updated_by": {
+                    "uuid": "86D99096-E527-4153-9E14-4AF60451A498",
+                    "name_first": "Samuel",
+                    "name_middle": "",
+                    "name_last": "White"
+                },
+                "avatar": {
+                    "data": {
+                        "avatar_uuid": "B973B974-49A2-45B2-9916-541CC82D82F6",
+                        "avatar_url": "http://test.api.arena.com/storage/default/avatar.png",
+                        "stamp_created": 1584499161,
+                        "stamp_created_by": {
+                            "uuid": "86D99096-E527-4153-9E14-4AF60451A498",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        },
+                        "stamp_updated": 1584499161,
+                        "stamp_updated_by": {
+                            "uuid": "86D99096-E527-4153-9E14-4AF60451A498",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        }
+                    }
+                }
+            }
+        },
+        "attachments": {
+            "data": [
+                {
+                    "attachment_url": "https://lorempixel.com/640/480/?66608",
+                    "stamp_created": 1584505030,
+                    "stamp_created_by": {
+                        "uuid": "971269E3-EA93-4E58-B0F2-3191E3F9E5DB",
+                        "name_first": "Yurii",
+                        "name_middle": "",
+                        "name_last": "Kosiak"
+                    },
+                    "stamp_updated": 1584505030,
+                    "stamp_updated_by": {
+                        "uuid": "971269E3-EA93-4E58-B0F2-3191E3F9E5DB",
+                        "name_first": "Yurii",
+                        "name_middle": "",
+                        "name_last": "Kosiak"
+                    }
+                }
+            ]
+        }
+    }
+}

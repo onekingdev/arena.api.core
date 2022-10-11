@@ -1,0 +1,12 @@
+{
+    "response": {
+        "error": "Sorry, can not excute your request",
+        "exception": "Illuminate\\Database\\Eloquent\\ModelNotFoundException",
+        "message": "No query results for model [App\\Models\\AuthPermission]."
+    },
+    "status": {
+        "app": "Arena.API",
+        "code": 400,
+        "message": ""
+    }
+}

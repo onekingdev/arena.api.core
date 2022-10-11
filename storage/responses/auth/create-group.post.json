@@ -1,0 +1,22 @@
+{
+    "data": {
+        "group_uuid": "81558668-52B2-4127-9373-8FA9B86DAE1F",
+        "auth_uuid": "021B118C-EA54-4FD2-A8EF-3C99D4D1C862",
+        "group_name": "Today Arena Group POLO111",
+        "group_memo": "Group memo",
+        "stamp_created": 1584250801,
+        "stamp_created_by": {
+            "uuid": "21B9D205-15C5-4447-B131-7BED04988830",
+            "name_first": "Yurii",
+            "name_middle": "",
+            "name_last": "Kosiak"
+        },
+        "stamp_updated": 1584250801,
+        "stamp_updated_by": {
+            "uuid": "21B9D205-15C5-4447-B131-7BED04988830",
+            "name_first": "Yurii",
+            "name_middle": "",
+            "name_last": "Kosiak"
+        }
+    }
+}

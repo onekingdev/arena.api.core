@@ -1,0 +1,12 @@
+{
+    "response": {
+        "error": "Permission Denied.",
+        "exception": "App\\Exceptions\\AuthException",
+        "message": "User (BEAD3C9E-551C-4CC0-BAEE-970C5FDF8B65) permission denied."
+    },
+    "status": {
+        "app": "Arena.API",
+        "code": 417,
+        "message": ""
+    }
+}

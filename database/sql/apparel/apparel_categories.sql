@@ -1,0 +1,11 @@
+-- ----------------------------
+-- Records of merch_apparel_categories
+-- ----------------------------
+BEGIN;
+INSERT INTO `merch_apparel_categories` VALUES (1, '12504EAA-430E-4913-8D02-A3ABDCDBC00F', 'Men', '2020-07-02 10:24:58', 1593674698, 1, '2020-07-02 10:24:58', 1593674698, 1, NULL, NULL, NULL, '', '');
+INSERT INTO `merch_apparel_categories` VALUES (2, '6269DA26-A40D-410C-AA54-E136529DED00', 'Women', '2020-07-02 10:25:25', 1593674725, 1, '2020-07-02 10:25:25', 1593674725, 1, NULL, NULL, NULL, '', '');
+INSERT INTO `merch_apparel_categories` VALUES (3, '5A2FEFAF-49E7-426D-A74C-3A97D5006D82', 'Kids', '2020-07-02 10:25:39', 1593674739, 1, '2020-07-02 10:25:39', 1593674739, 1, NULL, NULL, NULL, '', '');
+INSERT INTO `merch_apparel_categories` VALUES (4, '0DB0F06D-57C9-4D1D-96B7-75B14A55A026', 'Accessories', '2020-07-02 10:25:40', 1593674740, 1, '2020-07-02 10:25:40', 1593674740, 1, NULL, NULL, NULL, '', '');
+COMMIT;
+
+SET FOREIGN_KEY_CHECKS = 1;

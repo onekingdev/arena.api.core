@@ -1,0 +1,107 @@
+{
+    "data": [
+        {
+            "user_uuid": "82391569-6454-44B9-9E89-FA02CEEE15D1",
+            "name_first": "jin",
+            "name_middle": "",
+            "name_last": "tai",
+            "stamp_created": 1584419082,
+            "stamp_created_by": {
+                "uuid": "2FF6A118-3120-4F0C-97EF-9172693AF886",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584419082,
+            "stamp_updated_by": {
+                "uuid": "2FF6A118-3120-4F0C-97EF-9172693AF886",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "emails": {
+                "data": [
+                    {
+                        "user_auth_email": "jintai@arena.com",
+                        "stamp_created": 1584419082,
+                        "stamp_created_by": {
+                            "uuid": "2FF6A118-3120-4F0C-97EF-9172693AF886",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        },
+                        "stamp_updated": 1584419082,
+                        "stamp_updated_by": {
+                            "uuid": "C621B410-7011-4611-B8A3-46704EFA062B"
+                        },
+                        "stamp_email": 1584419082,
+                        "stamp_email_by": {
+                            "uuid": "5FB51F97-F406-4F62-B7FA-27A4FFB0D8F7",
+                            "name_first": "Yurii",
+                            "name_middle": "",
+                            "name_last": "Kosiak"
+                        }
+                    }
+                ]
+            },
+            "aliases": {
+                "data": [
+                    {
+                        "alias_uuid": "67F79710-DAC6-41A9-AA0C-1B586572A5E4",
+                        "user_alias": "jin",
+                        "stamp_created": 1584419082,
+                        "stamp_created_by": {
+                            "uuid": "2FF6A118-3120-4F0C-97EF-9172693AF886",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        },
+                        "stamp_updated": 1584419082,
+                        "stamp_updated_by": {
+                            "uuid": "2FF6A118-3120-4F0C-97EF-9172693AF886",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        }
+                    },
+                    {
+                        "alias_uuid": "6098133E-5283-494C-8A6E-62AAE993AF2A",
+                        "user_alias": "jtai",
+                        "stamp_created": 1584419082,
+                        "stamp_created_by": {
+                            "uuid": "2FF6A118-3120-4F0C-97EF-9172693AF886",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        },
+                        "stamp_updated": 1584419082,
+                        "stamp_updated_by": {
+                            "uuid": "2FF6A118-3120-4F0C-97EF-9172693AF886",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        }
+                    },
+                    {
+                        "alias_uuid": "0E986A50-A085-4CA0-A06E-01210D6F3E44",
+                        "user_alias": "Jintai",
+                        "stamp_created": 1584419082,
+                        "stamp_created_by": {
+                            "uuid": "2FF6A118-3120-4F0C-97EF-9172693AF886",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        },
+                        "stamp_updated": 1584419082,
+                        "stamp_updated_by": {
+                            "uuid": "2FF6A118-3120-4F0C-97EF-9172693AF886",
+                            "name_first": "Samuel",
+                            "name_middle": "",
+                            "name_last": "White"
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}

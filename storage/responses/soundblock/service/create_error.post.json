@@ -1,0 +1,12 @@
+{
+    "response": {
+        "error": "Can't create an account.",
+        "exception": "App\\Exceptions\\SoundblockAccountException",
+        "message": "This user has his own account already."
+    },
+    "status": {
+        "app": "Arena.API",
+        "code": 417,
+        "message": ""
+    }
+}

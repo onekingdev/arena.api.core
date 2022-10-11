@@ -1,0 +1,133 @@
+{
+    "data": {
+        "collection_uuid": "329AC445-0317-4A19-856C-40624BCD80A1",
+        "project_uuid": "1B150CD8-3F18-4E8C-8F63-FC6414F0A27E",
+        "collection_comment": "**yurii",
+        "stamp_created": 1584179856,
+        "stamp_created_by": {
+            "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+            "name_first": "Samuel",
+            "name_middle": "",
+            "name_last": "White"
+        },
+        "stamp_updated": 1584179856,
+        "stamp_updated_by": {
+            "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+            "name_first": "Samuel",
+            "name_middle": "",
+            "name_last": "White"
+        },
+        "musics": {
+            "data": [
+                {
+                    "file_track": 1,
+                    "file_duration": 297,
+                    "file_isrc": "NOX001212345",
+                    "stamp_created": 1584179856,
+                    "stamp_created_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584179856,
+                    "stamp_updated_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "file_id": 3,
+                    "file_uuid": "B0F3AAE4-016D-473E-9F5B-A7FEDCDB688E",
+                    "file_name": "I'm Back.mp3",
+                    "file_path": "/Music",
+                    "file_title": "I'm Back",
+                    "file_category": "music",
+                    "file_sortby": "/Music/I'm Back.mp3",
+                    "file_size": 41774
+                },
+                {
+                    "file_track": 2,
+                    "file_duration": 252,
+                    "file_isrc": "NOX001212345",
+                    "stamp_created": 1584179856,
+                    "stamp_created_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584179856,
+                    "stamp_updated_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "file_id": 31,
+                    "file_uuid": "50F762AB-B76E-4743-8EB9-A13CB47FA33D",
+                    "file_name": "special.mp3",
+                    "file_path": "/Music",
+                    "file_title": "Everyone Like",
+                    "file_category": "music",
+                    "file_sortby": "/Music/special.mp3",
+                    "file_size": 345095
+                },
+                {
+                    "file_track": 2,
+                    "file_duration": 263,
+                    "file_isrc": "NOX001212345",
+                    "stamp_created": 1584179856,
+                    "stamp_created_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584179856,
+                    "stamp_updated_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "file_id": 1,
+                    "file_uuid": "683552A6-6315-4EA6-85C2-745A6511C22B",
+                    "file_name": "Stan.mp3",
+                    "file_path": "/Music",
+                    "file_title": "Stan",
+                    "file_category": "music",
+                    "file_sortby": "/Music/Stan.mp3",
+                    "file_size": 294084
+                },
+                {
+                    "file_track": 3,
+                    "file_duration": 252,
+                    "file_isrc": "NOX001212345",
+                    "stamp_created": 1584179856,
+                    "stamp_created_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584179856,
+                    "stamp_updated_by": {
+                        "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "file_id": 2,
+                    "file_uuid": "992540C5-F9CA-420D-9327-7058232DF2B2",
+                    "file_name": "Marshal Mathers.mp3",
+                    "file_path": "/Music",
+                    "file_title": "Marshal",
+                    "file_category": "music",
+                    "file_sortby": "/Music/Marshal Mathers.mp3",
+                    "file_size": 270163
+                }
+            ]
+        }
+    }
+}

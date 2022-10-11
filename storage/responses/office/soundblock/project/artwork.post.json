@@ -1,0 +1,24 @@
+{
+    "data": {
+        "project_uuid": "4CE50419-EE86-4621-BB75-D7F749001141",
+        "project_title": "MAGDALENE",
+        "project_avatar": "http://test.api.arena.com/storage/soundblock/service/2BD52289-8E3E-4EAA-9B36-30C5482AA663/projects/4CE50419-EE86-4621-BB75-D7F749001141/artwork.png",
+        "project_type": "EP",
+        "project_date": "2020-03-18",
+        "project_upc": "3675470873",
+        "stamp_created": 1584499161,
+        "stamp_created_by": {
+            "uuid": "86D99096-E527-4153-9E14-4AF60451A498",
+            "name_first": "Samuel",
+            "name_middle": "",
+            "name_last": "White"
+        },
+        "stamp_updated": 1584499161,
+        "stamp_updated_by": {
+            "uuid": "86D99096-E527-4153-9E14-4AF60451A498",
+            "name_first": "Samuel",
+            "name_middle": "",
+            "name_last": "White"
+        }
+    }
+}

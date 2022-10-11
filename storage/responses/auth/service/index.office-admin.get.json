@@ -1,0 +1,219 @@
+{
+    "data": [
+        {
+            "service_uuid": "3597D629-8A1E-4D7F-8042-00FBCCA2B162",
+            "service_name": "Service Name 1",
+            "downloads": 1,
+            "stamp_created": 1582760117,
+            "stamp_created_by": "861DF9F8-2FD8-4BE8-BF47-B1C27D16B649",
+            "stamp_updated": 1582760117,
+            "stamp_updated_by": "861DF9F8-2FD8-4BE8-BF47-B1C27D16B649",
+            "transactions": {
+                "data": [
+                    {
+                        "transaction_uuid": "72396C9A-0F60-4596-92B6-E5D340BDFFB9",
+                        "ledger_uuid": "B53F8B57-3406-4DDD-993F-611129A59F6B",
+                        "transaction_cost": 2,
+                        "transaction_name": "download",
+                        "transaction_memo": "transaction_memo",
+                        "transaction_type": "transaction_type",
+                        "stamp_created": 1582760119,
+                        "stamp_created_by": "861DF9F8-2FD8-4BE8-BF47-B1C27D16B649",
+                        "stamp_updated": 1582760119,
+                        "stamp_updated_by": "861DF9F8-2FD8-4BE8-BF47-B1C27D16B649"
+                    }
+                ]
+            },
+            "user": {
+                "data": {
+                    "user_uuid": "861DF9F8-2FD8-4BE8-BF47-B1C27D16B649",
+                    "stamp_created": 1582760117,
+                    "stamp_created_by": "861DF9F8-2FD8-4BE8-BF47-B1C27D16B649",
+                    "stamp_updated": 1582760117,
+                    "stamp_updated_by": "861DF9F8-2FD8-4BE8-BF47-B1C27D16B649"
+                }
+            }
+        },
+        {
+            "service_uuid": "FACAAE22-D527-4EC8-8093-53A0A12D324C",
+            "service_name": "Service Name 2",
+            "downloads": 1,
+            "stamp_created": 1582760117,
+            "stamp_created_by": "861DF9F8-2FD8-4BE8-BF47-B1C27D16B649",
+            "stamp_updated": 1582760117,
+            "stamp_updated_by": "861DF9F8-2FD8-4BE8-BF47-B1C27D16B649",
+            "transactions": {
+                "data": [
+                    {
+                        "transaction_uuid": "B3CC058D-4DB8-4AC7-ACDE-F9B4349CAEF1",
+                        "ledger_uuid": "58678479-9FD6-43F8-AC93-2CE43D492FDA",
+                        "transaction_cost": 2,
+                        "transaction_name": "download",
+                        "transaction_memo": "transaction_memo",
+                        "transaction_type": "transaction_type",
+                        "stamp_created": 1582760119,
+                        "stamp_created_by": "861DF9F8-2FD8-4BE8-BF47-B1C27D16B649",
+                        "stamp_updated": 1582760119,
+                        "stamp_updated_by": "861DF9F8-2FD8-4BE8-BF47-B1C27D16B649"
+                    }
+                ]
+            },
+            "user": {
+                "data": {
+                    "user_uuid": "BC17AFE9-221A-46BC-BD11-B23C69E88D1C",
+                    "stamp_created": 1582760117,
+                    "stamp_created_by": "861DF9F8-2FD8-4BE8-BF47-B1C27D16B649",
+                    "stamp_updated": 1582760117,
+                    "stamp_updated_by": "861DF9F8-2FD8-4BE8-BF47-B1C27D16B649"
+                }
+            }
+        },
+        {
+            "service_uuid": "D723773E-3593-49B2-AD68-5BACD4954E7E",
+            "service_name": "Service Name 3",
+            "downloads": 1,
+            "stamp_created": 1582760117,
+            "stamp_created_by": "861DF9F8-2FD8-4BE8-BF47-B1C27D16B649",
+            "stamp_updated": 1582760117,
+            "stamp_updated_by": "861DF9F8-2FD8-4BE8-BF47-B1C27D16B649",
+            "transactions": {
+                "data": [
+                    {
+                        "transaction_uuid": "B772560B-563A-48E0-A439-1777C073E3A6",
+                        "ledger_uuid": "6B499EDD-697C-4E85-A602-D3B53D3226F0",
+                        "transaction_cost": 2,
+                        "transaction_name": "download",
+                        "transaction_memo": "transaction_memo",
+                        "transaction_type": "transaction_type",
+                        "stamp_created": 1582760119,
+                        "stamp_created_by": "861DF9F8-2FD8-4BE8-BF47-B1C27D16B649",
+                        "stamp_updated": 1582760119,
+                        "stamp_updated_by": "861DF9F8-2FD8-4BE8-BF47-B1C27D16B649"
+                    }
+                ]
+            },
+            "user": {
+                "data": {
+                    "user_uuid": "D1328149-550C-4A2F-AD84-23D1874D7C79",
+                    "stamp_created": 1582760117,
+                    "stamp_created_by": "861DF9F8-2FD8-4BE8-BF47-B1C27D16B649",
+                    "stamp_updated": 1582760117,
+                    "stamp_updated_by": "861DF9F8-2FD8-4BE8-BF47-B1C27D16B649"
+                }
+            }
+        },
+        {
+            "service_uuid": "D46547C1-739A-4F15-8599-B1B4444BE281",
+            "service_name": "Service Name 4",
+            "downloads": 1,
+            "stamp_created": 1582760117,
+            "stamp_created_by": "861DF9F8-2FD8-4BE8-BF47-B1C27D16B649",
+            "stamp_updated": 1582760117,
+            "stamp_updated_by": "861DF9F8-2FD8-4BE8-BF47-B1C27D16B649",
+            "transactions": {
+                "data": [
+                    {
+                        "transaction_uuid": "54EDF888-2E5E-4E51-81E8-FD41E4E93B4F",
+                        "ledger_uuid": "287BA1BB-897E-41F1-8FBA-DB431A152F6F",
+                        "transaction_cost": 2,
+                        "transaction_name": "download",
+                        "transaction_memo": "transaction_memo",
+                        "transaction_type": "transaction_type",
+                        "stamp_created": 1582760119,
+                        "stamp_created_by": "861DF9F8-2FD8-4BE8-BF47-B1C27D16B649",
+                        "stamp_updated": 1582760119,
+                        "stamp_updated_by": "861DF9F8-2FD8-4BE8-BF47-B1C27D16B649"
+                    }
+                ]
+            },
+            "user": {
+                "data": {
+                    "user_uuid": "F58EEAEF-EF65-44FC-B35C-3B8D375E3454",
+                    "stamp_created": 1582760117,
+                    "stamp_created_by": "861DF9F8-2FD8-4BE8-BF47-B1C27D16B649",
+                    "stamp_updated": 1582760117,
+                    "stamp_updated_by": "861DF9F8-2FD8-4BE8-BF47-B1C27D16B649"
+                }
+            }
+        },
+        {
+            "service_uuid": "686C0C54-EB3C-415A-93A4-5D2FEC18FF84",
+            "service_name": "Service Name 5",
+            "downloads": 1,
+            "stamp_created": 1582760117,
+            "stamp_created_by": "861DF9F8-2FD8-4BE8-BF47-B1C27D16B649",
+            "stamp_updated": 1582760117,
+            "stamp_updated_by": "861DF9F8-2FD8-4BE8-BF47-B1C27D16B649",
+            "transactions": {
+                "data": [
+                    {
+                        "transaction_uuid": "6F00E1AB-87A3-4AFA-846E-31AD98C81C78",
+                        "ledger_uuid": "9A45DDF7-A44E-44D8-A84D-495D3E8507C2",
+                        "transaction_cost": 2,
+                        "transaction_name": "download",
+                        "transaction_memo": "transaction_memo",
+                        "transaction_type": "transaction_type",
+                        "stamp_created": 1582760119,
+                        "stamp_created_by": "861DF9F8-2FD8-4BE8-BF47-B1C27D16B649",
+                        "stamp_updated": 1582760119,
+                        "stamp_updated_by": "861DF9F8-2FD8-4BE8-BF47-B1C27D16B649"
+                    }
+                ]
+            },
+            "user": {
+                "data": {
+                    "user_uuid": "06B27FDA-958A-41AB-84DD-ABF08D0BF544",
+                    "stamp_created": 1582760117,
+                    "stamp_created_by": "861DF9F8-2FD8-4BE8-BF47-B1C27D16B649",
+                    "stamp_updated": 1582760117,
+                    "stamp_updated_by": "861DF9F8-2FD8-4BE8-BF47-B1C27D16B649"
+                }
+            }
+        },
+        {
+            "service_uuid": "F98B1EAF-CC0D-447C-B691-DBA2F808E314",
+            "service_name": "Service Name 6",
+            "downloads": 1,
+            "stamp_created": 1582760117,
+            "stamp_created_by": "861DF9F8-2FD8-4BE8-BF47-B1C27D16B649",
+            "stamp_updated": 1582760117,
+            "stamp_updated_by": "861DF9F8-2FD8-4BE8-BF47-B1C27D16B649",
+            "transactions": {
+                "data": [
+                    {
+                        "transaction_uuid": "B4DF3259-81F2-4EDE-B5E7-F54B0088224D",
+                        "ledger_uuid": "C54AD901-D7E4-4383-BCB9-A0719C7DD1F8",
+                        "transaction_cost": 2,
+                        "transaction_name": "download",
+                        "transaction_memo": "transaction_memo",
+                        "transaction_type": "transaction_type",
+                        "stamp_created": 1582760119,
+                        "stamp_created_by": "861DF9F8-2FD8-4BE8-BF47-B1C27D16B649",
+                        "stamp_updated": 1582760119,
+                        "stamp_updated_by": "861DF9F8-2FD8-4BE8-BF47-B1C27D16B649"
+                    }
+                ]
+            },
+            "user": {
+                "data": {
+                    "user_uuid": "90703519-EEA1-4FD1-9833-C60C2D353950",
+                    "stamp_created": 1582760117,
+                    "stamp_created_by": "861DF9F8-2FD8-4BE8-BF47-B1C27D16B649",
+                    "stamp_updated": 1582760117,
+                    "stamp_updated_by": "861DF9F8-2FD8-4BE8-BF47-B1C27D16B649"
+                }
+            }
+        }
+    ],
+    "meta": {
+        "pages": {
+            "total": 6,
+            "count": 6,
+            "per_page": 10,
+            "current_page": 1,
+            "total_pages": 1,
+            "links": [],
+            "from": 1
+        }
+    }
+}

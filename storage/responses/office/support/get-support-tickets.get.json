@@ -1,0 +1,447 @@
+{
+    "data": [
+        {
+            "ticket_uuid": "F06FEF06-10CC-40FA-A0D9-63A094FD4906",
+            "user_uuid": "CD858B8B-7C43-422C-9BD6-BA0DE45A7A06",
+            "avatar_url": "http://test.api.arena.com/storage/default/avatar.png",
+            "ticket_title": "Ms.",
+            "flag_status": "Open",
+            "stamp_created": 1584633421,
+            "stamp_created_by": {
+                "uuid": "9B44416E-45AE-4B09-B46B-9C1282047622",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584633421,
+            "stamp_updated_by": {
+                "uuid": "9B44416E-45AE-4B09-B46B-9C1282047622",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "support": {
+                "data": {
+                    "support_uuid": "BF10CF9C-66CA-4543-9CAB-F20ABAF7A7BD",
+                    "support_category": "Customer Service",
+                    "app_uuid": "A1C2008C-DCC6-48AD-A0FB-A90C088C4839",
+                    "app_name": "soundblock",
+                    "stamp_created": 1584633424,
+                    "stamp_created_by": {
+                        "uuid": "9B44416E-45AE-4B09-B46B-9C1282047622",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584633424,
+                    "stamp_updated_by": {
+                        "uuid": "9B44416E-45AE-4B09-B46B-9C1282047622",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    }
+                }
+            }
+        },
+        {
+            "ticket_uuid": "D6A3CB6D-D3D7-41FF-A275-46D49DCEFF1B",
+            "user_uuid": "CD858B8B-7C43-422C-9BD6-BA0DE45A7A06",
+            "avatar_url": "http://test.api.arena.com/storage/default/avatar.png",
+            "ticket_title": "Mr.",
+            "flag_status": "Open",
+            "stamp_created": 1584633421,
+            "stamp_created_by": {
+                "uuid": "9B44416E-45AE-4B09-B46B-9C1282047622",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584633421,
+            "stamp_updated_by": {
+                "uuid": "9B44416E-45AE-4B09-B46B-9C1282047622",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "support": {
+                "data": {
+                    "support_uuid": "CF3635CC-D08C-41AA-95A3-72A0D2F8491C",
+                    "support_category": "Technical Support",
+                    "app_uuid": "A1C2008C-DCC6-48AD-A0FB-A90C088C4839",
+                    "app_name": "soundblock",
+                    "stamp_created": 1584633424,
+                    "stamp_created_by": {
+                        "uuid": "9B44416E-45AE-4B09-B46B-9C1282047622",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584633424,
+                    "stamp_updated_by": {
+                        "uuid": "9B44416E-45AE-4B09-B46B-9C1282047622",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    }
+                }
+            }
+        },
+        {
+            "ticket_uuid": "7E32270F-D09F-4922-AECC-E1750727418D",
+            "user_uuid": "9B44416E-45AE-4B09-B46B-9C1282047622",
+            "avatar_url": "http://test.api.arena.com/storage/default/avatar.png",
+            "ticket_title": "Prof.",
+            "flag_status": "Open",
+            "stamp_created": 1584633421,
+            "stamp_created_by": {
+                "uuid": "9B44416E-45AE-4B09-B46B-9C1282047622",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584633421,
+            "stamp_updated_by": {
+                "uuid": "9B44416E-45AE-4B09-B46B-9C1282047622",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "support": {
+                "data": {
+                    "support_uuid": "CFD48204-5937-44BF-A4AE-1B0BA66E75ED",
+                    "support_category": "Feedback",
+                    "app_uuid": "A1C2008C-DCC6-48AD-A0FB-A90C088C4839",
+                    "app_name": "soundblock",
+                    "stamp_created": 1584633424,
+                    "stamp_created_by": {
+                        "uuid": "9B44416E-45AE-4B09-B46B-9C1282047622",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584633424,
+                    "stamp_updated_by": {
+                        "uuid": "9B44416E-45AE-4B09-B46B-9C1282047622",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    }
+                }
+            }
+        },
+        {
+            "ticket_uuid": "A208B83B-100C-47F3-AF76-BA158C69844C",
+            "user_uuid": "CD858B8B-7C43-422C-9BD6-BA0DE45A7A06",
+            "avatar_url": "http://test.api.arena.com/storage/default/avatar.png",
+            "ticket_title": "Dr.",
+            "flag_status": "Open",
+            "stamp_created": 1584633421,
+            "stamp_created_by": {
+                "uuid": "9B44416E-45AE-4B09-B46B-9C1282047622",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584633421,
+            "stamp_updated_by": {
+                "uuid": "9B44416E-45AE-4B09-B46B-9C1282047622",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "support": {
+                "data": {
+                    "support_uuid": "CFD48204-5937-44BF-A4AE-1B0BA66E75ED",
+                    "support_category": "Feedback",
+                    "app_uuid": "A1C2008C-DCC6-48AD-A0FB-A90C088C4839",
+                    "app_name": "soundblock",
+                    "stamp_created": 1584633424,
+                    "stamp_created_by": {
+                        "uuid": "9B44416E-45AE-4B09-B46B-9C1282047622",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584633424,
+                    "stamp_updated_by": {
+                        "uuid": "9B44416E-45AE-4B09-B46B-9C1282047622",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    }
+                }
+            }
+        },
+        {
+            "ticket_uuid": "24D1C4C1-C4BF-4C7C-B0BA-EA13CD75F017",
+            "user_uuid": "CD858B8B-7C43-422C-9BD6-BA0DE45A7A06",
+            "avatar_url": "http://test.api.arena.com/storage/default/avatar.png",
+            "ticket_title": "Mrs.",
+            "flag_status": "Open",
+            "stamp_created": 1584633421,
+            "stamp_created_by": {
+                "uuid": "9B44416E-45AE-4B09-B46B-9C1282047622",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584633421,
+            "stamp_updated_by": {
+                "uuid": "9B44416E-45AE-4B09-B46B-9C1282047622",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "support": {
+                "data": {
+                    "support_uuid": "E369D4DB-BE4B-444C-B84B-E6DE27D18E5F",
+                    "support_category": "Customer Service",
+                    "app_uuid": "EFC3C30A-6E64-4470-8763-61C37E70DE0F",
+                    "app_name": "office",
+                    "stamp_created": 1584633424,
+                    "stamp_created_by": {
+                        "uuid": "9B44416E-45AE-4B09-B46B-9C1282047622",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584633424,
+                    "stamp_updated_by": {
+                        "uuid": "9B44416E-45AE-4B09-B46B-9C1282047622",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    }
+                }
+            }
+        },
+        {
+            "ticket_uuid": "B73DCDD0-88B1-4180-B613-632902CBB72D",
+            "user_uuid": "94DEDE44-7701-4297-8253-4C5E49A3A863",
+            "avatar_url": "http://test.api.arena.com/storage/default/avatar.png",
+            "ticket_title": "Miss",
+            "flag_status": "Open",
+            "stamp_created": 1584633421,
+            "stamp_created_by": {
+                "uuid": "9B44416E-45AE-4B09-B46B-9C1282047622",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584633421,
+            "stamp_updated_by": {
+                "uuid": "9B44416E-45AE-4B09-B46B-9C1282047622",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "support": {
+                "data": {
+                    "support_uuid": "E369D4DB-BE4B-444C-B84B-E6DE27D18E5F",
+                    "support_category": "Customer Service",
+                    "app_uuid": "EFC3C30A-6E64-4470-8763-61C37E70DE0F",
+                    "app_name": "office",
+                    "stamp_created": 1584633424,
+                    "stamp_created_by": {
+                        "uuid": "9B44416E-45AE-4B09-B46B-9C1282047622",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584633424,
+                    "stamp_updated_by": {
+                        "uuid": "9B44416E-45AE-4B09-B46B-9C1282047622",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    }
+                }
+            }
+        },
+        {
+            "ticket_uuid": "660E9165-3115-402B-848F-EA2B1E0FF37F",
+            "user_uuid": "CD858B8B-7C43-422C-9BD6-BA0DE45A7A06",
+            "avatar_url": "http://test.api.arena.com/storage/default/avatar.png",
+            "ticket_title": "Miss",
+            "flag_status": "Open",
+            "stamp_created": 1584633421,
+            "stamp_created_by": {
+                "uuid": "9B44416E-45AE-4B09-B46B-9C1282047622",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584633421,
+            "stamp_updated_by": {
+                "uuid": "9B44416E-45AE-4B09-B46B-9C1282047622",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "support": {
+                "data": {
+                    "support_uuid": "F0DFEF98-2593-4306-8986-D2E2F6D1C840",
+                    "support_category": "Feedback",
+                    "app_uuid": "EFC3C30A-6E64-4470-8763-61C37E70DE0F",
+                    "app_name": "office",
+                    "stamp_created": 1584633424,
+                    "stamp_created_by": {
+                        "uuid": "9B44416E-45AE-4B09-B46B-9C1282047622",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584633424,
+                    "stamp_updated_by": {
+                        "uuid": "9B44416E-45AE-4B09-B46B-9C1282047622",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    }
+                }
+            }
+        },
+        {
+            "ticket_uuid": "2A26CE33-D1CB-4100-B362-6C3FAFD730F6",
+            "user_uuid": "4B81297A-4511-4D61-888A-8283FAADB072",
+            "avatar_url": "http://test.api.arena.com/storage/default/avatar.png",
+            "ticket_title": "Prof.",
+            "flag_status": "Open",
+            "stamp_created": 1584633421,
+            "stamp_created_by": {
+                "uuid": "9B44416E-45AE-4B09-B46B-9C1282047622",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584633421,
+            "stamp_updated_by": {
+                "uuid": "9B44416E-45AE-4B09-B46B-9C1282047622",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "support": {
+                "data": {
+                    "support_uuid": "56F36BFC-3F1D-436F-A613-07E6AC3B564A",
+                    "support_category": "Customer Service",
+                    "app_uuid": "C38DB004-2F52-4655-87D5-B29A01B8E8F2",
+                    "app_name": "music",
+                    "stamp_created": 1584633424,
+                    "stamp_created_by": {
+                        "uuid": "9B44416E-45AE-4B09-B46B-9C1282047622",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584633424,
+                    "stamp_updated_by": {
+                        "uuid": "9B44416E-45AE-4B09-B46B-9C1282047622",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    }
+                }
+            }
+        },
+        {
+            "ticket_uuid": "E880A384-A11C-411C-8BA5-CF779E0A967B",
+            "user_uuid": "94DEDE44-7701-4297-8253-4C5E49A3A863",
+            "avatar_url": "http://test.api.arena.com/storage/default/avatar.png",
+            "ticket_title": "Dr.",
+            "flag_status": "Open",
+            "stamp_created": 1584633421,
+            "stamp_created_by": {
+                "uuid": "9B44416E-45AE-4B09-B46B-9C1282047622",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584633421,
+            "stamp_updated_by": {
+                "uuid": "9B44416E-45AE-4B09-B46B-9C1282047622",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "support": {
+                "data": {
+                    "support_uuid": "B10B4E64-33F5-4302-B230-65F36432FEC9",
+                    "support_category": "Technical Support",
+                    "app_uuid": "C38DB004-2F52-4655-87D5-B29A01B8E8F2",
+                    "app_name": "music",
+                    "stamp_created": 1584633424,
+                    "stamp_created_by": {
+                        "uuid": "9B44416E-45AE-4B09-B46B-9C1282047622",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584633424,
+                    "stamp_updated_by": {
+                        "uuid": "9B44416E-45AE-4B09-B46B-9C1282047622",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    }
+                }
+            }
+        },
+        {
+            "ticket_uuid": "9FD1D43D-ADB9-4B8F-9491-E1E3622F1D18",
+            "user_uuid": "CD858B8B-7C43-422C-9BD6-BA0DE45A7A06",
+            "avatar_url": "http://test.api.arena.com/storage/default/avatar.png",
+            "ticket_title": "Prof.",
+            "flag_status": "Open",
+            "stamp_created": 1584633421,
+            "stamp_created_by": {
+                "uuid": "9B44416E-45AE-4B09-B46B-9C1282047622",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "stamp_updated": 1584633421,
+            "stamp_updated_by": {
+                "uuid": "9B44416E-45AE-4B09-B46B-9C1282047622",
+                "name_first": "Samuel",
+                "name_middle": "",
+                "name_last": "White"
+            },
+            "support": {
+                "data": {
+                    "support_uuid": "77A6F8F4-5899-44C3-9A57-2D1DD05DB8E9",
+                    "support_category": "Feedback",
+                    "app_uuid": "C38DB004-2F52-4655-87D5-B29A01B8E8F2",
+                    "app_name": "music",
+                    "stamp_created": 1584633424,
+                    "stamp_created_by": {
+                        "uuid": "9B44416E-45AE-4B09-B46B-9C1282047622",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    },
+                    "stamp_updated": 1584633424,
+                    "stamp_updated_by": {
+                        "uuid": "9B44416E-45AE-4B09-B46B-9C1282047622",
+                        "name_first": "Samuel",
+                        "name_middle": "",
+                        "name_last": "White"
+                    }
+                }
+            }
+        }
+    ],
+    "meta": {
+        "pages": {
+            "total": 32,
+            "count": 10,
+            "per_page": 10,
+            "current_page": 1,
+            "total_pages": 4,
+            "links": {
+                "next": "http://localhost:8000/support?page=2"
+            },
+            "from": 1
+        }
+    }
+}

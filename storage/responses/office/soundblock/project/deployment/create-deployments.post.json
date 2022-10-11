@@ -1,0 +1,43 @@
+
+{
+    "data": [
+        {
+            "deployment_uuid": "26D57437-0BF6-4FD2-8FB2-AFD78CA2448B",
+            "deployment_status": [],
+            "distribution": "All Territory",
+            "stamp_created": 1584600654,
+            "stamp_created_by": {
+                "uuid": "971269E3-EA93-4E58-B0F2-3191E3F9E5DB",
+                "name_first": "Yurii",
+                "name_middle": "",
+                "name_last": "Kosiak"
+            },
+            "stamp_updated": 1584600654,
+            "stamp_updated_by": {
+                "uuid": "971269E3-EA93-4E58-B0F2-3191E3F9E5DB",
+                "name_first": "Yurii",
+                "name_middle": "",
+                "name_last": "Kosiak"
+            }
+        },
+        {
+            "deployment_uuid": "5C4237E9-5125-457B-BBFC-3C0B8D81E311",
+            "deployment_status": [],
+            "distribution": "All Territory",
+            "stamp_created": 1584600654,
+            "stamp_created_by": {
+                "uuid": "971269E3-EA93-4E58-B0F2-3191E3F9E5DB",
+                "name_first": "Yurii",
+                "name_middle": "",
+                "name_last": "Kosiak"
+            },
+            "stamp_updated": 1584600654,
+            "stamp_updated_by": {
+                "uuid": "971269E3-EA93-4E58-B0F2-3191E3F9E5DB",
+                "name_first": "Yurii",
+                "name_middle": "",
+                "name_last": "Kosiak"
+            }
+        }
+    ]
+}

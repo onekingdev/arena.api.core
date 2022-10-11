@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "permission_uuid": "4915E42C-7CD2-4A50-B667-05E4EA6F3793",
+            "permission_name": "12346",
+            "permission_memo": "34345",
+            "stamp_created": 1582675067,
+            "stamp_created_by": "238950B3-2F95-44F2-B30D-B45F04557FB3",
+            "stamp_updated": 1582675067,
+            "stamp_updated_by": "3698FB72-A5D2-4E24-9C50-48BC2415C636"
+        },
+        {
+            "permission_uuid": "AFF65F1C-1369-4787-888C-8507C3A04D6D",
+            "permission_name": "123468",
+            "permission_memo": "343458",
+            "stamp_created": 1582675067,
+            "stamp_created_by": "238950B3-2F95-44F2-B30D-B45F04557FB3",
+            "stamp_updated": 1582675067,
+            "stamp_updated_by": "3698FB72-A5D2-4E24-9C50-48BC2415C636"
+        }
+    ]
+}

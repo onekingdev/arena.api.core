@@ -1,0 +1,43 @@
+{
+    "data": {
+        "user_uuid": "4C65EAF6-C448-43AA-B3A2-F986C2512935",
+        "aliases": {
+            "data": [
+                {
+                    "alias_uuid": "80B1BEDE-DE31-4BD0-A65D-FB627B78446A",
+                    "user_alias": "arescode"
+                },
+                {
+                    "alias_uuid": "DE0F8AC9-2727-4D8B-9CBA-1CCE2939B3AB",
+                    "user_alias": "enetwizard"
+                },
+                {
+                    "alias_uuid": "B2A35458-0D7A-4C33-A07B-EF2FD4B89160",
+                    "user_alias": "rswfire"
+                },
+                {
+                    "alias_uuid": "2EBAAAFC-AE46-4631-9415-3013F6911373",
+                    "user_alias": "samuel"
+                },
+                {
+                    "alias_uuid": "306FB6BF-9CE6-4643-BCDD-1CB19A742A8F",
+                    "user_alias": "swhite"
+                }
+            ]
+        },
+        "emails": {
+            "data": [
+                {
+                    "user_auth_email": "swhite@arena.com",
+                    "stamp_email": 1582325130,
+                    "stamp_email_at": "2020-02-21 22:45:30"
+                }
+            ]
+        },
+        "avatar": {
+            "data": {
+                "avatar_uuid": "B0603FBC-C265-4BF9-8DA7-4718FF7F07C5"
+            }
+        }
+    }
+}

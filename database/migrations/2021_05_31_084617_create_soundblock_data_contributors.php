@@ -1,0 +1,50 @@
+<?php
+
+use App\Models\BaseModel;
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateSoundblockDataContributors extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create("soundblock_data_contributors", function (Blueprint $objTable) {
+            $objTable->bigIncrements("data_id");
+            $objTable->uuid("data_uuid");
+
+            $objTable->string("data_contributor");
+
+            $objTable->unsignedBigInteger(BaseModel::STAMP_CREATED)->index(BaseModel::IDX_STAMP_CREATED)->nullable();
+            $objTable->timestamp(BaseModel::CREATED_AT)->nullable();
+            $objTable->unsignedBigInteger(BaseModel::STAMP_CREATED_BY)->nullable();
+
+            $objTable->unsignedBigInteger(BaseModel::STAMP_UPDATED)->index(BaseModel::IDX_STAMP_UPDATED)->nullable();
+            $objTable->timestamp(BaseModel::UPDATED_AT)->nullable();
+            $objTable->unsignedBigInteger(BaseModel::STAMP_UPDATED_BY)->nullable();
+
+            $objTable->unsignedBigInteger(BaseModel::STAMP_DELETED)->index(BaseModel::IDX_STAMP_DELETED)->nullable();
+            $objTable->timestamp(BaseModel::DELETED_AT)->nullable();
+            $objTable->unsignedBigInteger(BaseModel::STAMP_DELETED_BY)->nullable();
+
+            $objTable->unique("data_id", "uidx_data-id");
+            $objTable->unique("data_uuid", "uidx_data-uuid");
+            $objTable->unique("data_contributor", "uidx_data-contributor");
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists("soundblock_data_contributors");
+    }
+}

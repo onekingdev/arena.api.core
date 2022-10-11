@@ -1,0 +1,12 @@
+{
+    "response": {
+        "error": "Permission Denied.",
+        "exception": "App\\Exceptions\\AuthException",
+        "message": "Permission (CB7DEDCA-086A-4BB9-8BFC-7BE18CE5EC0B) exists in a group (7E433E62-989C-489A-A006-972FF7F8DC99) already."
+    },
+    "status": {
+        "app": "Arena.API",
+        "code": 417,
+        "message": ""
+    }
+}

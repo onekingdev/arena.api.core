@@ -1,0 +1,22 @@
+{
+    "data": {
+        "user_uuid": "28F0270E-9906-4712-90F2-1236CEFA2958",
+        "name_first": "Lin",
+        "name_middle": "",
+        "name_last": "Mei",
+        "stamp_created": 1584179854,
+        "stamp_created_by": {
+            "uuid": "0D1FFFF5-93B3-4F6D-BB8D-42EA2778969A",
+            "name_first": "Samuel",
+            "name_middle": "",
+            "name_last": "White"
+        },
+        "stamp_updated": 1584293725,
+        "stamp_updated_by": {
+            "uuid": "28F0270E-9906-4712-90F2-1236CEFA2958",
+            "name_first": "Lin",
+            "name_middle": "Unknown",
+            "name_last": "Mei"
+        }
+    }
+}
